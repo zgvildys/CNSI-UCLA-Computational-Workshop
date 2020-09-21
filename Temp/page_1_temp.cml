@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Design and Procedure</page_title>
+<text>	Section _- Page 1 - Introduction to Temperature at the Microscopic Scale
+
+	We normally think of temperature in macroscopic terms: the air temperature outside or how cold the water is at the beach. These are the 
+	temperatures of things we can directly see and feel. However, temperature is also important at the nanoscale where viruses and their capsid
+	proteins exist.
+
+	We can observe this in our simulation boxes. The box on the left shows an ensemble of capsid proteins at low temperature, while the box
+	on the right shows the same ensemble at high temperature.
+
+	What differences do you notice in the motion of the proteins between the two temperatures?
+	     
+
+		             Low Temperature                                                         High Temperature
+
+	        
+
+	Let us characterize the relation you&apos;ve observed between temperature and motion at the microscopic scale.
+
+	At the microscopic scale, temperature is proportional to the average kinetic energy of an ensemble. We can write this as T &#8733; KE, where
+	T is the temperature and KE is the kinetic energy. This means that an ensemble at a higher temperature has a larger average kinetic energy
+	while an ensemble at a lower temperature has a lower kinetic energy.
+
+	The kinetic energy is the energy of a particle due to its motion. One way of defining it is by the equation KE = &#189; mv2, where m is the
+	mass of the object and v is its velocity. Thus the faster an object is moving, the more kinetic energy it has.
+
+	Together these equations give us the relation T &#8733; v2. This means that a higher temperature means a higher average veloctiy, while a
+	lower temperature means a lower average velocity, which is exactly what the simulation boxes show us.
+</text>
+<section start="0" end="1726">
+<paragraph start="0" end="74">
+<content start="0" end="73">
+<size>24</size><family>Times New Roman</family></content>
+
+<content start="73" end="74">
+<size>53</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="74" end="75">
+<content start="74" end="75">
+<family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="75" end="213">
+<content start="75" end="213">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="213" end="354">
+<content start="213" end="354">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="354" end="371">
+<content start="354" end="371">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="371" end="372">
+<content start="371" end="372">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="372" end="509">
+<content start="372" end="509">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="509" end="568">
+<content start="509" end="568">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="568" end="569">
+<content start="568" end="569">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="569" end="661">
+<content start="569" end="661">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="661" end="668">
+<content start="661" end="666">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="666" end="667">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>800</width>
+<height>60</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="667" end="668">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="668" end="669">
+<content start="668" end="669">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="669" end="773">
+<content start="669" end="772">
+<size>20</size><family>Times New Roman</family></content>
+
+<content start="772" end="773">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="773" end="774">
+<content start="773" end="774">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="774" end="784">
+<content start="774" end="775">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="775" end="776">
+<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Page1_new$0.mml</resource><menubar>false</menubar></component></content>
+
+<content start="776" end="782">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="782" end="783">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Page1_new$1.mml</resource><menubar>false</menubar></component></content>
+
+<content start="783" end="784">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="784" end="785">
+<content start="784" end="785">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="785" end="892">
+<content start="785" end="892">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="892" end="893">
+<content start="892" end="893">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="893" end="1029">
+<content start="893" end="1015">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="1015" end="1021">
+<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
+
+<content start="1021" end="1029">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1029" end="1169">
+<content start="1029" end="1030">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="1030" end="1031">
+<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
+
+<content start="1031" end="1055">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="1055" end="1057">
+<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
+
+<content start="1057" end="1169">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1169" end="1239">
+<content start="1169" end="1239">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1239" end="1240">
+<content start="1239" end="1240">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1240" end="1376">
+<content start="1240" end="1349">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="1349" end="1358">
+<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
+
+<content start="1358" end="1359">
+<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic><superscript>true</superscript></content>
+
+<content start="1359" end="1367">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="1367" end="1368">
+<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
+
+<content start="1368" end="1376">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1376" end="1488">
+<content start="1376" end="1400">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="1400" end="1401">
+<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
+
+<content start="1401" end="1488">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1488" end="1489">
+<content start="1488" end="1489">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1489" end="1622">
+<content start="1489" end="1536">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="1536" end="1541">
+<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
+
+<content start="1541" end="1542">
+<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic><superscript>true</superscript></content>
+
+<content start="1542" end="1622">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1622" end="1725">
+<content start="1622" end="1725">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1725" end="1726">
+</paragraph>
+</section>
+</document>
