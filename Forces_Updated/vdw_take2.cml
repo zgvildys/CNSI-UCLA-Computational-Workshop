@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>wdw_update</page_title>
+<text>vdw_add_on
+
+So, we&apos;ve covered charge as the most important force that drives self-assembly. That does not mean, however, 
+that it is the only force that exists! Another force that exists between atoms is called the van der Waals force. 
+This force is much weaker than the force that exists as a result of charge, however it exists between all atoms
+all the time. When a particle is charged, while the dominant force is the one acting due to the charge, van der 
+Waals forces are still present, just much weaker. 
+
+The strength of a van der Waals force increases as the atoms and molecules present get heavier. This means 
+smaller particles (that are uncharged) experience a weaker version of this force than heavier uncharged 
+particles. You can see this below- in the simulation box there are two different types of atoms that only experience
+van der Waals forces. One set of atoms are lighter, and the others are heavier. Press play, and then increase 
+the temperature slowly. 
+
+ 
+
+ 
+</text>
+<section start="0" end="987">
+<paragraph start="0" end="11">
+<content start="0" end="11">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="11" end="12">
+<content start="11" end="12">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="12" end="122">
+<content start="12" end="122">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="122" end="237">
+<content start="122" end="237">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="237" end="349">
+<content start="237" end="349">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="349" end="462">
+<content start="349" end="462">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="462" end="513">
+<content start="462" end="513">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="513" end="514">
+<content start="513" end="514">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="514" end="622">
+<content start="514" end="622">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="622" end="727">
+<content start="622" end="727">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="727" end="844">
+<content start="727" end="844">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="844" end="955">
+<content start="844" end="955">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="955" end="980">
+<content start="955" end="980">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="980" end="981">
+<content start="980" end="981">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="981" end="983">
+<content start="981" end="982">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>vdw_take2$0.mml</resource><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
+
+<content start="982" end="983">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="983" end="984">
+<content start="983" end="984">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="984" end="986">
+<content start="984" end="985">
+<component><class>org.concord.modeler.PageMultipleChoice</class>
+<single>true</single>
+<row>3</row>
+<width>400</width>
+<height>200</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    How does the motion of the atoms change? Based on this, which atoms do you 
+    think are heavier?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<submit>true</submit>
+<choice>Blue atoms</choice>
+<choice>Pink atoms</choice>
+<choice>Same weight</choice>
+<answer>1</answer>
+<bgcolor>-111112</bgcolor>
+<script> -choiceseparator-  -choiceseparator- </script>
+</component></content>
+
+<content start="985" end="986">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="986" end="987">
+</paragraph>
+</section>
+</document>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>coulombs</page_title>
+<text>Section 1 Page 3 - The Missing Piece for Self-Assembly. 
+
+In the previous two pages, you&apos;ve seen how atoms and molecules can move around randomly 
+just by existing. But you might have been wondering why that is so important for virus self-
+assembly, especially since the motion is so random. Well, the missing piece needed to 
+understand how self-assembly can happen is to understand the interactions between atoms
+and molecules, or the forces that they exert on one another. Once you include these forces,
+the type of motion of molecules changes. It is no longer so random. One major cause of these
+forces acting between molecules is the charge on atoms and molecules. 
+
+You might have heard about charge and coulomb&apos;s law in your physics classes:
+
+ 
+
+This equation shows that there is a force acting between two charges, represented by q1 and q2. 
+If they have the same sign, then the force is positive, which means they are getting pushed apart. 
+If they have opposite signs, then the force is negative, meaning that the two charges are being pulled 
+together. 
+
+Try it yourself! Below is a box with some particles in them (or have it be some kind
+of dropping service? where you can just drop +ve and -ve particles and see what happens)-
+put some charged particles in the box and see how they behave. 
+
+ 
+
+ 
+
+There are many charged things- from incredibly small things like electrons, to atoms and even 
+whole parts of molecules! No matter what object is holding the charge, the coulomb force
+applies and either pulls together or pushes apart object of opposite or same charge respectively. 
+This force is actually what drives the self-assembly of the capsid proteins this module/workshop 
+focuseson. Notice how in the above box, when there are multiple particles with both charges 
+present, the particles tend to stick together, and they stick together in a very particular way? 
+This will be explored more later, but it&apos;s the foundation of how viruses &quot;know&quot; how to assemble 
+correctly!
+
+Now, a whole particle or molecule doesn&apos;t have to be charged! Only some parts of it might be 
+charged, or even different regions on the same molecule might even have different charge.
+
+Try it out with the molecular shapes in the box below. What happens if you give different parts 
+of the molecules different charge? Or the same charge? Remember, proteins are basically really 
+really big molecules, and they have different parts that can have different charge. 
+(*insert something about charge map of protein- pretty picture???*) 
+
+ 
+
+ 
+
+There are other kinds of forces that act between atoms and molecules, but they are much 
+weaker than coulomb forces, and so are less important for understanding how capsid proteins
+come together and form viruses! (*potential extension to talk about the diff types of forces?*)
+
+</text>
+<section start="0" end="2811">
+<paragraph start="0" end="57">
+<LeftIndent>40.0</LeftIndent>
+<content start="0" end="56">
+<size>20</size></content>
+
+<content start="56" end="57">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="57" end="58">
+<LeftIndent>40.0</LeftIndent>
+<content start="57" end="58">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="58" end="147">
+<LeftIndent>40.0</LeftIndent>
+<content start="58" end="147">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="147" end="240">
+<LeftIndent>40.0</LeftIndent>
+<content start="147" end="240">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="240" end="327">
+<LeftIndent>40.0</LeftIndent>
+<content start="240" end="327">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="327" end="415">
+<LeftIndent>40.0</LeftIndent>
+<content start="327" end="415">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="415" end="507">
+<LeftIndent>40.0</LeftIndent>
+<content start="415" end="507">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="507" end="600">
+<LeftIndent>40.0</LeftIndent>
+<content start="507" end="600">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="600" end="671">
+<LeftIndent>40.0</LeftIndent>
+<content start="600" end="671">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="671" end="672">
+<LeftIndent>40.0</LeftIndent>
+<content start="671" end="672">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="672" end="749">
+<LeftIndent>40.0</LeftIndent>
+<content start="672" end="749">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="749" end="750">
+<LeftIndent>40.0</LeftIndent>
+<content start="749" end="750">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="750" end="752">
+<LeftIndent>40.0</LeftIndent>
+<content start="750" end="751">
+<icon>Screen Shot 2020-09-10 at 10.04.46 AM.png</icon></content>
+
+<content start="751" end="752">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="752" end="753">
+<LeftIndent>40.0</LeftIndent>
+<content start="752" end="753">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="753" end="850">
+<LeftIndent>40.0</LeftIndent>
+<content start="753" end="850">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="850" end="950">
+<LeftIndent>40.0</LeftIndent>
+<content start="850" end="950">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="950" end="1054">
+<LeftIndent>40.0</LeftIndent>
+<content start="950" end="1054">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1054" end="1065">
+<LeftIndent>40.0</LeftIndent>
+<content start="1054" end="1065">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1065" end="1066">
+<LeftIndent>40.0</LeftIndent>
+<content start="1065" end="1066">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1066" end="1151">
+<LeftIndent>40.0</LeftIndent>
+<content start="1066" end="1126">
+<size>14</size></content>
+
+<content start="1126" end="1151">
+<size>14</size><italic>true</italic><foreground>255 0 0</foreground></content>
+
+</paragraph>
+<paragraph start="1151" end="1241">
+<LeftIndent>40.0</LeftIndent>
+<content start="1151" end="1239">
+<size>14</size><italic>true</italic><foreground>255 0 0</foreground></content>
+
+<content start="1239" end="1241">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1241" end="1305">
+<LeftIndent>40.0</LeftIndent>
+<content start="1241" end="1305">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1305" end="1306">
+<LeftIndent>40.0</LeftIndent>
+<content start="1305" end="1306">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1306" end="1308">
+<LeftIndent>160.0</LeftIndent>
+<content start="1306" end="1307">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>400</width>
+<height>200</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Place them far apart and see how they move towards each other- what do you 
+    notice? How might it be explained by Coulomb&apos;s law? And what is the key 
+    difference between this type of motion and plain random motion?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="1307" end="1308">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1308" end="1309">
+<LeftIndent>160.0</LeftIndent>
+<content start="1308" end="1309">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1309" end="1311">
+<LeftIndent>160.0</LeftIndent>
+<content start="1309" end="1310">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>coulomb$0.mml</resource><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Ck</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+
+<content start="1310" end="1311">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1311" end="1312">
+<LeftIndent>40.0</LeftIndent>
+<content start="1311" end="1312">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1312" end="1407">
+<LeftIndent>40.0</LeftIndent>
+<content start="1312" end="1407">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1407" end="1496">
+<LeftIndent>40.0</LeftIndent>
+<content start="1407" end="1496">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1496" end="1595">
+<LeftIndent>40.0</LeftIndent>
+<content start="1496" end="1595">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1595" end="1693">
+<LeftIndent>40.0</LeftIndent>
+<content start="1595" end="1693">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1693" end="1786">
+<LeftIndent>40.0</LeftIndent>
+<content start="1693" end="1786">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1786" end="1884">
+<LeftIndent>40.0</LeftIndent>
+<content start="1786" end="1884">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1884" end="1981">
+<LeftIndent>40.0</LeftIndent>
+<content start="1884" end="1981">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1981" end="1992">
+<LeftIndent>40.0</LeftIndent>
+<content start="1981" end="1992">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1992" end="1993">
+<LeftIndent>40.0</LeftIndent>
+<content start="1992" end="1993">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1993" end="2087">
+<LeftIndent>40.0</LeftIndent>
+<content start="1993" end="2087">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2087" end="2177">
+<LeftIndent>40.0</LeftIndent>
+<content start="2087" end="2177">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2177" end="2178">
+<LeftIndent>40.0</LeftIndent>
+<content start="2177" end="2178">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2178" end="2275">
+<LeftIndent>40.0</LeftIndent>
+<content start="2178" end="2275">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2275" end="2371">
+<LeftIndent>40.0</LeftIndent>
+<content start="2275" end="2371">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2371" end="2456">
+<LeftIndent>40.0</LeftIndent>
+<content start="2371" end="2456">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2456" end="2525">
+<LeftIndent>40.0</LeftIndent>
+<content start="2456" end="2523">
+<size>14</size><foreground>255 0 0</foreground></content>
+
+<content start="2523" end="2525">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2525" end="2526">
+<LeftIndent>40.0</LeftIndent>
+<content start="2525" end="2526">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2526" end="2528">
+<LeftIndent>180.0</LeftIndent>
+<content start="2526" end="2527">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>coulomb$1.mml</resource><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Rectangular Molecular Ribbon</button><button>Add Rectangular Molecular Surface</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+
+<content start="2527" end="2528">
+</content>
+
+</paragraph>
+<paragraph start="2528" end="2529">
+<LeftIndent>40.0</LeftIndent>
+<content start="2528" end="2529">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2529" end="2531">
+<LeftIndent>180.0</LeftIndent>
+<content start="2529" end="2530">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>400</width>
+<height>200</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Describe how the molecules above are moving when you put different charges 
+    at different places. Try putting different charges in different places- 
+    does that change how the molecules behave? Why do you think that is?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="2530" end="2531">
+</content>
+
+</paragraph>
+<paragraph start="2531" end="2532">
+<LeftIndent>180.0</LeftIndent>
+<content start="2531" end="2532">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2532" end="2621">
+<LeftIndent>40.0</LeftIndent>
+<content start="2532" end="2621">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2621" end="2713">
+<LeftIndent>40.0</LeftIndent>
+<content start="2621" end="2713">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2713" end="2809">
+<LeftIndent>40.0</LeftIndent>
+<content start="2713" end="2745">
+<size>14</size></content>
+
+<content start="2745" end="2808">
+<size>14</size><foreground>255 0 0</foreground></content>
+
+<content start="2808" end="2809">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2809" end="2810">
+<LeftIndent>40.0</LeftIndent>
+<content start="2809" end="2810">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2810" end="2811">
+</paragraph>
+</section>
+</document>
