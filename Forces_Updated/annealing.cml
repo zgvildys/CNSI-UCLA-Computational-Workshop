@@ -35,6 +35,8 @@
 
 	 
 
+		 
+
 	   
 	    
 
@@ -65,6 +67,8 @@
 	to do it and have them decide on that, or direct them to do things and ask them what happens and why)
 
 	 
+	 
+	
 
 	  
 	  
@@ -75,7 +79,7 @@
 	down again in the way that matches your best attempt above, and see if that gets you to a better structure!
 
 </text>
-<section start="0" end="5238">
+<section start="0" end="5248">
 <paragraph start="0" end="71">
 <content start="0" end="70">
 <size>20</size></content>
@@ -189,10 +193,7 @@
 
 </paragraph>
 <paragraph start="1482" end="1595">
-<content start="1482" end="1493">
-<size>14</size></content>
-
-<content start="1493" end="1595">
+<content start="1482" end="1595">
 <size>14</size></content>
 
 </paragraph>
@@ -207,10 +208,7 @@
 
 </paragraph>
 <paragraph start="1623" end="1743">
-<content start="1623" end="1730">
-<size>14</size></content>
-
-<content start="1730" end="1743">
+<content start="1623" end="1743">
 <size>14</size></content>
 
 </paragraph>
@@ -225,10 +223,7 @@
 
 </paragraph>
 <paragraph start="1822" end="1944">
-<content start="1822" end="1930">
-<size>14</size></content>
-
-<content start="1930" end="1944">
+<content start="1822" end="1944">
 <size>14</size></content>
 
 </paragraph>
@@ -261,19 +256,48 @@
 <resource>annealing$0.mml</resource><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
 
 <content start="2108" end="2109">
-<size>14</size></content>
+</content>
 
 </paragraph>
 <paragraph start="2109" end="2110">
 <content start="2109" end="2110">
+</content>
+
+</paragraph>
+<paragraph start="2110" end="2114">
+<content start="2110" end="2112">
+</content>
+
+<content start="2112" end="2113">
+<component><class>org.concord.modeler.PageSlider</class>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<value>2450.0</value>
+<minimum>500.0</minimum>
+<maximum>25000.0</maximum>
+<nstep>10</nstep>
+<title>Temperature</title>
+<width>400</width>
+<height>100</height>
+<opaque>false</opaque>
+<tick>true</tick>
+<change>Temperature</change>
+</component></content>
+
+<content start="2113" end="2114">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2110" end="2115">
-<content start="2110" end="2111">
+<paragraph start="2114" end="2115">
+<content start="2114" end="2115">
 <size>14</size></content>
 
-<content start="2111" end="2112">
+</paragraph>
+<paragraph start="2115" end="2120">
+<content start="2115" end="2116">
+<size>14</size></content>
+
+<content start="2116" end="2117">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -285,10 +309,10 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="2112" end="2113">
+<content start="2117" end="2118">
 <size>14</size></content>
 
-<content start="2113" end="2114">
+<content start="2118" end="2119">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -300,15 +324,15 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="2114" end="2115">
+<content start="2119" end="2120">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2115" end="2121">
-<content start="2115" end="2116">
+<paragraph start="2120" end="2126">
+<content start="2120" end="2121">
 <size>14</size></content>
 
-<content start="2116" end="2117">
+<content start="2121" end="2122">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -320,10 +344,10 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="2117" end="2119">
+<content start="2122" end="2124">
 <size>14</size></content>
 
-<content start="2119" end="2120">
+<content start="2124" end="2125">
 <size>14</size><component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -340,167 +364,199 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="2120" end="2121">
+<content start="2125" end="2126">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2121" end="2122">
-<content start="2121" end="2122">
+<paragraph start="2126" end="2127">
+<content start="2126" end="2127">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2122" end="2251">
-<content start="2122" end="2251">
+<paragraph start="2127" end="2256">
+<content start="2127" end="2256">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2251" end="2378">
-<content start="2251" end="2378">
+<paragraph start="2256" end="2383">
+<content start="2256" end="2383">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2378" end="2506">
-<content start="2378" end="2506">
+<paragraph start="2383" end="2511">
+<content start="2383" end="2511">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2506" end="2628">
-<content start="2506" end="2628">
+<paragraph start="2511" end="2633">
+<content start="2511" end="2633">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2628" end="2744">
-<content start="2628" end="2744">
+<paragraph start="2633" end="2749">
+<content start="2633" end="2749">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2744" end="2873">
-<content start="2744" end="2873">
+<paragraph start="2749" end="2878">
+<content start="2749" end="2878">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2873" end="3002">
-<content start="2873" end="3002">
+<paragraph start="2878" end="3007">
+<content start="2878" end="3007">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3002" end="3128">
-<content start="3002" end="3128">
+<paragraph start="3007" end="3133">
+<content start="3007" end="3133">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3128" end="3253">
-<content start="3128" end="3253">
+<paragraph start="3133" end="3258">
+<content start="3133" end="3258">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3253" end="3385">
-<content start="3253" end="3385">
+<paragraph start="3258" end="3390">
+<content start="3258" end="3390">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3385" end="3454">
-<content start="3385" end="3454">
+<paragraph start="3390" end="3459">
+<content start="3390" end="3459">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3454" end="3455">
-<content start="3454" end="3455">
+<paragraph start="3459" end="3460">
+<content start="3459" end="3460">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3455" end="3582">
-<content start="3455" end="3582">
+<paragraph start="3460" end="3587">
+<content start="3460" end="3587">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3582" end="3711">
-<content start="3582" end="3711">
+<paragraph start="3587" end="3716">
+<content start="3587" end="3716">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3711" end="3802">
-<content start="3711" end="3802">
+<paragraph start="3716" end="3807">
+<content start="3716" end="3807">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3802" end="3803">
-<content start="3802" end="3803">
+<paragraph start="3807" end="3808">
+<content start="3807" end="3808">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3803" end="3936">
-<content start="3803" end="3936">
+<paragraph start="3808" end="3941">
+<content start="3808" end="3941">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="3936" end="4064">
-<content start="3936" end="4064">
+<paragraph start="3941" end="4069">
+<content start="3941" end="4069">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4064" end="4199">
-<content start="4064" end="4199">
+<paragraph start="4069" end="4204">
+<content start="4069" end="4204">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4199" end="4260">
-<content start="4199" end="4260">
+<paragraph start="4204" end="4265">
+<content start="4204" end="4265">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4260" end="4261">
-<content start="4260" end="4261">
+<paragraph start="4265" end="4266">
+<content start="4265" end="4266">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4261" end="4393">
-<content start="4261" end="4393">
+<paragraph start="4266" end="4398">
+<content start="4266" end="4398">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4393" end="4526">
-<content start="4393" end="4526">
+<paragraph start="4398" end="4531">
+<content start="4398" end="4531">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4526" end="4654">
-<content start="4526" end="4654">
+<paragraph start="4531" end="4659">
+<content start="4531" end="4659">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4654" end="4757">
-<content start="4654" end="4757">
+<paragraph start="4659" end="4762">
+<content start="4659" end="4762">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4757" end="4758">
-<content start="4757" end="4758">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4758" end="4761">
-<content start="4758" end="4759">
-<size>14</size></content>
-
-<content start="4759" end="4760">
-<size>14</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>annealing$1.mml</resource><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
-
-<content start="4760" end="4761">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4761" end="4762">
-<content start="4761" end="4762">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4762" end="4766">
+<paragraph start="4762" end="4763">
 <content start="4762" end="4763">
 <size>14</size></content>
 
+</paragraph>
+<paragraph start="4763" end="4766">
 <content start="4763" end="4764">
+<size>14</size></content>
+
+<content start="4764" end="4765">
+<size>14</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>annealing$1.mml</resource><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
+
+<content start="4765" end="4766">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="4766" end="4769">
+<content start="4766" end="4767">
+<size>14</size></content>
+
+<content start="4767" end="4768">
+<component><class>org.concord.modeler.PageSlider</class>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>1</model>
+<value>4800.0</value>
+<minimum>1000.0</minimum>
+<maximum>25000.0</maximum>
+<nstep>10</nstep>
+<title>Temperature</title>
+<width>400</width>
+<height>100</height>
+<opaque>false</opaque>
+<tick>true</tick>
+<change>Temperature</change>
+</component></content>
+
+<content start="4768" end="4769">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="4769" end="4771">
+<content start="4769" end="4770">
+<size>14</size></content>
+
+<content start="4770" end="4771">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="4771" end="4772">
+<content start="4771" end="4772">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="4772" end="4776">
+<content start="4772" end="4773">
+<size>14</size></content>
+
+<content start="4773" end="4774">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -512,7 +568,7 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="4764" end="4765">
+<content start="4774" end="4775">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -524,15 +580,15 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="4765" end="4766">
+<content start="4775" end="4776">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4766" end="4770">
-<content start="4766" end="4767">
+<paragraph start="4776" end="4780">
+<content start="4776" end="4777">
 <size>14</size></content>
 
-<content start="4767" end="4768">
+<content start="4777" end="4778">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -544,7 +600,7 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="4768" end="4769">
+<content start="4778" end="4779">
 <size>14</size><component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -560,44 +616,44 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="4769" end="4770">
+<content start="4779" end="4780">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4770" end="4771">
-<content start="4770" end="4771">
+<paragraph start="4780" end="4781">
+<content start="4780" end="4781">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4771" end="4891">
-<content start="4771" end="4891">
+<paragraph start="4781" end="4901">
+<content start="4781" end="4901">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4891" end="5005">
-<content start="4891" end="5005">
+<paragraph start="4901" end="5015">
+<content start="4901" end="5015">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="5005" end="5127">
-<content start="5005" end="5127">
+<paragraph start="5015" end="5137">
+<content start="5015" end="5137">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="5127" end="5236">
-<content start="5127" end="5235">
+<paragraph start="5137" end="5246">
+<content start="5137" end="5245">
 <size>14</size></content>
 
-<content start="5235" end="5236">
+<content start="5245" end="5246">
 </content>
 
 </paragraph>
-<paragraph start="5236" end="5237">
-<content start="5236" end="5237">
+<paragraph start="5246" end="5247">
+<content start="5246" end="5247">
 </content>
 
 </paragraph>
-<paragraph start="5237" end="5238">
+<paragraph start="5247" end="5248">
 </paragraph>
 </section>
 </document>

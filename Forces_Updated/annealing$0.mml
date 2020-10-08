@@ -334,7 +334,7 @@
    <void method="put">
     <string>date</string>
     <object class="java.util.Date">
-     <long>1601576252000</long>
+     <long>1602191820000</long>
     </object>
    </void>
    <void method="put">
@@ -343,7 +343,7 @@
    </void>
    <void method="put">
     <string>size</string>
-    <long>523338</long>
+    <long>523318</long>
    </void>
    <void method="put">
     <string>codebase</string>
@@ -370,9 +370,6 @@
  <object class="org.concord.mw2d.AtomisticView$State">
   <void property="colorCode">
    <string>None</string>
-  </void>
-  <void property="energizer">
-   <boolean>true</boolean>
   </void>
   <void property="molecularObjectColors">
    <array class="java.awt.Color" length="52">
