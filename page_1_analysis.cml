@@ -91,10 +91,10 @@
       2. Assemble a square structure.
     &lt;/p&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      3. Assemble an inverted triangle.
+      3. Assemble a shape of your own design.
     &lt;/p&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      When finished, place a screenshot of your structure the boxes below the 
+      When finished, place a snapshot of your structure the boxes below the 
       simulation box.
     &lt;/p&gt;
   &lt;/body&gt;
@@ -122,26 +122,25 @@
         Choose one of the three structures above.
       &lt;/li&gt;
       &lt;li&gt;
-        Using the move tool (&lt;img src=&quot;select.gif&quot;&gt;), drag the molecules 
+        Using the move tool (&lt;img src=&quot;move_tool.png&quot;&gt;), drag the molecules 
         you&apos;ll need out of their boxes on the left side of the model.
       &lt;/li&gt;
       &lt;li&gt;
-        Using the charge tools (&lt;img src=&quot;addPositiveCharge.gif&quot;&gt; and &lt;img src=&quot;addNegativeCharge.gif&quot;&gt;), 
+        Using the charge tools (&lt;img src=&quot;pos_charge_tool.png&quot;&gt; and &lt;img src=&quot;neg_charge_tool.png&quot;&gt;), 
         add charges around the edges of the molecules. (Tip: If the charges 
         will be the same for a shape. Sometimes it is easier to add the 
         charges before copying them outside their box)
       &lt;/li&gt;
       &lt;li&gt;
-        Using the duplicate tool (&lt;img src=&quot;duplicate.gif&quot;&gt;), make several 
-        copies of each molecule.
+        Using the duplicate tool (&lt;img src=&quot;duplicate_tool.png&quot;&gt;), make 
+        several copies of each molecule.
       &lt;/li&gt;
       &lt;li&gt;
         Take a snapshot when your stucture has assembled itself.
       &lt;/li&gt;
       &lt;li&gt;
-        Press the reset button to start again. Try out another of the 
-        examples, or invent your own. Make at least three different 
-        self-assembling structures, and take a snapshot of each.
+        Press the reset button to start again. Repeat for each of the 
+        structures above.
       &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/body&gt;
@@ -152,7 +151,7 @@
 
 <content start="34" end="35">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>page_1_analysis$0.mml</resource><button>Select Object</button><button>What's This?</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+<resource>page_1_analysis$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Duplicate Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button></component></content>
 
 <content start="35" end="36">
 </content>
