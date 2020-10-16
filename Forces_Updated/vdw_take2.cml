@@ -18,9 +18,11 @@ the temperature slowly.
 
  
 
- 
+  
+
+  
 </text>
-<section start="0" end="987">
+<section start="0" end="992">
 <paragraph start="0" end="11">
 <content start="0" end="11">
 <size>14</size></content>
@@ -105,7 +107,7 @@ the temperature slowly.
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="984" end="986">
+<paragraph start="984" end="987">
 <content start="984" end="985">
 <component><class>org.concord.modeler.PageMultipleChoice</class>
 <single>true</single>
@@ -132,10 +134,52 @@ the temperature slowly.
 </component></content>
 
 <content start="985" end="986">
+<component><class>org.concord.modeler.PageSlider</class>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<value>3599.9999999999995</value>
+<minimum>0.0</minimum>
+<maximum>15000.0</maximum>
+<nstep>50</nstep>
+<title>Temperature</title>
+<width>200</width>
+<height>60</height>
+<opaque>false</opaque>
+<tick>true</tick>
+<change>Temperature</change>
+</component></content>
+
+<content start="986" end="987">
+</content>
+
+</paragraph>
+<paragraph start="987" end="988">
+<content start="987" end="988">
+</content>
+
+</paragraph>
+<paragraph start="988" end="991">
+<content start="988" end="989">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>vdw_take2$1.mml</resource><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
+
+<content start="989" end="990">
+<component><class>org.concord.modeler.PageButton</class>
+<title>heat</title>
+<tooltip></tooltip>
+<border>Line</border>
+<opaque>false</opaque>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<script>heat</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="990" end="991">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="986" end="987">
+<paragraph start="991" end="992">
 </paragraph>
 </section>
 </document>

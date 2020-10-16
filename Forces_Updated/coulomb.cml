@@ -44,7 +44,7 @@ charged, or even different regions on the same molecule might even have differen
 Try it out with the molecular shapes in the box below. What happens if you give different parts 
 of the molecules different charge? Or the same charge? Remember, proteins are basically really 
 really big molecules, and they have different parts that can have different charge. 
-(*insert something about charge map of protein- pretty picture???*) 
+(*insert something about charge map of protein- pretty picture???- someone with more protein knowledge suggest*) 
 
  
 
@@ -55,7 +55,7 @@ weaker than coulomb forces, and so are less important for understanding how caps
 come together and form viruses! (*potential extension to talk about the diff types of forces?*)
 
 </text>
-<section start="0" end="2811">
+<section start="0" end="2856">
 <paragraph start="0" end="57">
 <LeftIndent>40.0</LeftIndent>
 <content start="0" end="56">
@@ -342,40 +342,40 @@ come together and form viruses! (*potential extension to talk about the diff typ
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2456" end="2525">
+<paragraph start="2456" end="2570">
 <LeftIndent>40.0</LeftIndent>
-<content start="2456" end="2523">
+<content start="2456" end="2568">
 <size>14</size><foreground>255 0 0</foreground></content>
 
-<content start="2523" end="2525">
+<content start="2568" end="2570">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2525" end="2526">
+<paragraph start="2570" end="2571">
 <LeftIndent>40.0</LeftIndent>
-<content start="2525" end="2526">
+<content start="2570" end="2571">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2526" end="2528">
+<paragraph start="2571" end="2573">
 <LeftIndent>180.0</LeftIndent>
-<content start="2526" end="2527">
+<content start="2571" end="2572">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>coulomb$1.mml</resource><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Rectangular Molecular Ribbon</button><button>Add Rectangular Molecular Surface</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+<resource>coulomb$1.mml</resource><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
 
-<content start="2527" end="2528">
+<content start="2572" end="2573">
 </content>
 
 </paragraph>
-<paragraph start="2528" end="2529">
+<paragraph start="2573" end="2574">
 <LeftIndent>40.0</LeftIndent>
-<content start="2528" end="2529">
+<content start="2573" end="2574">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2529" end="2531">
+<paragraph start="2574" end="2576">
 <LeftIndent>180.0</LeftIndent>
-<content start="2529" end="2530">
+<content start="2574" end="2575">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -393,47 +393,46 @@ come together and form viruses! (*potential extension to talk about the diff typ
 <opaque>false</opaque>
 </component></content>
 
-<content start="2530" end="2531">
+<content start="2575" end="2576">
 </content>
 
 </paragraph>
-<paragraph start="2531" end="2532">
+<paragraph start="2576" end="2577">
 <LeftIndent>180.0</LeftIndent>
-<content start="2531" end="2532">
+<content start="2576" end="2577">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2532" end="2621">
+<paragraph start="2577" end="2666">
 <LeftIndent>40.0</LeftIndent>
-<content start="2532" end="2621">
+<content start="2577" end="2666">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2621" end="2713">
+<paragraph start="2666" end="2758">
 <LeftIndent>40.0</LeftIndent>
-<content start="2621" end="2713">
+<content start="2666" end="2758">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2713" end="2809">
+<paragraph start="2758" end="2854">
 <LeftIndent>40.0</LeftIndent>
-<content start="2713" end="2745">
+<content start="2758" end="2790">
 <size>14</size></content>
 
-<content start="2745" end="2808">
+<content start="2790" end="2853">
 <size>14</size><foreground>255 0 0</foreground></content>
 
-<content start="2808" end="2809">
+<content start="2853" end="2854">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2809" end="2810">
-<LeftIndent>40.0</LeftIndent>
-<content start="2809" end="2810">
+<paragraph start="2854" end="2855">
+<content start="2854" end="2855">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2810" end="2811">
+<paragraph start="2855" end="2856">
 </paragraph>
 </section>
 </document>
