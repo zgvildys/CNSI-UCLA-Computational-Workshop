@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Page 4 analysis (Virus Symmetry)</page_title>
+<text>Symmetry of Viruses
+How does self-assembly pertain to viruses?
+Next -&gt;
+Basic Background of Viruses and Self-assembly
+
+ 
+
+The most basic viruses consist of two main components:
+1) Genetic material such as RNA or DNA
+2) A protein shell that protects and delivers the genetic material or &quot;cargo&quot;
+One question you could ask is &quot;how do viruses put themselves together?&quot;. In the macroscopic world we build things with tools and hold them together with adhesives, nails, screws ect. In the nano-world, there are no tools to &quot;build&quot; these structures. Thus most viruses must spontaneously self-assemble. As you may have heard in your chemistry or physics courses, for something to spontanously happen, it must increase the entropy of the universe! By doing so, the structures lower the energy (or more specifically, the free energy) of the system. This means assembly of the structure does not require any energy to be built. This is part of the reason why viruses are so effective at replicating themselves inside their hosts.
+
+When viruses get into a host cell, they disassemble and release their genome (and what ever else they may be carrying!) into the cell. The host cell&apos;s own machinery (like ribosomes for example) is then often used to replicate the proteins and genetic material of the viruses. For the simplest viruses, such as cowpea chlorotic mottle virus (CCMV), this only requires synthesis of as little as four proteins, only one of which is in the assembled virus particle. The coat protein, which makes up the viral capsid/shell, is an irregularly shaped protein. These proteins then bind to themselves and the genome and form other shapes, such as pentamers and hexamers which then form higher order structures like the icosahedron discussed in the next section. These &quot;bonds&quot; between proteins are non-covalent and thus reversible. This means that the formed capsid is only metastable, or temporarily stable. This is important for the life cycle of the virus as it needs to not only store and protect its genome, but also release it into its host.
+
+
+Symmetry in Viruses
+ 
+
+Symmetry is ubiquitous in nature. What we mean by symmetry here, is in mathematical terms. That is that the structure does not change (or is invariant) under certain changes (or operations). To state it simply, the structure remains the same if we were to say rotate by ninety degrees, or perhaps if we reflect it like a mirror image. For example, in the image of the star below, roation by 72 degrees gives the same star started with. Symmetry often shows up in nature because symmetry often corresponds with lower energy structures. In other words, it is easier to make something symmetric than it is to make something asymmetric. The more operations we can perform and leave the structure invariant, the higher the symmetry of the object. 
+
+ 
+
+There are multiple symmetries we see in viruses such as helical, icosahedral and prolate. For example, helical symmetry is seen in Coronaviruses like COVID-19 in the ordering of the nucleic acid-protein complex inside the capsid. However, most often we see icosahedral symmetry, one of the highest possible symmetry groups. The rotating box at the top of the section is an image of an icosahedron. An icosahedron has 20 triangular faces (and thus 20 3-fold verticies), 12 pentagonal faces (12 5-fold verticies) and 2-fold verticies along the edges. A 5-fold vertex, for example, here means you can rotate the structure 360/5 = 72 degrees and the structure remains the same. So there are many different operations you can perform that leave the icosahedron invariant. The origin of this symmetry in viruses and specific assembly pathways to the icosahedron is still a popular research topic today and computational models, like the ones you guys have been exploring, have been paramount in broadening our understanding of viruses. For the remaining excercises we will be exploring how these symmetries can show up in viruses that have different types of genomes and even in different sized viruses.
+
+
+Introduction of the T Number
+
+ 
+
+
+Earlier, we mentioned that the coat protein is often an irregularily shaped object. Shown above is a picture of a potential monomeric unit of a capsid protein (CCMV). What is probably obvious is that the protein subunit is not symmetrical. So then how can irregularly shaped objects come together to form such high symmetry particles? Work done by Watson and Crick, the same scientists who helped undercover the helical nature of DNA, found that all round (icosahedral capsids) viruses had multiples of 60 of the coat protein. That is they had 60,120,180,..ect. identical subunits in the virus. Experiments also observed that though the round viruses came in many different sizes, the size of the monomeric coat proteins for the different viruses were roughly the same. In the early 1960s, scientists Donald Caspar and Aaron Klug forumlated the number and arrangement of monomers could be in an icosahedral shell called the &quot;quasi-equivalence&quot; principle. The identical monomers (or subunits) combine in three inequivalent positions (represented on the figure below as the number 6 inside the triangles) to form pentamers and hexamers. These structure can be described by two indicies, h and k, such that starting from the edge of a pentamer taking h steps and turning 60 degrees counterclockwise and taking k steps to get to the next pentamer. The process is illustrated below.
+ 
+
+ 
+
+The b and a vectors here represent what we would call the unit vectors along the h and k axises. The triangulation number, which represents these quasi-equivalent icosahedral structures, is given by.
+
+ 
+The total number of protein subunits in the icosahedral shell is T times 60. The smallest T number possible is a T=1 structure, which corresponds to the triangular monomer being one of the triangles on a triangular lattice.
+
+For the following triangle, what is the T number, and how many protein subunits are in the complete icosahedron?
+ 
+
+ 
+
+
+</text>
+<section start="0" end="5997">
+<paragraph start="0" end="20">
+<Alignment>1</Alignment>
+<content start="0" end="20">
+<size>56</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="20" end="63">
+<Alignment>1</Alignment>
+<content start="20" end="63">
+<size>25</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="63" end="71">
+<Alignment>1</Alignment>
+<content start="63" end="70">
+<size>25</size><family>Times New Roman</family><href>Analysis_p3.cml</href></content>
+
+<content start="70" end="71">
+<size>25</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="71" end="117">
+<content start="71" end="116">
+<size>25</size><family>Times New Roman</family><underline>true</underline></content>
+
+<content start="116" end="117">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="117" end="118">
+<content start="117" end="118">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="118" end="120">
+<Alignment>1</Alignment>
+<content start="118" end="119">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>600.0</width>
+<height>400.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/coronavirus_image.jpg&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="119" end="120">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="120" end="121">
+<content start="120" end="121">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="121" end="176">
+<content start="121" end="176">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="176" end="215">
+<content start="176" end="215">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="215" end="293">
+<content start="215" end="293">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="293" end="1019">
+<content start="293" end="566">
+<size>20</size><family>Times New Roman</family></content>
+
+<content start="566" end="579">
+<size>20</size><family>Times New Roman</family><underline>true</underline></content>
+
+<content start="579" end="767">
+<size>20</size><family>Times New Roman</family></content>
+
+<content start="767" end="772">
+<size>20</size><family>Times New Roman</family><bold>true</bold></content>
+
+<content start="772" end="1019">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1019" end="1020">
+<content start="1019" end="1020">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1020" end="2058">
+<content start="1020" end="2058">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="2058" end="2059">
+<content start="2058" end="2059">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="2059" end="2060">
+<content start="2059" end="2060">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="2060" end="2080">
+<content start="2060" end="2080">
+<size>25</size><family>Times New Roman</family><underline>true</underline></content>
+
+</paragraph>
+<paragraph start="2080" end="2082">
+<Alignment>1</Alignment>
+<content start="2080" end="2081">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>450.0</width>
+<height>400.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/symmetry gif.gif&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="2081" end="2082">
+<size>25</size><family>Times New Roman</family><underline>true</underline></content>
+
+</paragraph>
+<paragraph start="2082" end="2083">
+<content start="2082" end="2083">
+<size>25</size><family>Times New Roman</family><underline>true</underline></content>
+
+</paragraph>
+<paragraph start="2083" end="2826">
+<content start="2083" end="2826">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="2826" end="2827">
+<content start="2826" end="2827">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="2827" end="2829">
+<Alignment>1</Alignment>
+<content start="2827" end="2828">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>400.0</width>
+<height>200.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/symmetry_gif.png&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="2828" end="2829">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="2829" end="2830">
+<content start="2829" end="2830">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="2830" end="4028">
+<content start="2830" end="4028">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="4028" end="4029">
+<content start="4028" end="4029">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="4029" end="4030">
+<content start="4029" end="4030">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="4030" end="4059">
+<content start="4030" end="4059">
+<size>25</size><family>Times New Roman</family><underline>true</underline></content>
+
+</paragraph>
+<paragraph start="4059" end="4060">
+<content start="4059" end="4060">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="4060" end="4062">
+<Alignment>1</Alignment>
+<content start="4060" end="4061">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>1000.0</width>
+<height>750.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/dimer.png&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="4061" end="4062">
+<size>20</size><family>Times New Roman</family><foreground>255 0 0</foreground></content>
+
+</paragraph>
+<paragraph start="4062" end="4063">
+<content start="4062" end="4063">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="4063" end="4064">
+<content start="4063" end="4064">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="4064" end="5442">
+<content start="4064" end="5442">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5442" end="5444">
+<Alignment>1</Alignment>
+<content start="5442" end="5443">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>1500.0</width>
+<height>600.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/Two_T_number_icosahedrons.png&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="5443" end="5444">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5444" end="5445">
+<content start="5444" end="5445">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5445" end="5447">
+<Alignment>1</Alignment>
+<content start="5445" end="5446">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>800.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/T number illustrated.png&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="5446" end="5447">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5447" end="5448">
+<content start="5447" end="5448">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5448" end="5648">
+<content start="5448" end="5648">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5648" end="5649">
+<content start="5648" end="5649">
+</content>
+
+</paragraph>
+<paragraph start="5649" end="5651">
+<Alignment>1</Alignment>
+<content start="5649" end="5650">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>600.0</width>
+<height>200.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/T_number_equation.PNG&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="5650" end="5651">
+</content>
+
+</paragraph>
+<paragraph start="5651" end="5875">
+<content start="5651" end="5875">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5875" end="5876">
+<content start="5875" end="5876">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5876" end="5989">
+<content start="5876" end="5989">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5989" end="5991">
+<Alignment>1</Alignment>
+<content start="5989" end="5990">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>400.0</width>
+<height>200.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/T_number_problem.png&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="5990" end="5991">
+</content>
+
+</paragraph>
+<paragraph start="5991" end="5992">
+<Alignment>1</Alignment>
+<content start="5991" end="5992">
+</content>
+
+</paragraph>
+<paragraph start="5992" end="5994">
+<Alignment>1</Alignment>
+<content start="5992" end="5993">
+<component><class>org.concord.modeler.PageTextField</class>
+<width>400</width>
+<height>60</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    What is the T number for the triangle drawn on the lattice above?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<description>T =  13</description>
+<opaque>false</opaque>
+</component></content>
+
+<content start="5993" end="5994">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5994" end="5995">
+<content start="5994" end="5995">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5995" end="5996">
+<content start="5995" end="5996">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5996" end="5997">
+</paragraph>
+</section>
+</document>

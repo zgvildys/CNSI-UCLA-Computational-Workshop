@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>brownian_motion</page_title>
+<text>Section 1 - Page 1 - Brownian Motion
+
+Next -&gt;
+Before we can start to understand how viruses can assemble themselved, we need to understand how atoms and small molecules 
+behave on their own. The atoms and molecules that everything is made of are constantly moving. If there are very few atoms present, 
+they have quite predicable motion. For instance, in the box below, there is a single particle. Click &quot;play&quot;, and observe how the particle 
+moves. 
+ 
+
+*insert some kind of question box here*
+Describe here how the particle moves. Is there anything that you&apos;ve seen that behaves like this? (try to get them to think of billiards
+or an air hockey puck or something like that). What are the two main ways the particle moves? (Straight lines, and bouncing off of 
+the walls.)
+
+ 
+
+The type of motion you saw with the single particle model above is what scientists call &quot;ballistic motion&quot;. It&apos;s reminiscent of how 
+billiard balls move! Essentially, the particles move in straight lines until they collide with something else, causing them to change 
+direction. This is the kind of motion that underlies the movement of particles, even the ones that drive processes like self-assembly, 
+which you will explore in more detail in the rest of this module. However, this &quot;simple&quot; type of motion gets much more complicated 
+as you start to look at more and more particles that are in the same space.
+
+You can see this easily even by just looking at up to 10s of particles. In the box below, there are many more particles. Before you press play, 
+take a moment to think about how you think the systm wil behave and why, and describe it here. *insert answer box*
+
+Now press play. Doesn&apos;t the particle mtion look much more chaotic and random? You can also mark a single atom, and show it&apos;s trajectory. 
+Wait a little bit, then pause the system, and look at the path of the trajectory. 
+
+ 
+
+ </text>
+<section start="0" end="1878">
+<paragraph start="0" end="37">
+<LeftIndent>60.0</LeftIndent>
+<content start="0" end="36">
+<size>20</size></content>
+
+<content start="36" end="37">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="37" end="38">
+<LeftIndent>60.0</LeftIndent>
+<content start="37" end="38">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="38" end="46">
+<LeftIndent>60.0</LeftIndent>
+<content start="38" end="45">
+<size>14</size><href>Forces_p2.cml</href></content>
+
+<content start="45" end="46">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="46" end="170">
+<LeftIndent>60.0</LeftIndent>
+<content start="46" end="170">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="170" end="303">
+<LeftIndent>60.0</LeftIndent>
+<content start="170" end="303">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="303" end="442">
+<LeftIndent>60.0</LeftIndent>
+<content start="303" end="442">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="442" end="450">
+<LeftIndent>60.0</LeftIndent>
+<content start="442" end="450">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="450" end="452">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="450" end="451">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p1$0.mml</resource><button>Change Velocity</button></component></content>
+
+<content start="451" end="452">
+</content>
+
+</paragraph>
+<paragraph start="452" end="453">
+<LeftIndent>60.0</LeftIndent>
+<content start="452" end="453">
+</content>
+
+</paragraph>
+<paragraph start="453" end="493">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="453" end="492">
+<bold>true</bold><italic>true</italic><underline>true</underline></content>
+
+<content start="492" end="493">
+</content>
+
+</paragraph>
+<paragraph start="493" end="629">
+<LeftIndent>60.0</LeftIndent>
+<content start="493" end="629">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="629" end="761">
+<LeftIndent>60.0</LeftIndent>
+<content start="629" end="761">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="761" end="773">
+<LeftIndent>60.0</LeftIndent>
+<content start="761" end="773">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="773" end="774">
+<LeftIndent>60.0</LeftIndent>
+<content start="773" end="774">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="774" end="776">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="774" end="775">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>400</width>
+<height>200</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Describe heere what the particle movement looks like. Are there any analogies to real-world behavior that you can think of?&lt;/title&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Describe here what the particle movement looks like. Are there any 
+    analogies to real-world behavior that you can think of?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="775" end="776">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="776" end="777">
+<LeftIndent>60.0</LeftIndent>
+<content start="776" end="777">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="777" end="910">
+<LeftIndent>60.0</LeftIndent>
+<content start="777" end="910">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="910" end="1045">
+<LeftIndent>60.0</LeftIndent>
+<content start="910" end="1045">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1045" end="1181">
+<LeftIndent>60.0</LeftIndent>
+<content start="1045" end="1181">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1181" end="1313">
+<LeftIndent>60.0</LeftIndent>
+<content start="1181" end="1313">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1313" end="1389">
+<LeftIndent>60.0</LeftIndent>
+<content start="1313" end="1389">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1389" end="1390">
+<LeftIndent>60.0</LeftIndent>
+<content start="1389" end="1390">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1390" end="1535">
+<LeftIndent>60.0</LeftIndent>
+<content start="1390" end="1535">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1535" end="1650">
+<LeftIndent>60.0</LeftIndent>
+<content start="1535" end="1650">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1650" end="1651">
+<LeftIndent>60.0</LeftIndent>
+<content start="1650" end="1651">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1651" end="1789">
+<LeftIndent>60.0</LeftIndent>
+<content start="1651" end="1789">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1789" end="1872">
+<LeftIndent>60.0</LeftIndent>
+<content start="1789" end="1872">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1872" end="1873">
+<LeftIndent>60.0</LeftIndent>
+<content start="1872" end="1873">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1873" end="1875">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="1873" end="1874">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>400</width>
+<height>200</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    What does the trajectory look like compared to the previous box? How do 
+    you think the trajectory would change if you added even more particles?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="1874" end="1875">
+</content>
+
+</paragraph>
+<paragraph start="1875" end="1876">
+<LeftIndent>60.0</LeftIndent>
+<content start="1875" end="1876">
+</content>
+
+</paragraph>
+<paragraph start="1876" end="1878">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="1876" end="1877">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p1$1.mml</resource><button>Mark Object</button><button>Toggle Trajectory</button></component></content>
+
+</paragraph>
+</section>
+</document>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>brownian2</page_title>
+<text>Section 1 Page 2- Brownian Motion and larger molecules
+
+Next -&gt;
+The previous page introduced you to how single small particles undergo random, or brownian motion. In 
+that case, all of the particles you were looking at were the same size. However, systems in which you have 
+a bunch of parts that are going to assemble into viruses, you&apos;ll have molecules of all different sizes. This 
+changes how we see Brownian motion, because the collisons between all the molecules won&apos;t be the same.
+For proteins especially, you have the much larger protein molecules, and then much smaller water molecules
+that the protein is dissolved in. Now, when a water molecule hits the larger protein, there is much less 
+movement because of the size difference. This leads to less overall motion of the protein as a result of the 
+collision, but also to a much more random trajectory. Press play on the box below to see this in action!
+ 
+
+Observe the box above- this will give you a better idea of how proteins move around in water See how the capsid protein, 
+shown here in simplified form in yellow, just bounces around when colliding with the white particles, which represent water 
+as the solvent. Remember, humans contain a lot of water! That&apos;s what proteins are dissolved in. 
+
+ 
+
+</text>
+<section start="0" end="1268">
+<paragraph start="0" end="55">
+<LeftIndent>40.0</LeftIndent>
+<content start="0" end="54">
+<size>19</size></content>
+
+<content start="54" end="55">
+</content>
+
+</paragraph>
+<paragraph start="55" end="56">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="55" end="56">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="56" end="64">
+<LeftIndent>40.0</LeftIndent>
+<content start="56" end="63">
+<size>14</size><href>Forces_p3.cml</href></content>
+
+<content start="63" end="64">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="64" end="167">
+<LeftIndent>40.0</LeftIndent>
+<content start="64" end="167">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="167" end="275">
+<LeftIndent>40.0</LeftIndent>
+<content start="167" end="275">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="275" end="385">
+<LeftIndent>40.0</LeftIndent>
+<content start="275" end="385">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="385" end="488">
+<LeftIndent>40.0</LeftIndent>
+<content start="385" end="488">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="488" end="595">
+<LeftIndent>40.0</LeftIndent>
+<content start="488" end="595">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="595" end="701">
+<LeftIndent>40.0</LeftIndent>
+<content start="595" end="701">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="701" end="811">
+<LeftIndent>40.0</LeftIndent>
+<content start="701" end="811">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="811" end="916">
+<LeftIndent>40.0</LeftIndent>
+<content start="811" end="916">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="916" end="918">
+<LeftIndent>220.0</LeftIndent>
+<content start="916" end="917">
+<size>14</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p2$0.mml</resource></component></content>
+
+<content start="917" end="918">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="918" end="919">
+<LeftIndent>40.0</LeftIndent>
+<content start="918" end="919">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="919" end="1041">
+<LeftIndent>40.0</LeftIndent>
+<content start="919" end="1041">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1041" end="1166">
+<LeftIndent>40.0</LeftIndent>
+<content start="1041" end="1166">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1166" end="1263">
+<LeftIndent>40.0</LeftIndent>
+<content start="1166" end="1263">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1263" end="1264">
+<LeftIndent>40.0</LeftIndent>
+<content start="1263" end="1264">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1264" end="1266">
+<LeftIndent>40.0</LeftIndent>
+<content start="1264" end="1265">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>400</width>
+<height>200</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    So far, this doesn&apos;t look like the kind of motion that could assemble a 
+    virus out of a bunch of different proteins, if they&apos;re just moving around 
+    randomly. What do you think is missing here to make the proteins come 
+    together in just the right way to build a virus?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="1265" end="1266">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1266" end="1267">
+<LeftIndent>40.0</LeftIndent>
+<content start="1266" end="1267">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1267" end="1268">
+</paragraph>
+</section>
+</document>

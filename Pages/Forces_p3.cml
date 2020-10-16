@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>coulombs</page_title>
+<text>Section 1 Page 3 - The Missing Piece for Self-Assembly. 
+
+Next (Not sure if annealing, VdW, or Temp comes next) -&gt; Temp_p1
+In the previous two pages, you&apos;ve seen how atoms and molecules can move around randomly 
+just by existing. But you might have been wondering why that is so important for virus self-
+assembly, especially since the motion is so random. Well, the missing piece needed to 
+understand how self-assembly can happen is to understand the interactions between atoms
+and molecules, or the forces that they exert on one another. Once you include these forces,
+the type of motion of molecules changes. It is no longer so random. One major cause of these
+forces acting between molecules is the charge on atoms and molecules. 
+
+You might have heard about charge and coulomb&apos;s law in your physics classes:
+
+ 
+
+This equation shows that there is a force acting between two charges, represented by q1 and q2. 
+If they have the same sign, then the force is positive, which means they are getting pushed apart. 
+If they have opposite signs, then the force is negative, meaning that the two charges are being pulled 
+together. 
+
+Try it yourself! Below is a box with some particles in them (or have it be some kind
+of dropping service? where you can just drop +ve and -ve particles and see what happens)-
+put some charged particles in the box and see how they behave. 
+
+ 
+
+ 
+
+There are many charged things- from incredibly small things like electrons, to atoms and even 
+whole parts of molecules! No matter what object is holding the charge, the coulomb force
+applies and either pulls together or pushes apart object of opposite or same charge respectively. 
+This force is actually what drives the self-assembly of the capsid proteins this module/workshop 
+focuseson. Notice how in the above box, when there are multiple particles with both charges 
+present, the particles tend to stick together, and they stick together in a very particular way? 
+This will be explored more later, but it&apos;s the foundation of how viruses &quot;know&quot; how to assemble 
+correctly!
+
+Now, a whole particle or molecule doesn&apos;t have to be charged! Only some parts of it might be 
+charged, or even different regions on the same molecule might even have different charge.
+
+Try it out with the molecular shapes in the box below. What happens if you give different parts 
+of the molecules different charge? Or the same charge? Remember, proteins are basically really 
+really big molecules, and they have different parts that can have different charge. 
+(*insert something about charge map of protein- pretty picture???*) 
+
+ 
+
+ 
+
+There are other kinds of forces that act between atoms and molecules, but they are much 
+weaker than coulomb forces, and so are less important for understanding how capsid proteins
+come together and form viruses! (*potential extension to talk about the diff types of forces?*)
+
+</text>
+<section start="0" end="2876">
+<paragraph start="0" end="57">
+<LeftIndent>40.0</LeftIndent>
+<content start="0" end="56">
+<size>20</size></content>
+
+<content start="56" end="57">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="57" end="58">
+<LeftIndent>40.0</LeftIndent>
+<content start="57" end="58">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="58" end="123">
+<LeftIndent>40.0</LeftIndent>
+<content start="58" end="115">
+<size>14</size><foreground>255 0 0</foreground></content>
+
+<content start="115" end="122">
+<size>14</size><href>Temp_p1.cml</href></content>
+
+<content start="122" end="123">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="123" end="212">
+<LeftIndent>40.0</LeftIndent>
+<content start="123" end="212">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="212" end="305">
+<LeftIndent>40.0</LeftIndent>
+<content start="212" end="305">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="305" end="392">
+<LeftIndent>40.0</LeftIndent>
+<content start="305" end="392">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="392" end="480">
+<LeftIndent>40.0</LeftIndent>
+<content start="392" end="480">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="480" end="572">
+<LeftIndent>40.0</LeftIndent>
+<content start="480" end="572">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="572" end="665">
+<LeftIndent>40.0</LeftIndent>
+<content start="572" end="665">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="665" end="736">
+<LeftIndent>40.0</LeftIndent>
+<content start="665" end="736">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="736" end="737">
+<LeftIndent>40.0</LeftIndent>
+<content start="736" end="737">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="737" end="814">
+<LeftIndent>40.0</LeftIndent>
+<content start="737" end="814">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="814" end="815">
+<LeftIndent>40.0</LeftIndent>
+<content start="814" end="815">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="815" end="817">
+<LeftIndent>40.0</LeftIndent>
+<content start="815" end="816">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>400.0</width>
+<height>200.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/coulombs law.png&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="816" end="817">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="817" end="818">
+<LeftIndent>40.0</LeftIndent>
+<content start="817" end="818">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="818" end="915">
+<LeftIndent>40.0</LeftIndent>
+<content start="818" end="915">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="915" end="1015">
+<LeftIndent>40.0</LeftIndent>
+<content start="915" end="1015">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1015" end="1119">
+<LeftIndent>40.0</LeftIndent>
+<content start="1015" end="1119">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1119" end="1130">
+<LeftIndent>40.0</LeftIndent>
+<content start="1119" end="1130">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1130" end="1131">
+<LeftIndent>40.0</LeftIndent>
+<content start="1130" end="1131">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1131" end="1216">
+<LeftIndent>40.0</LeftIndent>
+<content start="1131" end="1191">
+<size>14</size></content>
+
+<content start="1191" end="1216">
+<size>14</size><italic>true</italic><foreground>255 0 0</foreground></content>
+
+</paragraph>
+<paragraph start="1216" end="1306">
+<LeftIndent>40.0</LeftIndent>
+<content start="1216" end="1304">
+<size>14</size><italic>true</italic><foreground>255 0 0</foreground></content>
+
+<content start="1304" end="1306">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1306" end="1370">
+<LeftIndent>40.0</LeftIndent>
+<content start="1306" end="1370">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1370" end="1371">
+<LeftIndent>40.0</LeftIndent>
+<content start="1370" end="1371">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1371" end="1373">
+<LeftIndent>160.0</LeftIndent>
+<content start="1371" end="1372">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>400</width>
+<height>200</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Place them far apart and see how they move towards each other- what do you 
+    notice? How might it be explained by Coulomb&apos;s law? And what is the key 
+    difference between this type of motion and plain random motion?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="1372" end="1373">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1373" end="1374">
+<LeftIndent>160.0</LeftIndent>
+<content start="1373" end="1374">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1374" end="1376">
+<LeftIndent>160.0</LeftIndent>
+<content start="1374" end="1375">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p3$0.mml</resource><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Ck</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+
+<content start="1375" end="1376">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1376" end="1377">
+<LeftIndent>40.0</LeftIndent>
+<content start="1376" end="1377">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1377" end="1472">
+<LeftIndent>40.0</LeftIndent>
+<content start="1377" end="1472">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1472" end="1561">
+<LeftIndent>40.0</LeftIndent>
+<content start="1472" end="1561">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1561" end="1660">
+<LeftIndent>40.0</LeftIndent>
+<content start="1561" end="1660">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1660" end="1758">
+<LeftIndent>40.0</LeftIndent>
+<content start="1660" end="1758">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1758" end="1851">
+<LeftIndent>40.0</LeftIndent>
+<content start="1758" end="1851">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1851" end="1949">
+<LeftIndent>40.0</LeftIndent>
+<content start="1851" end="1949">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1949" end="2046">
+<LeftIndent>40.0</LeftIndent>
+<content start="1949" end="2046">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2046" end="2057">
+<LeftIndent>40.0</LeftIndent>
+<content start="2046" end="2057">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2057" end="2058">
+<LeftIndent>40.0</LeftIndent>
+<content start="2057" end="2058">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2058" end="2152">
+<LeftIndent>40.0</LeftIndent>
+<content start="2058" end="2152">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2152" end="2242">
+<LeftIndent>40.0</LeftIndent>
+<content start="2152" end="2242">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2242" end="2243">
+<LeftIndent>40.0</LeftIndent>
+<content start="2242" end="2243">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2243" end="2340">
+<LeftIndent>40.0</LeftIndent>
+<content start="2243" end="2340">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2340" end="2436">
+<LeftIndent>40.0</LeftIndent>
+<content start="2340" end="2436">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2436" end="2521">
+<LeftIndent>40.0</LeftIndent>
+<content start="2436" end="2521">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2521" end="2590">
+<LeftIndent>40.0</LeftIndent>
+<content start="2521" end="2588">
+<size>14</size><foreground>255 0 0</foreground></content>
+
+<content start="2588" end="2590">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2590" end="2591">
+<LeftIndent>40.0</LeftIndent>
+<content start="2590" end="2591">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2591" end="2593">
+<LeftIndent>180.0</LeftIndent>
+<content start="2591" end="2592">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p3$1.mml</resource><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Rectangular Molecular Ribbon</button><button>Add Rectangular Molecular Surface</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+
+<content start="2592" end="2593">
+</content>
+
+</paragraph>
+<paragraph start="2593" end="2594">
+<LeftIndent>40.0</LeftIndent>
+<content start="2593" end="2594">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2594" end="2596">
+<LeftIndent>180.0</LeftIndent>
+<content start="2594" end="2595">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>400</width>
+<height>200</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Describe how the molecules above are moving when you put different charges 
+    at different places. Try putting different charges in different places- 
+    does that change how the molecules behave? Why do you think that is?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="2595" end="2596">
+</content>
+
+</paragraph>
+<paragraph start="2596" end="2597">
+<LeftIndent>180.0</LeftIndent>
+<content start="2596" end="2597">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2597" end="2686">
+<LeftIndent>40.0</LeftIndent>
+<content start="2597" end="2686">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2686" end="2778">
+<LeftIndent>40.0</LeftIndent>
+<content start="2686" end="2778">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2778" end="2874">
+<LeftIndent>40.0</LeftIndent>
+<content start="2778" end="2810">
+<size>14</size></content>
+
+<content start="2810" end="2873">
+<size>14</size><foreground>255 0 0</foreground></content>
+
+<content start="2873" end="2874">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2874" end="2875">
+<content start="2874" end="2875">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="2875" end="2876">
+</paragraph>
+</section>
+</document>
