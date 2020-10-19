@@ -130,18 +130,20 @@ Next -&gt;
         Choose one of the three structures above.
       &lt;/li&gt;
       &lt;li&gt;
-        Using the move tool (&lt;img src=&quot;move_tool.png&quot;&gt;), drag the molecules 
-        you&apos;ll need out of their boxes on the left side of the model.
+        Using the move tool (&lt;img src=&quot;../Images_GIFs/move_tool.png&quot;&gt;), drag 
+        the molecules you&apos;ll need out of their boxes on the left side of the 
+        model.
       &lt;/li&gt;
       &lt;li&gt;
-        Using the charge tools (&lt;img src=&quot;pos_charge_tool.png&quot;&gt; and &lt;img src=&quot;neg_charge_tool.png&quot;&gt;), 
-        add charges around the edges of the molecules. (Tip: If the charges 
-        will be the same for a shape. Sometimes it is easier to add the 
-        charges before copying them outside their box)
+        Using the charge tools (&lt;img src=&quot;../Images_GIFs/pos_charge_tool.png&quot;&gt; 
+        and &lt;img src=&quot;../Images_GIFs/neg_charge_tool.png&quot;&gt;), add charges 
+        around the edges of the molecules. (Tip: If the charges will be the 
+        same for a shape. Sometimes it is easier to add the charges before 
+        copying them outside their box)
       &lt;/li&gt;
       &lt;li&gt;
-        Using the duplicate tool (&lt;img src=&quot;duplicate_tool.png&quot;&gt;), make 
-        several copies of each molecule.
+        Using the duplicate tool (&lt;img src=&quot;../Images_GIFs/duplicate_tool.png&quot;&gt;), 
+        make several copies of each molecule.
       &lt;/li&gt;
       &lt;li&gt;
         Take a snapshot when your stucture has assembled itself.

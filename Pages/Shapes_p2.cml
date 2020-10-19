@@ -58,8 +58,8 @@ Next -&gt;
   &lt;/head&gt;
   &lt;body&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      To see how monomer shape impacts self-assembled structures, we can 
-      design a monomer to form closed loops. We can create a closed loop by 
+      To see how monomer shape leads to more complex structures, we can design 
+      a monomer to form closed loops. We can create a closed loop by 
       connecting a series of line segments at a fixed angle, &amp;#952;, such as in the 
       image below.
     &lt;/p&gt;
@@ -68,12 +68,12 @@ Next -&gt;
       
     &lt;/p&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      Since the line segments are connected at a 45&amp;#176; degrees, an octagon is 
-      formed. In terms of self-assembly, we would need two types of monomers 
-      to form a closed loop in this way; one monomer to represent the line 
-      segments, and another monomer, which we call T-shaped, to control the 
-      angle at which the segments connect. In the image insert, we see that 
-      the T-shaped monomer controls the &amp;#952; using inserts.
+      Since the line segments are connected at 45&amp;#176; degrees, an octagon is 
+      formed. For monomers to self-assemble into this structure, we would need 
+      two types of monomers; a linear monomer to represent the line segments, 
+      and another monomer, which we call T-shaped, to control the angle at 
+      which the segments connect. In the image insert, we see that the 
+      T-shaped monomer controls the angle, &amp;#952;, using inserts.
     &lt;/p&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       Using the model space below, see if you can form a closed loop by 

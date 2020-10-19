@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<java version="1.8.0_261" class="java.beans.XMLDecoder">
+<java version="1.8.0_251" class="java.beans.XMLDecoder">
  <object class="org.concord.mw2d.models.Element" id="Element0">
   <void property="mass">
    <double>0.16666666666666666</double>
@@ -334,7 +334,7 @@
    <void method="put">
     <string>date</string>
     <object class="java.util.Date">
-     <long>1602959007799</long>
+     <long>1603133929865</long>
     </object>
    </void>
    <void method="put">
@@ -343,15 +343,15 @@
    </void>
    <void method="put">
     <string>size</string>
-    <long>91883</long>
+    <long>88311</long>
    </void>
    <void method="put">
     <string>codebase</string>
-    <string>C:\Users\dreil\Desktop\Viral_Self_Assembly\CNSI-UCLA-Computational-Workshop\Pages</string>
+    <string>C:\Molecular Workbench\Compiled Workshop\Pages</string>
    </void>
    <void method="put">
     <string>url</string>
-    <string>C:\Users\dreil\Desktop\Viral_Self_Assembly\CNSI-UCLA-Computational-Workshop\Pages\Forces_p2$0.mml</string>
+    <string>C:\Molecular Workbench\Compiled Workshop\Pages\Forces_p2$0.mml</string>
    </void>
   </void>
   <void property="quantumRule">

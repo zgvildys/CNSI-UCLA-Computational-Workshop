@@ -234,20 +234,41 @@ Wait a little bit, then pause the system, and look at the path of the trajectory
 </paragraph>
 <paragraph start="1636" end="1719">
 <LeftIndent>60.0</LeftIndent>
-<content start="1636" end="1719">
+<content start="1636" end="1718">
 <size>14</size></content>
+
+<content start="1718" end="1719">
+</content>
 
 </paragraph>
 <paragraph start="1719" end="1720">
 <LeftIndent>60.0</LeftIndent>
 <content start="1719" end="1720">
-<size>14</size></content>
+</content>
 
 </paragraph>
 <paragraph start="1720" end="1722">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
 <content start="1720" end="1721">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p1$1.mml</resource><menubar>false</menubar><button>Mark Object</button><button>Toggle Trajectory</button></component></content>
+
+<content start="1721" end="1722">
+</content>
+
+</paragraph>
+<paragraph start="1722" end="1723">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="1722" end="1723">
+</content>
+
+</paragraph>
+<paragraph start="1723" end="1725">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="1723" end="1724">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -263,23 +284,6 @@ Wait a little bit, then pause the system, and look at the path of the trajectory
 </title>
 <opaque>false</opaque>
 </component></content>
-
-<content start="1721" end="1722">
-</content>
-
-</paragraph>
-<paragraph start="1722" end="1723">
-<LeftIndent>60.0</LeftIndent>
-<content start="1722" end="1723">
-</content>
-
-</paragraph>
-<paragraph start="1723" end="1725">
-<Alignment>1</Alignment>
-<LeftIndent>60.0</LeftIndent>
-<content start="1723" end="1724">
-<component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_p1$1.mml</resource><menubar>false</menubar><button>Mark Object</button><button>Toggle Trajectory</button></component></content>
 
 </paragraph>
 </section>

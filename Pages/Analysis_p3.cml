@@ -5,7 +5,7 @@
 <text>Assembling a virus-like particle (VLP)
 Next -&gt;
  
-                                                     
+                          
 
  
 
@@ -14,7 +14,7 @@ Next -&gt;
  
  
 </text>
-<section start="0" end="114">
+<section start="0" end="87">
 <paragraph start="0" end="39">
 <content start="0" end="39">
 <size>25</size></content>
@@ -73,14 +73,29 @@ Next -&gt;
 </content>
 
 </paragraph>
-<paragraph start="49" end="103">
+<paragraph start="49" end="76">
 <content start="49" end="50">
-<icon></icon></content>
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>400.0</width>
+<height>300.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/angle_for_subunits.png&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
 
-<content start="50" end="101">
+<content start="50" end="74">
 </content>
 
-<content start="101" end="102">
+<content start="74" end="75">
 <component><class>org.concord.modeler.ImageQuestion</class><width>300</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -93,43 +108,43 @@ Next -&gt;
 <border>Line</border>
 </component></content>
 
-<content start="102" end="103">
+<content start="75" end="76">
 <size>25</size></content>
 
 </paragraph>
-<paragraph start="103" end="104">
+<paragraph start="76" end="77">
 <Alignment>1</Alignment>
-<content start="103" end="104">
+<content start="76" end="77">
 <size>25</size></content>
 
 </paragraph>
-<paragraph start="104" end="106">
-<content start="104" end="105">
+<paragraph start="77" end="79">
+<content start="77" end="78">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
 <resource>Analysis_p3$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
 
-<content start="105" end="106">
+<content start="78" end="79">
 </content>
 
 </paragraph>
-<paragraph start="106" end="107">
-<content start="106" end="107">
+<paragraph start="79" end="80">
+<content start="79" end="80">
 </content>
 
 </paragraph>
-<paragraph start="107" end="108">
-<content start="107" end="108">
+<paragraph start="80" end="81">
+<content start="80" end="81">
 </content>
 
 </paragraph>
-<paragraph start="108" end="109">
+<paragraph start="81" end="82">
 <Alignment>1</Alignment>
-<content start="108" end="109">
+<content start="81" end="82">
 </content>
 
 </paragraph>
-<paragraph start="109" end="111">
-<content start="109" end="110">
+<paragraph start="82" end="84">
+<content start="82" end="83">
 <component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -142,12 +157,12 @@ Next -&gt;
 <border>Line</border>
 </component></content>
 
-<content start="110" end="111">
+<content start="83" end="84">
 </content>
 
 </paragraph>
-<paragraph start="111" end="113">
-<content start="111" end="112">
+<paragraph start="84" end="86">
+<content start="84" end="85">
 <component><class>org.concord.modeler.PageTextField</class>
 <width>600</width>
 <height>400</height>
@@ -165,11 +180,11 @@ Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="112" end="113">
+<content start="85" end="86">
 </content>
 
 </paragraph>
-<paragraph start="113" end="114">
+<paragraph start="86" end="87">
 </paragraph>
 </section>
 </document>
