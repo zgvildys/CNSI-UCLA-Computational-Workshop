@@ -4,48 +4,46 @@
 <page_title>coulombs</page_title>
 <text>Section 1 Page 3 - The Missing Piece for Self-Assembly. 
 
-Next (Not sure if annealing, VdW, or Temp comes next) -&gt; Temp_p1
-In the previous two pages, you&apos;ve seen how atoms and molecules can move around randomly 
-just by existing. But you might have been wondering why that is so important for virus self-
-assembly, especially since the motion is so random. Well, the missing piece needed to 
-understand how self-assembly can happen is to understand the interactions between atoms
+Temp_p1
+The previous two pages cover how atoms and molecules of different sizes move around randomly.
+But you might have been wondering why that is so important for virus self-
+assembly, especially as the motion is so random. The missing piece needed to 
+understand how self-assembly can happen are the interactions between atoms
 and molecules, or the forces that they exert on one another. Once you include these forces,
-the type of motion of molecules changes. It is no longer so random. One major cause of these
-forces acting between molecules is the charge on atoms and molecules. 
+the type of motion of molecules change. It is no longer so random. One major cause of these
+forces acting between molecules is the charge of atoms and molecules.
 
-You might have heard about charge and coulomb&apos;s law in your physics classes:
-
- 
-
-This equation shows that there is a force acting between two charges, represented by q1 and q2. 
-If they have the same sign, then the force is positive, which means they are getting pushed apart. 
-If they have opposite signs, then the force is negative, meaning that the two charges are being pulled 
-together. 
-
-Try it yourself! Below is a box with some particles in them (or have it be some kind
-of dropping service? where you can just drop +ve and -ve particles and see what happens)-
-put some charged particles in the box and see how they behave. 
+You might have heard about charge and coulomb&apos;s law in your physics class:
 
  
 
+This equation shows that there is a force F acting between two charges, represented by q1 and q2.
+The distance between these charges is r and k is a constant determined experimentally.
+If they have the same sign, then the force is positive, which means they are pushing eachother apart. 
+If they have opposite signs, then the force is negative, meaning that the two charges are pulling themselves 
+together.
+
+Try it yourself! Below is a box with some particles in them - put some charged particles in the box and see how they behave. 
+
  
 
-There are many charged things- from incredibly small things like electrons, to atoms and even 
-whole parts of molecules! No matter what object is holding the charge, the coulomb force
+ 
+
+There are many charged things - from incredibly small things like electrons, to atoms and even 
+whole regions within molecules. No matter what object is holding the charge, the coulomb force
 applies and either pulls together or pushes apart object of opposite or same charge respectively. 
-This force is actually what drives the self-assembly of the capsid proteins this module/workshop 
-focuseson. Notice how in the above box, when there are multiple particles with both charges 
+This force is actually what drives the self-assembly of the capsid proteins in our simulation boxes. 
+Notice how in the above box, when there are multiple particles with charges of both signs
 present, the particles tend to stick together, and they stick together in a very particular way? 
 This will be explored more later, but it&apos;s the foundation of how viruses &quot;know&quot; how to assemble 
 correctly!
 
-Now, a whole particle or molecule doesn&apos;t have to be charged! Only some parts of it might be 
-charged, or even different regions on the same molecule might even have different charge.
+A whole particle or molecule doesn&apos;t have to be charged. Only some parts of it might be 
+charged, or different regions on the same molecule might even have opposite charges.
 
 Try it out with the molecular shapes in the box below. What happens if you give different parts 
-of the molecules different charge? Or the same charge? Remember, proteins are basically really 
-really big molecules, and they have different parts that can have different charge. 
-(*insert something about charge map of protein- pretty picture???*) 
+of the molecules different charge? Or the same charge? Remember, proteins are just 
+very big molecules, and they have different regions that can have different charge.
 
  
 
@@ -53,10 +51,10 @@ really big molecules, and they have different parts that can have different char
 
 There are other kinds of forces that act between atoms and molecules, but they are much 
 weaker than coulomb forces, and so are less important for understanding how capsid proteins
-come together and form viruses! (*potential extension to talk about the diff types of forces?*)
+come together and form viruses.
 
 </text>
-<section start="0" end="2876">
+<section start="0" end="2615">
 <paragraph start="0" end="57">
 <LeftIndent>40.0</LeftIndent>
 <content start="0" end="56">
@@ -72,39 +70,42 @@ come together and form viruses! (*potential extension to talk about the diff typ
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="58" end="123">
+<paragraph start="58" end="66">
 <LeftIndent>40.0</LeftIndent>
-<content start="58" end="115">
-<size>14</size><foreground>255 0 0</foreground></content>
-
-<content start="115" end="122">
+<content start="58" end="65">
 <size>14</size><href>Temp_p1.cml</href></content>
 
-<content start="122" end="123">
+<content start="65" end="66">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="123" end="212">
+<paragraph start="66" end="160">
 <LeftIndent>40.0</LeftIndent>
-<content start="123" end="212">
+<content start="66" end="160">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="212" end="305">
+<paragraph start="160" end="235">
 <LeftIndent>40.0</LeftIndent>
-<content start="212" end="305">
+<content start="160" end="235">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="305" end="392">
+<paragraph start="235" end="313">
 <LeftIndent>40.0</LeftIndent>
-<content start="305" end="392">
+<content start="235" end="313">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="392" end="480">
+<paragraph start="313" end="388">
 <LeftIndent>40.0</LeftIndent>
-<content start="392" end="480">
+<content start="313" end="388">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="388" end="480">
+<LeftIndent>40.0</LeftIndent>
+<content start="388" end="480">
 <size>14</size></content>
 
 </paragraph>
@@ -114,39 +115,33 @@ come together and form viruses! (*potential extension to talk about the diff typ
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="572" end="665">
+<paragraph start="572" end="642">
 <LeftIndent>40.0</LeftIndent>
-<content start="572" end="665">
+<content start="572" end="642">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="665" end="736">
+<paragraph start="642" end="643">
 <LeftIndent>40.0</LeftIndent>
-<content start="665" end="736">
+<content start="642" end="643">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="736" end="737">
+<paragraph start="643" end="718">
 <LeftIndent>40.0</LeftIndent>
-<content start="736" end="737">
+<content start="643" end="718">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="737" end="814">
+<paragraph start="718" end="719">
 <LeftIndent>40.0</LeftIndent>
-<content start="737" end="814">
+<content start="718" end="719">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="814" end="815">
+<paragraph start="719" end="721">
 <LeftIndent>40.0</LeftIndent>
-<content start="814" end="815">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="815" end="817">
-<LeftIndent>40.0</LeftIndent>
-<content start="815" end="816">
+<content start="719" end="720">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>200.0</height>
@@ -164,37 +159,73 @@ come together and form viruses! (*potential extension to talk about the diff typ
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="816" end="817">
+<content start="720" end="721">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="817" end="818">
+<paragraph start="721" end="722">
 <LeftIndent>40.0</LeftIndent>
-<content start="817" end="818">
+<content start="721" end="722">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="818" end="915">
+<paragraph start="722" end="820">
 <LeftIndent>40.0</LeftIndent>
-<content start="818" end="915">
+<content start="722" end="764">
+<size>14</size></content>
+
+<content start="764" end="765">
+<size>14</size><bold>true</bold></content>
+
+<content start="765" end="809">
+<size>14</size></content>
+
+<content start="809" end="811">
+<size>14</size><bold>true</bold></content>
+
+<content start="811" end="816">
+<size>14</size></content>
+
+<content start="816" end="818">
+<size>14</size><bold>true</bold></content>
+
+<content start="818" end="820">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="915" end="1015">
+<paragraph start="820" end="907">
 <LeftIndent>40.0</LeftIndent>
-<content start="915" end="1015">
+<content start="820" end="858">
+<size>14</size></content>
+
+<content start="858" end="859">
+<size>14</size><bold>true</bold></content>
+
+<content start="859" end="864">
+<size>14</size></content>
+
+<content start="864" end="865">
+<size>14</size><bold>true</bold></content>
+
+<content start="865" end="907">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1015" end="1119">
+<paragraph start="907" end="1010">
 <LeftIndent>40.0</LeftIndent>
-<content start="1015" end="1119">
+<content start="907" end="1010">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1119" end="1130">
+<paragraph start="1010" end="1120">
 <LeftIndent>40.0</LeftIndent>
-<content start="1119" end="1130">
+<content start="1010" end="1120">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="1120" end="1130">
+<LeftIndent>40.0</LeftIndent>
+<content start="1120" end="1130">
 <size>14</size></content>
 
 </paragraph>
@@ -204,39 +235,24 @@ come together and form viruses! (*potential extension to talk about the diff typ
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1131" end="1216">
+<paragraph start="1131" end="1257">
 <LeftIndent>40.0</LeftIndent>
-<content start="1131" end="1191">
+<content start="1131" end="1193">
 <size>14</size></content>
 
-<content start="1191" end="1216">
-<size>14</size><italic>true</italic><foreground>255 0 0</foreground></content>
-
-</paragraph>
-<paragraph start="1216" end="1306">
-<LeftIndent>40.0</LeftIndent>
-<content start="1216" end="1304">
-<size>14</size><italic>true</italic><foreground>255 0 0</foreground></content>
-
-<content start="1304" end="1306">
+<content start="1193" end="1257">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1306" end="1370">
+<paragraph start="1257" end="1258">
 <LeftIndent>40.0</LeftIndent>
-<content start="1306" end="1370">
+<content start="1257" end="1258">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1370" end="1371">
-<LeftIndent>40.0</LeftIndent>
-<content start="1370" end="1371">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1371" end="1373">
+<paragraph start="1258" end="1260">
 <LeftIndent>160.0</LeftIndent>
-<content start="1371" end="1372">
+<content start="1258" end="1259">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -245,165 +261,159 @@ come together and form viruses! (*potential extension to talk about the diff typ
     
   &lt;/head&gt;
   &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    Place them far apart and see how they move towards each other- what do you 
-    notice? How might it be explained by Coulomb&apos;s law? And what is the key 
-    difference between this type of motion and plain random motion?
+    Place them far apart and see how they move towards each other - what do 
+    you notice? How might it be explained by Coulomb&apos;s law? And what is the 
+    key difference between this type of motion and random motion?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
 <opaque>false</opaque>
 </component></content>
 
-<content start="1372" end="1373">
+<content start="1259" end="1260">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1373" end="1374">
+<paragraph start="1260" end="1261">
 <LeftIndent>160.0</LeftIndent>
-<content start="1373" end="1374">
+<content start="1260" end="1261">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1374" end="1376">
+<paragraph start="1261" end="1263">
 <LeftIndent>160.0</LeftIndent>
-<content start="1374" end="1375">
+<content start="1261" end="1262">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_p3$0.mml</resource><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Ck</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+<resource>Forces_p3$0.mml</resource><menubar>false</menubar><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Ck</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
 
-<content start="1375" end="1376">
+<content start="1262" end="1263">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1376" end="1377">
+<paragraph start="1263" end="1264">
 <LeftIndent>40.0</LeftIndent>
-<content start="1376" end="1377">
+<content start="1263" end="1264">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1377" end="1472">
+<paragraph start="1264" end="1360">
 <LeftIndent>40.0</LeftIndent>
-<content start="1377" end="1472">
+<content start="1264" end="1360">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1472" end="1561">
+<paragraph start="1360" end="1455">
 <LeftIndent>40.0</LeftIndent>
-<content start="1472" end="1561">
+<content start="1360" end="1455">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1561" end="1660">
+<paragraph start="1455" end="1554">
 <LeftIndent>40.0</LeftIndent>
-<content start="1561" end="1660">
+<content start="1455" end="1554">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1660" end="1758">
+<paragraph start="1554" end="1656">
 <LeftIndent>40.0</LeftIndent>
-<content start="1660" end="1758">
+<content start="1554" end="1656">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1758" end="1851">
+<paragraph start="1656" end="1746">
 <LeftIndent>40.0</LeftIndent>
-<content start="1758" end="1851">
+<content start="1656" end="1746">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1851" end="1949">
+<paragraph start="1746" end="1844">
 <LeftIndent>40.0</LeftIndent>
-<content start="1851" end="1949">
+<content start="1746" end="1844">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1949" end="2046">
+<paragraph start="1844" end="1941">
 <LeftIndent>40.0</LeftIndent>
-<content start="1949" end="2046">
+<content start="1844" end="1941">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2046" end="2057">
+<paragraph start="1941" end="1952">
 <LeftIndent>40.0</LeftIndent>
-<content start="2046" end="2057">
+<content start="1941" end="1952">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2057" end="2058">
+<paragraph start="1952" end="1953">
 <LeftIndent>40.0</LeftIndent>
-<content start="2057" end="2058">
+<content start="1952" end="1953">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2058" end="2152">
+<paragraph start="1953" end="2042">
 <LeftIndent>40.0</LeftIndent>
-<content start="2058" end="2152">
+<content start="1953" end="2042">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2152" end="2242">
+<paragraph start="2042" end="2127">
 <LeftIndent>40.0</LeftIndent>
-<content start="2152" end="2242">
+<content start="2042" end="2127">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2242" end="2243">
+<paragraph start="2127" end="2128">
 <LeftIndent>40.0</LeftIndent>
-<content start="2242" end="2243">
+<content start="2127" end="2128">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2243" end="2340">
+<paragraph start="2128" end="2225">
 <LeftIndent>40.0</LeftIndent>
-<content start="2243" end="2340">
+<content start="2128" end="2225">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2340" end="2436">
+<paragraph start="2225" end="2309">
 <LeftIndent>40.0</LeftIndent>
-<content start="2340" end="2436">
+<content start="2225" end="2309">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2436" end="2521">
+<paragraph start="2309" end="2393">
 <LeftIndent>40.0</LeftIndent>
-<content start="2436" end="2521">
+<content start="2309" end="2392">
+<size>14</size></content>
+
+<content start="2392" end="2393">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2521" end="2590">
+<paragraph start="2393" end="2394">
 <LeftIndent>40.0</LeftIndent>
-<content start="2521" end="2588">
-<size>14</size><foreground>255 0 0</foreground></content>
-
-<content start="2588" end="2590">
+<content start="2393" end="2394">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2590" end="2591">
-<LeftIndent>40.0</LeftIndent>
-<content start="2590" end="2591">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2591" end="2593">
+<paragraph start="2394" end="2396">
 <LeftIndent>180.0</LeftIndent>
-<content start="2591" end="2592">
+<content start="2394" end="2395">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_p3$1.mml</resource><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Rectangular Molecular Ribbon</button><button>Add Rectangular Molecular Surface</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+<resource>Forces_p3$1.mml</resource><menubar>false</menubar><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Rectangular Molecular Ribbon</button><button>Add Rectangular Molecular Surface</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
 
-<content start="2592" end="2593">
+<content start="2395" end="2396">
 </content>
 
 </paragraph>
-<paragraph start="2593" end="2594">
+<paragraph start="2396" end="2397">
 <LeftIndent>40.0</LeftIndent>
-<content start="2593" end="2594">
+<content start="2396" end="2397">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2594" end="2596">
+<paragraph start="2397" end="2399">
 <LeftIndent>180.0</LeftIndent>
-<content start="2594" end="2595">
+<content start="2397" end="2398">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -412,55 +422,49 @@ come together and form viruses! (*potential extension to talk about the diff typ
     
   &lt;/head&gt;
   &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    Describe how the molecules above are moving when you put different charges 
-    at different places. Try putting different charges in different places- 
-    does that change how the molecules behave? Why do you think that is?
+    Make a few molecules that have opposite charges in a number of different 
+    places. Does this change how the molecules behave? Why do you think that 
+    is?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
 <opaque>false</opaque>
 </component></content>
 
-<content start="2595" end="2596">
+<content start="2398" end="2399">
 </content>
 
 </paragraph>
-<paragraph start="2596" end="2597">
+<paragraph start="2399" end="2400">
 <LeftIndent>180.0</LeftIndent>
-<content start="2596" end="2597">
+<content start="2399" end="2400">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2597" end="2686">
+<paragraph start="2400" end="2489">
 <LeftIndent>40.0</LeftIndent>
-<content start="2597" end="2686">
+<content start="2400" end="2489">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2686" end="2778">
+<paragraph start="2489" end="2581">
 <LeftIndent>40.0</LeftIndent>
-<content start="2686" end="2778">
+<content start="2489" end="2581">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2778" end="2874">
+<paragraph start="2581" end="2613">
 <LeftIndent>40.0</LeftIndent>
-<content start="2778" end="2810">
-<size>14</size></content>
-
-<content start="2810" end="2873">
-<size>14</size><foreground>255 0 0</foreground></content>
-
-<content start="2873" end="2874">
+<content start="2581" end="2613">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2874" end="2875">
-<content start="2874" end="2875">
+<paragraph start="2613" end="2614">
+<content start="2613" end="2614">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2875" end="2876">
+<paragraph start="2614" end="2615">
 </paragraph>
 </section>
 </document>

@@ -2,69 +2,29 @@
 <document>
 <language>UTF-8</language>
 <page_title>annealing</page_title>
-<text>	Section __- Page ___: The Importance of Temperature and Self-Assembly
+<text>	Section 1- Page 6: The Importance of Temperature and Self-Assembly
 
-	So far, you have learned about how forces and temperature impact how atoms and molecules move around- 
-	now we can move on to understand how important temperature is in how the molecules can stick together 
+	So far, you have learned about how forces and temperature cause atoms and molecules to move around. 
+	We now discuss how temperature helps molecules stick together 
 	in different ways, and the role this plays for self-assembly. In order for molecules to come together and form 
-	an ordered structure- the process we call self-assembly- the temperature has to be just right. Let&apos;s explore 
-	this is the simulation box below! The different particles shapes are what we call monomers. This means that 
-	they are smaller building-blocks that come together and assemble into the bigger structures. They are randomly 
-	placed throughout the box below. 
+	an ordered structure - the process we call self-assembly - the temperature has to be just right. Let&apos;s explore 
+	this is the simulation box below! The colored particles of different shapes are called monomers. This means that 
+	they are smaller building-blocks that come together and assemble into the bigger structures. These generally each
+	represent a single protein. They are randomly placed throughout the box below.
 
-	Self assembly is super cool, because we can go from monomers placed randomly throughout the box to an 
-	ordered structure like the one below of interconnected rings without any external forces influencing the 
-	process. This assembly happens just because of the forces that the monomers are exerting on each other. 
-	Temperature  can really play an important role in  how well a system self-assembles. Ideally, the monomers 
-	here would come together to form the kind of structure like the one shown below. But that doesn&apos;t always 
-	happen- sometimes the temperature doesn&apos;t let that happen.
- 
-	 
+	As we discussed on the previous page there is an ideal temperature range at which virus form best. When 
+	the temperature is too high, the structure won&apos;t stay stuck together. But if it&apos;s too cold, then it can&apos;t move enough from a 
+	random starting state into the best structure - instead you get a structure with defects. 
 
-	In order to see why, first set the temperature to the cold setting (however cold that is- 0 C?), and then press play. 
-	Watch how the monomers come together, and after about a minute, pause and screenshot the end configuration and 
-	drag it to the cold box. 
-
-	Second, reset the simulation to the state before running. Then set the temperature to the medium setting. Press play, 
-	and see what structure forms. Screen shot it and drag it to the medium box. 
-
-	Finally, reset the simulation box again, and set the temperature to high. Let the simulation run, and then take a final 
-	screenshot and drag it to the high box. 
-
-(low temp-2,000, medium temp-9,000, high temp- 24,000=&gt; need to figure out how to do the interactive interface here!)
-
-	 
-
-		 
-
-	   
-	    
-
-	You will have seen that the three different temperatures give different end structures. This is because different temperatures 
-	give the monomers different kinetic energies, which is basically the energy they have from moving- you can see this from how 
-	much all the monomers move during the simulation. If they have low kinetic energy, all of the forces acting between different 
-	monomers are stronger than the energy keeping them moving, so all the monomers stick together as soon as they are close 
-	to each other. If the temperature is higher, then some monomers have enough energy, to break these stronger forces
-	sometimes if the monomers aren&apos;t sticking together well, but most monomers can still stick together to form its ideal shape. In
-	fact, the extra motion helps it to form it&apos;s ideal shape, because the extra movement means that the different shapes can avoid 
-	getting stuck in a bad shape, and instead move to make the shape where the monomers fit together best and the forces acting 
-	between monomers are strongest. But if the temperature is too high, then the energy of movement of the monomers is so high 
-	that even the strong forces can&apos;t get the monomers to stick together for long! This is how you get nice shapes forming for a very 
-	short time, but then they get destroyed but all the monomer motion.
-
-	What this means, is that for self-assembled structures, there is an ideal temperature range at which they want to form. When 
-	the temperature is too high, the structure won&apos;t stay stuck together. But if it&apos;s too cold, then it can&apos;t move enough from its 
-	random starting state into the best structure- instead you get a structure with defects. 
-
-	Using this, you can also control how things self-assemble by controling temperature changes! This is a process called &quot;annealing&quot;, 
+	Using this, you can also control how things self-assemble by controling temperature changes. This is a process called &quot;annealing&quot;, 
 	which is often used in computational chemistry research to make sure that we found the best possible structure. Basically, if 
-	we start with a structure that isn&apos;t perfect, we can heat it up really hot and then cool it down again. This will make the structure 
-	look a lot better! This can be done once or multiple times.
+	we start with a structure that isn&apos;t perfect, we can heat it up really hot and then cool it down again. This will lead to the formation
+	of a more stable structure with fewer defects. This can be done once or multiple times.
 
 	Now, you try it! Below is a box with a defective structure. Try playing with temperature a bit to see what the best structure you 
-	can get is. Tip- play around with how fast you raise and lower the temperature. Try three different attempts, choose your best one,
-	and write about what you did. Why do you think that was the best method? (or maybe give them more instructions here about how 
-	to do it and have them decide on that, or direct them to do things and ask them what happens and why)
+	can get is. The best structure has as many monomers touching eachother as possible, with their sides touching eachother perfectly.
+	Play around with how fast you raise and lower the temperature. Try three different attempts, choose your best one,
+	and write about what you did. Why do you think that was the best method?
 
 	 
 	 
@@ -75,451 +35,157 @@
 
 	Remember this technique for annealing for future modules! It&apos;s important to note that if the simulation isn&apos;t working 
 	immediately, the system might be stuck because the temperature is too low for the monomers to slide around each 
-	other to reach a better structure. If that happens to you in future modules, just try heating the system and cooling it 
-	down again in the way that matches your best attempt above, and see if that gets you to a better structure!
+	other and reach a better structure. If that happens to you in future modules, just try heating the system and cooling it 
+	down again in the way that matches your best attempt above, and see if that gets you to a better structure.
 
 </text>
-<section start="0" end="5248">
-<paragraph start="0" end="71">
-<content start="0" end="70">
+<section start="0" end="2527">
+<paragraph start="0" end="68">
+<content start="0" end="67">
 <size>20</size></content>
 
-<content start="70" end="71">
+<content start="67" end="68">
 </content>
 
 </paragraph>
-<paragraph start="71" end="72">
-<content start="71" end="72">
+<paragraph start="68" end="69">
+<content start="68" end="69">
 </content>
 
 </paragraph>
-<paragraph start="72" end="176">
-<content start="72" end="74">
+<paragraph start="69" end="171">
+<content start="69" end="71">
 </content>
 
-<content start="74" end="176">
+<content start="71" end="171">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="176" end="280">
-<content start="176" end="280">
+<paragraph start="171" end="235">
+<content start="171" end="235">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="280" end="393">
-<content start="280" end="393">
+<paragraph start="235" end="348">
+<content start="235" end="348">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="393" end="504">
-<content start="393" end="504">
+<paragraph start="348" end="461">
+<content start="348" end="461">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="504" end="614">
-<content start="504" end="614">
+<paragraph start="461" end="576">
+<content start="461" end="576">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="614" end="727">
-<content start="614" end="727">
+<paragraph start="576" end="691">
+<content start="576" end="691">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="727" end="762">
-<content start="727" end="762">
+<paragraph start="691" end="771">
+<content start="691" end="770">
+<size>14</size></content>
+
+<content start="770" end="771">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="762" end="763">
-<content start="762" end="763">
+<paragraph start="771" end="772">
+<content start="771" end="772">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="763" end="867">
-<content start="763" end="867">
+<paragraph start="772" end="878">
+<content start="772" end="878">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="867" end="974">
-<content start="867" end="974">
+<paragraph start="878" end="1005">
+<content start="878" end="1005">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="974" end="1080">
-<content start="974" end="1080">
+<paragraph start="1005" end="1097">
+<content start="1005" end="1097">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1080" end="1189">
-<content start="1080" end="1189">
+<paragraph start="1097" end="1098">
+<content start="1097" end="1098">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1189" end="1296">
-<content start="1189" end="1296">
+<paragraph start="1098" end="1231">
+<content start="1098" end="1231">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1296" end="1356">
-<content start="1296" end="1356">
+<paragraph start="1231" end="1359">
+<content start="1231" end="1359">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1356" end="1358">
-<content start="1356" end="1358">
+<paragraph start="1359" end="1496">
+<content start="1359" end="1496">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1358" end="1361">
-<content start="1358" end="1359">
-<size>14</size></content>
-
-<content start="1359" end="1360">
-<size>14</size><icon>self_assembly_annealing-71.png</icon></content>
-
-<content start="1360" end="1361">
+<paragraph start="1496" end="1585">
+<content start="1496" end="1585">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1361" end="1362">
-<content start="1361" end="1362">
+<paragraph start="1585" end="1586">
+<content start="1585" end="1586">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1362" end="1482">
-<content start="1362" end="1482">
+<paragraph start="1586" end="1718">
+<content start="1586" end="1718">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1482" end="1595">
-<content start="1482" end="1595">
+<paragraph start="1718" end="1850">
+<content start="1718" end="1850">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1595" end="1622">
-<content start="1595" end="1622">
+<paragraph start="1850" end="1966">
+<content start="1850" end="1966">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1622" end="1623">
-<content start="1622" end="1623">
+<paragraph start="1966" end="2040">
+<content start="1966" end="2040">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1623" end="1743">
-<content start="1623" end="1743">
+<paragraph start="2040" end="2041">
+<content start="2040" end="2041">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1743" end="1821">
-<content start="1743" end="1821">
+<paragraph start="2041" end="2044">
+<content start="2041" end="2042">
 <size>14</size></content>
 
-</paragraph>
-<paragraph start="1821" end="1822">
-<content start="1821" end="1822">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1822" end="1944">
-<content start="1822" end="1944">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1944" end="1986">
-<content start="1944" end="1986">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1986" end="1987">
-<content start="1986" end="1987">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1987" end="2105">
-<content start="1987" end="2105">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2105" end="2106">
-<content start="2105" end="2106">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2106" end="2109">
-<content start="2106" end="2107">
-<size>14</size></content>
-
-<content start="2107" end="2108">
+<content start="2042" end="2043">
 <size>14</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>annealing$0.mml</resource><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
+<resource>annealing$1.mml</resource><menubar>false</menubar><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
 
-<content start="2108" end="2109">
-</content>
-
-</paragraph>
-<paragraph start="2109" end="2110">
-<content start="2109" end="2110">
-</content>
-
-</paragraph>
-<paragraph start="2110" end="2114">
-<content start="2110" end="2112">
-</content>
-
-<content start="2112" end="2113">
-<component><class>org.concord.modeler.PageSlider</class>
-<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
-<model>0</model>
-<value>2450.0</value>
-<minimum>500.0</minimum>
-<maximum>25000.0</maximum>
-<nstep>10</nstep>
-<title>Temperature</title>
-<width>400</width>
-<height>100</height>
-<opaque>false</opaque>
-<tick>true</tick>
-<change>Temperature</change>
-</component></content>
-
-<content start="2113" end="2114">
+<content start="2043" end="2044">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2114" end="2115">
-<content start="2114" end="2115">
+<paragraph start="2044" end="2047">
+<content start="2044" end="2045">
 <size>14</size></content>
 
-</paragraph>
-<paragraph start="2115" end="2120">
-<content start="2115" end="2116">
-<size>14</size></content>
-
-<content start="2116" end="2117">
-<size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    Low Temperature
-  &lt;/body&gt;
-&lt;/html&gt;
-</title><opaque>false</opaque>
-</component></content>
-
-<content start="2117" end="2118">
-<size>14</size></content>
-
-<content start="2118" end="2119">
-<size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    Medium Temperature
-  &lt;/body&gt;
-&lt;/html&gt;
-</title><opaque>false</opaque>
-</component></content>
-
-<content start="2119" end="2120">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2120" end="2126">
-<content start="2120" end="2121">
-<size>14</size></content>
-
-<content start="2121" end="2122">
-<size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    High Temperature
-  &lt;/body&gt;
-&lt;/html&gt;
-</title><opaque>false</opaque>
-</component></content>
-
-<content start="2122" end="2124">
-<size>14</size></content>
-
-<content start="2124" end="2125">
-<size>14</size><component><class>org.concord.modeler.PageTextArea</class>
-<width>400</width>
-<height>200</height>
-<title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    Describe the differences between Low, Medium, and High temperature boxes. 
-    How are they different? Why do you think they are different?
-  &lt;/body&gt;
-&lt;/html&gt;
-</title>
-<opaque>false</opaque>
-</component></content>
-
-<content start="2125" end="2126">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2126" end="2127">
-<content start="2126" end="2127">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2127" end="2256">
-<content start="2127" end="2256">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2256" end="2383">
-<content start="2256" end="2383">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2383" end="2511">
-<content start="2383" end="2511">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2511" end="2633">
-<content start="2511" end="2633">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2633" end="2749">
-<content start="2633" end="2749">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2749" end="2878">
-<content start="2749" end="2878">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2878" end="3007">
-<content start="2878" end="3007">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3007" end="3133">
-<content start="3007" end="3133">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3133" end="3258">
-<content start="3133" end="3258">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3258" end="3390">
-<content start="3258" end="3390">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3390" end="3459">
-<content start="3390" end="3459">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3459" end="3460">
-<content start="3459" end="3460">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3460" end="3587">
-<content start="3460" end="3587">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3587" end="3716">
-<content start="3587" end="3716">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3716" end="3807">
-<content start="3716" end="3807">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3807" end="3808">
-<content start="3807" end="3808">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3808" end="3941">
-<content start="3808" end="3941">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="3941" end="4069">
-<content start="3941" end="4069">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4069" end="4204">
-<content start="4069" end="4204">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4204" end="4265">
-<content start="4204" end="4265">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4265" end="4266">
-<content start="4265" end="4266">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4266" end="4398">
-<content start="4266" end="4398">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4398" end="4531">
-<content start="4398" end="4531">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4531" end="4659">
-<content start="4531" end="4659">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4659" end="4762">
-<content start="4659" end="4762">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4762" end="4763">
-<content start="4762" end="4763">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4763" end="4766">
-<content start="4763" end="4764">
-<size>14</size></content>
-
-<content start="4764" end="4765">
-<size>14</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>annealing$1.mml</resource><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
-
-<content start="4765" end="4766">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="4766" end="4769">
-<content start="4766" end="4767">
-<size>14</size></content>
-
-<content start="4767" end="4768">
+<content start="2045" end="2046">
 <component><class>org.concord.modeler.PageSlider</class>
 <modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
 <model>1</model>
@@ -535,28 +201,25 @@
 <change>Temperature</change>
 </component></content>
 
-<content start="4768" end="4769">
+<content start="2046" end="2047">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4769" end="4771">
-<content start="4769" end="4770">
-<size>14</size></content>
-
-<content start="4770" end="4771">
+<paragraph start="2047" end="2049">
+<content start="2047" end="2049">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4771" end="4772">
-<content start="4771" end="4772">
+<paragraph start="2049" end="2050">
+<content start="2049" end="2050">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4772" end="4776">
-<content start="4772" end="4773">
+<paragraph start="2050" end="2054">
+<content start="2050" end="2051">
 <size>14</size></content>
 
-<content start="4773" end="4774">
+<content start="2051" end="2052">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -568,7 +231,7 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="4774" end="4775">
+<content start="2052" end="2053">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -580,15 +243,15 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="4775" end="4776">
+<content start="2053" end="2054">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4776" end="4780">
-<content start="4776" end="4777">
+<paragraph start="2054" end="2058">
+<content start="2054" end="2055">
 <size>14</size></content>
 
-<content start="4777" end="4778">
+<content start="2055" end="2056">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -600,7 +263,7 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="4778" end="4779">
+<content start="2056" end="2057">
 <size>14</size><component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -616,44 +279,44 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="4779" end="4780">
+<content start="2057" end="2058">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4780" end="4781">
-<content start="4780" end="4781">
+<paragraph start="2058" end="2059">
+<content start="2058" end="2059">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4781" end="4901">
-<content start="4781" end="4901">
+<paragraph start="2059" end="2179">
+<content start="2059" end="2179">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="4901" end="5015">
-<content start="4901" end="5015">
+<paragraph start="2179" end="2293">
+<content start="2179" end="2293">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="5015" end="5137">
-<content start="5015" end="5137">
+<paragraph start="2293" end="2416">
+<content start="2293" end="2416">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="5137" end="5246">
-<content start="5137" end="5245">
+<paragraph start="2416" end="2525">
+<content start="2416" end="2524">
 <size>14</size></content>
 
-<content start="5245" end="5246">
+<content start="2524" end="2525">
 </content>
 
 </paragraph>
-<paragraph start="5246" end="5247">
-<content start="5246" end="5247">
+<paragraph start="2525" end="2526">
+<content start="2525" end="2526">
 </content>
 
 </paragraph>
-<paragraph start="5247" end="5248">
+<paragraph start="2526" end="2527">
 </paragraph>
 </section>
 </document>
