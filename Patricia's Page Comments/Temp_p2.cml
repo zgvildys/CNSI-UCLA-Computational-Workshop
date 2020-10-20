@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Design and Procedure</page_title>
+<text>	Role of Temperature in Assembly of Viral Capsids
+
+	Next -&gt;
+	The assembly of viral capsids from their proteins requires the correct temperature. Answer the following questions using the simulation box
+	below. Run your simulations for 200 ns to give the proteins enough time to interact.
+
+					 
+
+	                                                   
+
+
+	How do the particles interact when you set the temperature to 85 &#176;C? What do they form?
+	     
+
+	How do the particles interact when you set the temperature to 5 &#176;C? What do they form?
+	    
+
+	How do the particles interact when you set the temperature to 25 &#176;C? What do they form?
+	    
+
+	As you can see from your simulations, temperature modifies how well the proteins can interact with each other. At the extremes of 
+	temperature, the intermolecular forces that define the protein interactions become either too strong or too weak to form capsids. At
+	intermediate temperatures, these forces are balanced to form the complex structures of capsids. In fact, different types of capsids prefer
+	different intermediate temperatures to form optimally.
+</text>
+<section start="0" end="1102">
+<paragraph start="0" end="50">
+<content start="0" end="49">
+<size>24</size><family>Times New Roman</family></content>
+
+<content start="49" end="50">
+<size>53</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="50" end="51">
+<content start="50" end="51">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="51" end="60">
+<content start="51" end="52">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="52" end="59">
+<size>16</size><family>Times New Roman</family><href>annealing.cml</href></content>
+
+<content start="59" end="60">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="60" end="201">
+<content start="60" end="201">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="201" end="287">
+<content start="201" end="287">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="287" end="288">
+<content start="287" end="288">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="288" end="295">
+<content start="288" end="293">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="293" end="294">
+<component><class>org.concord.modeler.PageSlider</class>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<value>0.0</value>
+<minimum>5.0</minimum>
+<maximum>3105.0</maximum>
+<nstep>4</nstep>
+<title>Temperature</title>
+<width>200</width>
+<height>60</height>
+<opaque>false</opaque>
+<tick>true</tick>
+<labeltable>{value=&quot;3100.0&quot;, label=&quot;85 &#176;C&quot;}{value=&quot;775.0&quot;, label=&quot;25 &#176;C&quot;}{value=&quot;0.0&quot;, label=&quot;5 &#176;C&quot;}</labeltable>
+<change>Temperature</change>
+</component></content>
+
+<content start="294" end="295">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="295" end="296">
+<content start="295" end="296">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="296" end="349">
+<content start="296" end="347">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="347" end="348">
+<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Temp_p2$0.mml</resource><menubar>false</menubar></component></content>
+
+<content start="348" end="349">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="349" end="350">
+<content start="349" end="350">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="350" end="351">
+<content start="350" end="351">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="351" end="440">
+<content start="351" end="414">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="414" end="419">
+<size>16</size><family>Times New Roman</family><bold>true</bold></content>
+
+<content start="419" end="440">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="440" end="447">
+<content start="440" end="445">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="445" end="446">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>800</width>
+<height>60</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="446" end="447">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="447" end="448">
+<content start="447" end="448">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="448" end="536">
+<content start="448" end="511">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="511" end="515">
+<size>16</size><family>Times New Roman</family><bold>true</bold></content>
+
+<content start="515" end="536">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="536" end="542">
+<content start="536" end="540">
+</content>
+
+<content start="540" end="541">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>800</width>
+<height>60</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="541" end="542">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="542" end="543">
+<content start="542" end="543">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="543" end="632">
+<content start="543" end="606">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="606" end="611">
+<size>16</size><family>Times New Roman</family><bold>true</bold></content>
+
+<content start="611" end="632">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="632" end="638">
+<content start="632" end="636">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="636" end="637">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>800</width>
+<height>60</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="637" end="638">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="638" end="639">
+<content start="638" end="639">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="639" end="771">
+<content start="639" end="771">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="771" end="905">
+<content start="771" end="905">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="905" end="1045">
+<content start="905" end="1045">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1045" end="1101">
+<content start="1045" end="1101">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="1101" end="1102">
+</paragraph>
+</section>
+</document>

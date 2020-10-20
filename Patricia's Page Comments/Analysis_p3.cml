@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>page 3 analysis</page_title>
+<text>Assembling a virus-like particle (VLP)
+Next -&gt;
+ 
+                          
+
+ 
+
+
+
+ 
+ 
+</text>
+<section start="0" end="87">
+<paragraph start="0" end="39">
+<content start="0" end="39">
+<size>25</size></content>
+
+</paragraph>
+<paragraph start="39" end="47">
+<content start="39" end="46">
+<href>Analysis_p4.cml</href></content>
+
+<content start="46" end="47">
+</content>
+
+</paragraph>
+<paragraph start="47" end="49">
+<content start="47" end="48">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>250.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Instructions&lt;/title&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 5&quot;&gt;
+      For this page, you will be simulating the &amp;quot;assembly&amp;quot; of a virus-like 
+      particle (vlp). You are given two subunits in the left side of the 
+      simulation box and a circular object with negative charges in the center 
+      of the box. The circular object represents the cargo (or genome) inside 
+      the protein shell, which is made up of the subunits on the left. The 
+      components of the protein shell are currently uncharged and it is up to 
+      you to place the charges and correct number of each subunit to assemble 
+      around the shell. To determine the number of subunits to place, 
+      calculate the angle formed by the assembly of the two subunits on the 
+      left when they form two edges and a vertex. Remember to assemble around 
+      the capsid, you will need both interactions between the subunits and the 
+      cargo and interactions between the subunits. It may take some time to 
+      find the best combination of these interactions.
+    &lt;/p&gt;
+    &lt;p style=&quot;margin-top: 5&quot;&gt;
+      You can calculate the angle by taking a snapshot of the peices 
+      assembled. A diagram done with different monomers is shown below. Once 
+      you know the angle, you can determine how many corners you need to 
+      completely close the shell and can calculate how many of each you may 
+      need to assemble. Once you have assembled your vlp, take a snapshot and 
+      place it in the snapshot box below the simulation box and answer the 
+      question(s) at the bottom of the page.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="48" end="49">
+</content>
+
+</paragraph>
+<paragraph start="49" end="76">
+<content start="49" end="50">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>400.0</width>
+<height>300.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/angle_for_subunits.png&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="50" end="74">
+</content>
+
+<content start="74" end="75">
+<component><class>org.concord.modeler.ImageQuestion</class><width>300</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Snapshot placement to calculate angle where subunits meet.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+<border>Line</border>
+</component></content>
+
+<content start="75" end="76">
+<size>25</size></content>
+
+</paragraph>
+<paragraph start="76" end="77">
+<Alignment>1</Alignment>
+<content start="76" end="77">
+<size>25</size></content>
+
+</paragraph>
+<paragraph start="77" end="79">
+<content start="77" end="78">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Analysis_p3$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
+
+<content start="78" end="79">
+</content>
+
+</paragraph>
+<paragraph start="79" end="80">
+<content start="79" end="80">
+</content>
+
+</paragraph>
+<paragraph start="80" end="81">
+<content start="80" end="81">
+</content>
+
+</paragraph>
+<paragraph start="81" end="82">
+<Alignment>1</Alignment>
+<content start="81" end="82">
+</content>
+
+</paragraph>
+<paragraph start="82" end="84">
+<content start="82" end="83">
+<component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Place snapshot of assembled vlp here.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+<border>Line</border>
+</component></content>
+
+<content start="83" end="84">
+</content>
+
+</paragraph>
+<paragraph start="84" end="86">
+<content start="84" end="85">
+<component><class>org.concord.modeler.PageTextField</class>
+<width>600</width>
+<height>400</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    What role do the T-shaped structures play in the capsid and without them, 
+    do you think the capsid would assemble around the cargo?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<description>The T-shaped structures act as points of curvature for the capsid. Without them, the capsid would not assemble as the other monomer unit would prefer to pack in a rectangular lattice.</description>
+<opaque>false</opaque>
+</component></content>
+
+<content start="85" end="86">
+</content>
+
+</paragraph>
+<paragraph start="86" end="87">
+</paragraph>
+</section>
+</document>
