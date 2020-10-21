@@ -32,7 +32,9 @@ Introduction of the T Number
  
 
 
-Earlier, we mentioned that the coat protein is often an irregularily shaped object. Shown above is a picture of a potential monomeric unit of a capsid protein (CCMV). Notice that the protein subunit is not symmetrical. So then how can irregularly shaped objects come together to form such high symmetry particles? Work done by Watson and Crick, the same scientists who helped undercover the helical nature of DNA, found that all round (icosahedral capsids) viruses had multiples of 60 of the coat protein. That is they had 60, 120, 180, ect. identical subunits in the virus. Experiments also observed that though the round viruses came in many different sizes, the size of the monomeric coat proteins for the different viruses were roughly the same. In the early 1960s, scientists Donald Caspar and Aaron Klug forumlated the number and arrangement of monomers could be in an icosahedral shell called the &quot;quasi-equivalence&quot; principle. The identical monomers (or subunits) combine in three inequivalent positions (represented on the figure below as the number 6 inside the triangles) to form pentamers and hexamers. These structure can be described by two indicies, h and k, such that starting from the edge of a pentamer taking h steps and turning 60 degrees counterclockwise and taking k steps to get to the next pentamer. The process is illustrated below.
+Earlier, we mentioned that the coat protein is often an irregularily shaped object. Shown above is a picture of a potential monomeric unit of a capsid protein (CCMV). Notice that the protein subunit is not symmetrical. So then how can irregularly shaped objects come together to form such high symmetry particles? Work done by Watson and Crick, the same scientists who helped undercover the helical nature of DNA, found that all round (icosahedral capsids) viruses had multiples of 60 of the coat protein. That is they had 60, 120, 180, ect. identical subunits in the virus. Experiments also observed that though the round viruses came in many different sizes, the size of the monomeric coat proteins for the different viruses were roughly the same. In the early 1960s, scientists Donald Caspar and Aaron Klug forumlated the number and arrangement of monomers could be in an icosahedral shell called the &quot;quasi-equivalence&quot; principle. 
+	The identical monomers (or subunits) combine in three inequivalent positions (represented on the figure below as the number 6 inside the triangles) to form pentamers and hexamers. If one makes an arrangement of triangles such that each vertex of triangles have 6 nearest neighbors, then you would create a sheet of hexamers. The reason the icosahedrons are not just make up of hexamers is because without any pentamers, the structure could not form a closed shell. To make a closed shell defects (or irregularities in the sheet of hexagones) are needed. To form a highly symmetric particle like an icosahedron, five defects are needed and it is created by removing on triangle from a hexagon and then bending it inward to form a pentagon. These pentagon defects add curvature to the structure and allow the shell to be closed. 
+	The spacing between these defects is what gives rise to the different T structures and we will explore this idea more in a bit. These structure can be described by two indicies, h and k, such that starting from the edge of a pentamer taking h steps and turning 60 degrees counterclockwise and taking k steps to get to the next pentamer. The process is illustrated below.
  
 
  
@@ -40,7 +42,7 @@ Earlier, we mentioned that the coat protein is often an irregularily shaped obje
 The b and a vectors here represent what we would call the unit vectors along the h and k axises. The triangulation number, which represents these quasi-equivalent icosahedral structures, is given by.
 
  
-The total number of protein subunits in the icosahedral shell is T times 60. The smallest T number possible is a T=1 structure, which corresponds to the triangular monomer being one of the triangles on a triangular lattice.
+The total number of protein subunits in the icosahedral shell is T times 60. The smallest T number possible is a T=1 structure, which corresponds to the triangular monomer being one of the triangles on a triangular lattice. The arrangement of a singular irregular protein into a triangle allows a virus to make as little as one capsid protein that can for many different sized shells!
 
 For the following triangle, what is the T number, and how many protein subunits are in the complete icosahedron?
  
@@ -49,7 +51,7 @@ For the following triangle, what is the T number, and how many protein subunits 
 
 
 </text>
-<section start="0" end="5976">
+<section start="0" end="6916">
 <paragraph start="0" end="20">
 <Alignment>1</Alignment>
 <content start="0" end="20">
@@ -88,8 +90,8 @@ For the following triangle, what is the T number, and how many protein subunits 
 <Alignment>1</Alignment>
 <content start="118" end="119">
 <component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>400.0</height>
+<width>300.0</width>
+<height>300.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -213,8 +215,8 @@ For the following triangle, what is the T number, and how many protein subunits 
 <Alignment>1</Alignment>
 <content start="2836" end="2837">
 <component><class>org.concord.modeler.PageTextBox</class>
-<width>400.0</width>
-<height>200.0</height>
+<width>300.0</width>
+<height>250.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -267,15 +269,15 @@ For the following triangle, what is the T number, and how many protein subunits 
 <Alignment>1</Alignment>
 <content start="4059" end="4060">
 <component><class>org.concord.modeler.PageTextBox</class>
-<width>1000.0</width>
-<height>750.0</height>
+<width>500.0</width>
+<height>450.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      &lt;img src=&quot;../Images_GIFs/dimer.png&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/dimer.png&quot; height=&quot;400&quot; width=&quot;475&quot;&gt;
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -297,24 +299,34 @@ For the following triangle, what is the T number, and how many protein subunits 
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4063" end="5421">
-<content start="4063" end="5421">
+<paragraph start="4063" end="4999">
+<content start="4063" end="4999">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5421" end="5423">
+<paragraph start="4999" end="5828">
+<content start="4999" end="5828">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="5828" end="6200">
+<content start="5828" end="6200">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="6200" end="6202">
 <Alignment>1</Alignment>
-<content start="5421" end="5422">
+<content start="6200" end="6201">
 <component><class>org.concord.modeler.PageTextBox</class>
-<width>1500.0</width>
-<height>600.0</height>
+<width>700.0</width>
+<height>500.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      &lt;img src=&quot;../Images_GIFs/Two_T_number_icosahedrons.png&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/Two_T_number_icosahedrons.png&quot; height=&quot;400&quot; width=&quot;600&quot;&gt;
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -322,28 +334,28 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="5422" end="5423">
+<content start="6201" end="6202">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5423" end="5424">
-<content start="5423" end="5424">
+<paragraph start="6202" end="6203">
+<content start="6202" end="6203">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5424" end="5426">
+<paragraph start="6203" end="6205">
 <Alignment>1</Alignment>
-<content start="5424" end="5425">
+<content start="6203" end="6204">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>800.0</height>
+<height>500.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      &lt;img src=&quot;../Images_GIFs/T number illustrated.png&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/T number illustrated.png&quot; height=&quot;400&quot; width=&quot;700&quot;&gt;
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -351,31 +363,31 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="5425" end="5426">
+<content start="6204" end="6205">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5426" end="5427">
-<content start="5426" end="5427">
+<paragraph start="6205" end="6206">
+<content start="6205" end="6206">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5427" end="5627">
-<content start="5427" end="5627">
+<paragraph start="6206" end="6406">
+<content start="6206" end="6406">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5627" end="5628">
-<content start="5627" end="5628">
+<paragraph start="6406" end="6407">
+<content start="6406" end="6407">
 </content>
 
 </paragraph>
-<paragraph start="5628" end="5630">
+<paragraph start="6407" end="6409">
 <Alignment>1</Alignment>
-<content start="5628" end="5629">
+<content start="6407" end="6408">
 <component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>200.0</height>
+<width>250.0</width>
+<height>100.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -390,31 +402,31 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="5629" end="5630">
+<content start="6408" end="6409">
 </content>
 
 </paragraph>
-<paragraph start="5630" end="5854">
-<content start="5630" end="5854">
+<paragraph start="6409" end="6794">
+<content start="6409" end="6794">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5854" end="5855">
-<content start="5854" end="5855">
+<paragraph start="6794" end="6795">
+<content start="6794" end="6795">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5855" end="5968">
-<content start="5855" end="5968">
+<paragraph start="6795" end="6908">
+<content start="6795" end="6908">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5968" end="5970">
+<paragraph start="6908" end="6910">
 <Alignment>1</Alignment>
-<content start="5968" end="5969">
+<content start="6908" end="6909">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
-<height>200.0</height>
+<height>350.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -429,19 +441,19 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="5969" end="5970">
+<content start="6909" end="6910">
 </content>
 
 </paragraph>
-<paragraph start="5970" end="5971">
+<paragraph start="6910" end="6911">
 <Alignment>1</Alignment>
-<content start="5970" end="5971">
+<content start="6910" end="6911">
 </content>
 
 </paragraph>
-<paragraph start="5971" end="5973">
+<paragraph start="6911" end="6913">
 <Alignment>1</Alignment>
-<content start="5971" end="5972">
+<content start="6911" end="6912">
 <component><class>org.concord.modeler.PageTextField</class>
 <width>400</width>
 <height>60</height>
@@ -458,21 +470,21 @@ For the following triangle, what is the T number, and how many protein subunits 
 <opaque>false</opaque>
 </component></content>
 
-<content start="5972" end="5973">
+<content start="6912" end="6913">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5973" end="5974">
-<content start="5973" end="5974">
+<paragraph start="6913" end="6914">
+<content start="6913" end="6914">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5974" end="5975">
-<content start="5974" end="5975">
+<paragraph start="6914" end="6915">
+<content start="6914" end="6915">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5975" end="5976">
+<paragraph start="6915" end="6916">
 </paragraph>
 </section>
 </document>

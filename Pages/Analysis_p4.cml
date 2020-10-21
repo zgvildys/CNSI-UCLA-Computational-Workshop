@@ -55,8 +55,9 @@
       We will demonstrate the connection by first looking at how we can 
       assemble the same shape around a larger cargo. We can make the 
       connection to how icosahedral viruses have the same shape and rougly the 
-      same monomer sizes, but can accommodate a wide variety of capsid sizes. 
-      Answer the question below and then proceed to the simulation box.
+      same monomer sizes (capsid proteins being around the same size across 
+      all spherical viruses), but can be tens to hundres of nanometers in 
+      diameter.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -72,7 +73,7 @@
 <content start="48" end="49">
 <component><class>org.concord.modeler.PageMultipleChoice</class>
 <single>true</single>
-<row>4</row>
+<row>3</row>
 <width>600</width>
 <height>400</height>
 <title>&lt;html&gt;
@@ -88,11 +89,10 @@
 <clear>true</clear>
 <choice>Increase number of T-shaped monomers.</choice>
 <choice>Increase number of rectangular monomers.</choice>
-<choice>Increase the size of the T-shaped monomers.</choice>
 <choice>Increase the length of the rectangular monomers.</choice>
-<answer>3</answer>
+<answer>2</answer>
 <opaque>false</opaque>
-<script> -choiceseparator-  -choiceseparator-  -choiceseparator- </script>
+<script> -choiceseparator-  -choiceseparator- </script>
 </component></content>
 
 <content start="49" end="50">
@@ -132,7 +132,7 @@
 <paragraph start="53" end="55">
 <content start="53" end="54">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Analysis_p4$0.mml</resource><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
+<resource>Analysis_p4$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Rotate Object</button><button>Duplicate Object</button></component></content>
 
 <content start="54" end="55">
 </content>
@@ -211,12 +211,13 @@
     
   &lt;/head&gt;
   &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    What connection can we draw from the subunits we have in our simulation 
-    box to the pentamers and hexamers that make up real viral capsids?
+    In previous sections we saw that the T shaped subunits created curvature 
+    for our capsid to be able to close. What role do the rectangular monomers 
+    have when encapsulating different sized cargo?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<description>The pentamers in a real capsid add curvature to the shell and are required to form a closed shell, similarily to how the triangle or T shaped monomers add curvature to our 2D model. The hexamers in a real capsid are energetically favorable to form and can form flat sheets similar to how the rectangular subunits in the simulation box make up the edges.</description>
+<description>The rectangular monomers allow for the capsid to keep the same shape, but increase the lengths of the sides and thus the size of the capsid.</description>
 <opaque>false</opaque>
 <border>Line</border>
 </component></content>
@@ -250,12 +251,12 @@
     
   &lt;/head&gt;
   &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    What role do the rectangular subunits play in assembling around larger 
-    cargo and how can we relate that to T number in real viruses?
+    How are the T shaped subunits similar to pentamers in real viral capsids 
+    and the rectangular subunits similar to hexamers?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<description>The rectangular subunits play the same role that hexamers play in larger T number structures. They extend the distance between the pentamer defects allowing for the same icosahedral structure but for a larger structure.</description>
+<description>The rectangular subunits play the same role that hexamers play in larger T number structures. They extend the distance between the pentamer defects allowing for the same icosahedral structure but for a larger structure. The T shaped structures, like the pentamers in a real virus, are required to create a closed shell.</description>
 <opaque>false</opaque>
 <border>Line</border>
 </component></content>

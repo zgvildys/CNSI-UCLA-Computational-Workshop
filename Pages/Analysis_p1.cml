@@ -9,13 +9,13 @@ Next -&gt;
 
 
  
-  
+   
    
 
 
 
 </text>
-<section start="0" end="52">
+<section start="0" end="53">
 <paragraph start="0" end="26">
 <content start="0" end="26">
 <size>53</size><family>Times New Roman</family></content>
@@ -115,7 +115,7 @@ Next -&gt;
 </content>
 
 </paragraph>
-<paragraph start="41" end="44">
+<paragraph start="41" end="45">
 <content start="41" end="42">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
@@ -146,6 +146,10 @@ Next -&gt;
         make several copies of each molecule.
       &lt;/li&gt;
       &lt;li&gt;
+        You can control the temperature of you simulation with the temperature 
+        slider located to the right of the simulation box.
+      &lt;/li&gt;
+      &lt;li&gt;
         Take a snapshot when your stucture has assembled itself.
       &lt;/li&gt;
       &lt;li&gt;
@@ -164,24 +168,28 @@ Next -&gt;
 <resource>Analysis_p1$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Duplicate Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button></component></content>
 
 <content start="43" end="44">
+<component><class>org.concord.modeler.PageSlider</class>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<value>700.0</value>
+<minimum>0.0</minimum>
+<maximum>5000.0</maximum>
+<nstep>50</nstep>
+<title>Temperature</title>
+<width>100</width>
+<height>200</height>
+<orientation>1</orientation>
+<opaque>false</opaque>
+<tick>true</tick>
+<labeltable>{value=&quot;5000.0&quot;, label=&quot;100C&quot;}{value=&quot;500.0&quot;, label=&quot;20C&quot;}{value=&quot;2500.0&quot;, label=&quot;50C&quot;}{value=&quot;0.0&quot;, label=&quot;0C&quot;}</labeltable>
+<change>Temperature</change>
+</component></content>
+
+<content start="44" end="45">
 </content>
 
 </paragraph>
-<paragraph start="44" end="48">
-<content start="44" end="45">
-<component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body face=&quot;Arial&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; bgcolor=&quot;rgb(230, 230, 230)&quot;&gt;
-    &lt;strong&gt;Place a snapshot here to show one self-assembled nanostructure you 
-    designed.&lt;/strong&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</title><opaque>false</opaque>
-<border>Line</border>
-</component></content>
-
+<paragraph start="45" end="49">
 <content start="45" end="46">
 <component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
@@ -211,10 +219,19 @@ Next -&gt;
 </component></content>
 
 <content start="47" end="48">
-</content>
+<component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;Arial&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; bgcolor=&quot;rgb(230, 230, 230)&quot;&gt;
+    &lt;strong&gt;Place a snapshot here to show one self-assembled nanostructure you 
+    designed.&lt;/strong&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+<border>Line</border>
+</component></content>
 
-</paragraph>
-<paragraph start="48" end="49">
 <content start="48" end="49">
 </content>
 
@@ -230,6 +247,11 @@ Next -&gt;
 
 </paragraph>
 <paragraph start="51" end="52">
+<content start="51" end="52">
+</content>
+
+</paragraph>
+<paragraph start="52" end="53">
 </paragraph>
 </section>
 </document>
