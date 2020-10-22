@@ -10,33 +10,28 @@
 <text> 
 
 	Next -&gt;
-	We normally think of temperature in macroscopic terms: the air temperature outside or how cold the water is at the beach. These are the 
-	temperatures of things we can directly see and feel. However, temperature is also important at the nanoscale where viruses and their capsid
-	proteins exist.
 
-	We can observe this in our simulation boxes. The box on the left shows an ensemble (or arrangement) of capsid proteins at low temperature, while the box
-	on the right shows the same ensemble at high temperature.
+ 
 
-	What differences do you notice in the motion of the proteins between the two temperatures?
-	     
+ 
 
-		             Low Temperature                                                         High Temperature
+  
 
-	        
+        
 
-	Let us characterize the relation you&apos;ve observed between temperature and motion at the microscopic scale.
+        
 
-	At the microscopic scale, temperature is proportional to the average kinetic energy of an ensemble. We can write this as T &#8733; KE, where
-	T is the temperature and KE is the kinetic energy. This means that an ensemble at a higher temperature has a larger average kinetic energy
-	while an ensemble at a lower temperature has a lower kinetic energy.
+ 
 
-	The kinetic energy is the energy of a particle due to its motion. One way of defining it is by the equation KE = &#189; mv2, where m is the
-	mass of the object and v is its velocity. Thus the faster an object is moving, the more kinetic energy it has.
+ 
 
-	Together these equations give us the relation T &#8733; v2. This means that a higher temperature means a higher average veloctiy, while a
-	lower temperature means a lower average velocity, which is exactly what the simulation boxes show us.
+ 
+
+ 
+
+
 </text>
-<section start="0" end="1680">
+<section start="0" end="57">
 <paragraph start="0" end="2">
 <content start="0" end="1">
 <icon>Banner_Temperature_Micro_Scale.png</icon></content>
@@ -54,58 +49,83 @@
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="4" end="11">
+<content start="4" end="12">
 <size>16</size><family>Times New Roman</family><href>Temp_p2.cml</href></content>
 
-<content start="11" end="12">
+</paragraph>
+<paragraph start="12" end="13">
+<Alignment>1</Alignment>
+<content start="12" end="13">
+</content>
+
+</paragraph>
+<paragraph start="13" end="15">
+<Alignment>1</Alignment>
+<content start="13" end="14">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>80.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    We normally think of temperature in macroscopic terms: the air temperature 
+    outside or how cold the water is at the beach. These are the temperatures 
+    of things we can directly see and feel. However, temperature is also 
+    important at the nanoscale where viruses and their capsid proteins exist.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="14" end="15">
+</content>
+
+</paragraph>
+<paragraph start="15" end="16">
+<Alignment>1</Alignment>
+<content start="15" end="16">
+</content>
+
+</paragraph>
+<paragraph start="16" end="18">
+<Alignment>1</Alignment>
+<content start="16" end="17">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>60.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    We can observe this in our simulation boxes. The box on the left shows an 
+    ensemble (or arrangement) of capsid proteins at low temperature, while the 
+    box on the right shows the same ensemble at high temperature.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="17" end="18">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="12" end="150">
-<content start="12" end="150">
+<paragraph start="18" end="19">
+<Alignment>1</Alignment>
+<content start="18" end="19">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="150" end="291">
-<content start="150" end="291">
+<paragraph start="19" end="22">
+<Alignment>1</Alignment>
+<content start="19" end="20">
 <size>16</size><family>Times New Roman</family></content>
 
-</paragraph>
-<paragraph start="291" end="308">
-<content start="291" end="308">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="308" end="309">
-<content start="308" end="309">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="309" end="463">
-<content start="309" end="463">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="463" end="522">
-<content start="463" end="522">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="522" end="523">
-<content start="522" end="523">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="523" end="615">
-<content start="523" end="615">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="615" end="622">
-<content start="615" end="620">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="620" end="621">
+<content start="20" end="21">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>800</width>
 <height>60</height>
@@ -114,162 +134,225 @@
     
   &lt;/head&gt;
   &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    What differences do you notice in the motion of the proteins between the 
+    two temperatures?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
-<content start="621" end="622">
+<content start="21" end="22">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="622" end="623">
-<content start="622" end="623">
+<paragraph start="22" end="23">
+<Alignment>1</Alignment>
+<content start="22" end="23">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="623" end="727">
-<content start="623" end="726">
-<size>20</size><family>Times New Roman</family></content>
+<paragraph start="23" end="32">
+<Alignment>1</Alignment>
+<content start="23" end="24">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>406.0</width>
+<height>60.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;b&gt;&lt;font size=&quot;5&quot;&gt;Low Temperature&lt;/font&gt;&lt;/b&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
 
-<content start="726" end="727">
+<content start="24" end="30">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="30" end="31">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>410.0</width>
+<height>60.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;b&gt;&lt;font size=&quot;5&quot;&gt;High Temperature&lt;/font&gt;&lt;/b&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="31" end="32">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="727" end="728">
-<content start="727" end="728">
+<paragraph start="32" end="33">
+<Alignment>1</Alignment>
+<content start="32" end="33">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="728" end="738">
-<content start="728" end="729">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="729" end="730">
+<paragraph start="33" end="42">
+<Alignment>1</Alignment>
+<content start="33" end="34">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
 <resource>Temp_p1$0.mml</resource><menubar>false</menubar></component></content>
 
-<content start="730" end="736">
+<content start="34" end="40">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="736" end="737">
+<content start="40" end="41">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
 <resource>Temp_p1$1.mml</resource><menubar>false</menubar></component></content>
 
-<content start="737" end="738">
+<content start="41" end="42">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="738" end="739">
-<content start="738" end="739">
+<paragraph start="42" end="43">
+<Alignment>1</Alignment>
+<content start="42" end="43">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="739" end="846">
-<content start="739" end="846">
+<paragraph start="43" end="45">
+<Alignment>1</Alignment>
+<content start="43" end="44">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>40.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Let us characterize the relation you&apos;ve observed between temperature and 
+    motion at the microscopic scale.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="44" end="45">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="846" end="847">
-<content start="846" end="847">
+<paragraph start="45" end="46">
+<Alignment>1</Alignment>
+<content start="45" end="46">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="847" end="983">
-<content start="847" end="969">
-<size>16</size><family>Times New Roman</family></content>
+<paragraph start="46" end="48">
+<Alignment>1</Alignment>
+<content start="46" end="47">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>80.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    At the microscopic scale, temperature is proportional to the average 
+    kinetic energy of an ensemble. We can write this as &lt;b&gt;T &amp;#8733; KE&lt;/b&gt;, 
+    where &lt;b&gt;T&lt;/b&gt; is the temperature and &lt;b&gt;KE&lt;/b&gt; is the kinetic energy. 
+    This means that an ensemble at a higher temperature has a larger average 
+    kinetic energy while an ensemble at a lower temperature has a lower 
+    kinetic energy.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
 
-<content start="969" end="975">
-<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
-
-<content start="975" end="983">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="983" end="1123">
-<content start="983" end="984">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="984" end="985">
-<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
-
-<content start="985" end="1009">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="1009" end="1011">
-<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
-
-<content start="1011" end="1123">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="1123" end="1193">
-<content start="1123" end="1193">
+<content start="47" end="48">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="1193" end="1194">
-<content start="1193" end="1194">
+<paragraph start="48" end="49">
+<Alignment>1</Alignment>
+<content start="48" end="49">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="1194" end="1330">
-<content start="1194" end="1303">
-<size>16</size><family>Times New Roman</family></content>
+<paragraph start="49" end="51">
+<Alignment>1</Alignment>
+<content start="49" end="50">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>65.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    The kinetic energy is the energy of a particle due to its motion. One way 
+    of defining it is by the equation &lt;b&gt;KE = &amp;#189; m&lt;i&gt;v&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/b&gt; 
+    where m is the mass of the object and &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; is its velocity. 
+    Thus the faster an object is moving, the more kinetic energy it has.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
 
-<content start="1303" end="1312">
-<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
-
-<content start="1312" end="1313">
-<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic><superscript>true</superscript></content>
-
-<content start="1313" end="1321">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="1321" end="1322">
-<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
-
-<content start="1322" end="1330">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="1330" end="1442">
-<content start="1330" end="1354">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="1354" end="1355">
-<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
-
-<content start="1355" end="1442">
-<size>16</size><family>Times New Roman</family></content>
+<content start="50" end="51">
+</content>
 
 </paragraph>
-<paragraph start="1442" end="1443">
-<content start="1442" end="1443">
-<size>16</size><family>Times New Roman</family></content>
+<paragraph start="51" end="52">
+<Alignment>1</Alignment>
+<content start="51" end="52">
+</content>
 
 </paragraph>
-<paragraph start="1443" end="1576">
-<content start="1443" end="1490">
-<size>16</size><family>Times New Roman</family></content>
+<paragraph start="52" end="54">
+<Alignment>1</Alignment>
+<content start="52" end="53">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>65.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Together these equations give us the relation &lt;b&gt;T &amp;#8733; &lt;i&gt;v&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/b&gt;. 
+    This means that a higher temperature means a higher average veloctiy, 
+    while a lower temperature means a lower average velocity, which is exactly 
+    what the simulation boxes show us.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
 
-<content start="1490" end="1495">
-<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic></content>
-
-<content start="1495" end="1496">
-<size>16</size><family>Times New Roman</family><bold>true</bold><italic>true</italic><superscript>true</superscript></content>
-
-<content start="1496" end="1576">
-<size>16</size><family>Times New Roman</family></content>
+<content start="53" end="54">
+</content>
 
 </paragraph>
-<paragraph start="1576" end="1679">
-<content start="1576" end="1679">
-<size>16</size><family>Times New Roman</family></content>
+<paragraph start="54" end="55">
+<Alignment>1</Alignment>
+<content start="54" end="55">
+</content>
 
 </paragraph>
-<paragraph start="1679" end="1680">
+<paragraph start="55" end="56">
+<Alignment>1</Alignment>
+<content start="55" end="56">
+</content>
+
+</paragraph>
+<paragraph start="56" end="57">
 </paragraph>
 </section>
 </document>

@@ -2,25 +2,36 @@
 <document>
 <language>UTF-8</language>
 <page_title>Shape and Design 2</page_title>
+<bg_gradient><gradient_color1><Red>255</Red><Green>255</Green><Blue>255</Blue></gradient_color1>
+<gradient_color2><Red>84</Red><Green>242</Green><Blue>163</Blue></gradient_color2>
+<gradient_style>1031</gradient_style>
+<gradient_variant>1041</gradient_variant>
+</bg_gradient>
 <text> 
 Next -&gt;
 
 
  
+
  
+
  
+
  
+
  
+
  
+
  
 
 
 </text>
-<section start="0" end="29">
+<section start="0" end="35">
 <paragraph start="0" end="2">
 <Alignment>1</Alignment>
 <content start="0" end="1">
-<icon><class>org.concord.modeler.text.LineIcon</class><width>0.4</width><height>50</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>Shape and Design</title><bgcolor>-993301</bgcolor><bottommargin>20</bottommargin></icon></content>
+<icon><class>org.concord.modeler.text.LineIcon</class><width>800.0</width><height>50</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>Shape and Design</title><bgcolor>-993301</bgcolor><bottommargin>20</bottommargin></icon></content>
 
 <content start="1" end="2">
 </content>
@@ -51,8 +62,8 @@ Next -&gt;
 <Alignment>1</Alignment>
 <content start="12" end="13">
 <component><class>org.concord.modeler.PageTextBox</class>
-<width>750.0</width>
-<height>400.0</height>
+<width>800.0</width>
+<height>360.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -84,16 +95,22 @@ Next -&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
 <content start="13" end="14">
 </content>
 
 </paragraph>
-<paragraph start="14" end="16">
+<paragraph start="14" end="15">
 <Alignment>1</Alignment>
 <content start="14" end="15">
+</content>
+
+</paragraph>
+<paragraph start="15" end="17">
+<Alignment>1</Alignment>
+<content start="15" end="16">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>400.0</height>
@@ -133,19 +150,15 @@ Next -&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
-<content start="15" end="16">
+<content start="16" end="17">
 </content>
 
 </paragraph>
-<paragraph start="16" end="18">
+<paragraph start="17" end="18">
 <Alignment>1</Alignment>
-<content start="16" end="17">
-<component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Shapes_p2$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Rotate Object</button><button>Duplicate Object</button></component></content>
-
 <content start="17" end="18">
 </content>
 
@@ -153,8 +166,24 @@ Next -&gt;
 <paragraph start="18" end="20">
 <Alignment>1</Alignment>
 <content start="18" end="19">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Shapes_p2$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Rotate Object</button><button>Duplicate Object</button></component></content>
+
+<content start="19" end="20">
+</content>
+
+</paragraph>
+<paragraph start="20" end="21">
+<Alignment>1</Alignment>
+<content start="20" end="21">
+</content>
+
+</paragraph>
+<paragraph start="21" end="23">
+<Alignment>1</Alignment>
+<content start="21" end="22">
 <component><class>org.concord.modeler.PageTextField</class>
-<width>750</width>
+<width>800</width>
 <height>100</height>
 <title>&lt;html&gt;
   &lt;head&gt;
@@ -171,15 +200,21 @@ Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="19" end="20">
+<content start="22" end="23">
 </content>
 
 </paragraph>
-<paragraph start="20" end="22">
+<paragraph start="23" end="24">
 <Alignment>1</Alignment>
-<content start="20" end="21">
+<content start="23" end="24">
+</content>
+
+</paragraph>
+<paragraph start="24" end="26">
+<Alignment>1</Alignment>
+<content start="24" end="25">
 <component><class>org.concord.modeler.PageTextField</class>
-<width>750</width>
+<width>800</width>
 <height>100</height>
 <title>&lt;html&gt;
   &lt;head&gt;
@@ -195,15 +230,21 @@ Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="21" end="22">
+<content start="25" end="26">
 </content>
 
 </paragraph>
-<paragraph start="22" end="24">
+<paragraph start="26" end="27">
 <Alignment>1</Alignment>
-<content start="22" end="23">
+<content start="26" end="27">
+</content>
+
+</paragraph>
+<paragraph start="27" end="29">
+<Alignment>1</Alignment>
+<content start="27" end="28">
 <component><class>org.concord.modeler.PageTextField</class>
-<width>750</width>
+<width>800</width>
 <height>150</height>
 <title>&lt;html&gt;
   &lt;head&gt;
@@ -221,15 +262,21 @@ Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="23" end="24">
+<content start="28" end="29">
 </content>
 
 </paragraph>
-<paragraph start="24" end="26">
+<paragraph start="29" end="30">
 <Alignment>1</Alignment>
-<content start="24" end="25">
+<content start="29" end="30">
+</content>
+
+</paragraph>
+<paragraph start="30" end="32">
+<Alignment>1</Alignment>
+<content start="30" end="31">
 <component><class>org.concord.modeler.PageTextField</class>
-<width>750</width>
+<width>800</width>
 <height>150</height>
 <title>&lt;html&gt;
   &lt;head&gt;
@@ -248,22 +295,22 @@ Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="25" end="26">
+<content start="31" end="32">
 </content>
 
 </paragraph>
-<paragraph start="26" end="27">
+<paragraph start="32" end="33">
 <Alignment>1</Alignment>
-<content start="26" end="27">
+<content start="32" end="33">
 </content>
 
 </paragraph>
-<paragraph start="27" end="28">
-<content start="27" end="28">
+<paragraph start="33" end="34">
+<content start="33" end="34">
 </content>
 
 </paragraph>
-<paragraph start="28" end="29">
+<paragraph start="34" end="35">
 </paragraph>
 </section>
 </document>

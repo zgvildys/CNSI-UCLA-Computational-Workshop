@@ -2,44 +2,33 @@
 <document>
 <language>UTF-8</language>
 <page_title>annealing</page_title>
+<bg_gradient><gradient_color1><Red>255</Red><Green>255</Green><Blue>255</Blue></gradient_color1>
+<gradient_color2><Red>84</Red><Green>242</Green><Blue>163</Blue></gradient_color2>
+<gradient_style>1031</gradient_style>
+<gradient_variant>1041</gradient_variant>
+</bg_gradient>
 <text>	Section 1- Page 6: The Importance of Temperature and Self-Assembly
 
-	So far, you have learned about how forces and temperature cause atoms and molecules to move around. 
-	We now discuss how temperature helps molecules stick together 
-	in different ways, and the role this plays for self-assembly. In order for molecules to come together and form 
-	an ordered structure - the process we call self-assembly - the temperature has to be just right. Let&apos;s explore 
-	this is the simulation box below! The colored particles of different shapes are called monomers. This means that 
-	they are smaller building-blocks that come together and assemble into the bigger structures. These generally each
-	represent a single protein. They are randomly placed throughout the box below.
+ 
 
-	As we discussed on the previous page there is an ideal temperature range at which virus form best. When 
-	the temperature is too high, the structure won&apos;t stay stuck together. But if it&apos;s too cold, then it can&apos;t move enough from a 
-	random starting state into the best structure - instead you get a structure with defects. 
+ 
 
-	Using this, you can also control how things self-assemble by controling temperature changes. This is a process called &quot;annealing&quot;, 
-	which is often used in computational chemistry research to make sure that we found the best possible structure. Basically, if 
-	we start with a structure that isn&apos;t perfect, we can heat it up really hot and then cool it down again. This will lead to the formation
-	of a more stable structure with fewer defects. This can be done once or multiple times.
+ 
 
-	Now, you try it! Below is a box with a defective structure. Try playing with temperature a bit to see what the best structure you 
-	can get is. The best structure has as many monomers touching eachother as possible, with their sides touching eachother perfectly.
-	Play around with how fast you raise and lower the temperature. Try three different attempts, choose your best one,
-	and write about what you did. Why do you think that was the best method?
+ 
 
-	 
-	 
-	
+ 
 
-	  
-	  
+ 
 
-	Remember this technique for annealing for future modules! It&apos;s important to note that if the simulation isn&apos;t working 
-	immediately, the system might be stuck because the temperature is too low for the monomers to slide around each 
-	other and reach a better structure. If that happens to you in future modules, just try heating the system and cooling it 
-	down again in the way that matches your best attempt above, and see if that gets you to a better structure.
+      
+       
+
+ 
+
 
 </text>
-<section start="0" end="2527">
+<section start="0" end="108">
 <paragraph start="0" end="68">
 <content start="0" end="67">
 <size>20</size></content>
@@ -49,147 +38,171 @@
 
 </paragraph>
 <paragraph start="68" end="69">
+<Alignment>1</Alignment>
 <content start="68" end="69">
 </content>
 
 </paragraph>
-<paragraph start="69" end="171">
-<content start="69" end="71">
+<paragraph start="69" end="71">
+<Alignment>1</Alignment>
+<content start="69" end="70">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>140.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    So far, you have learned about how forces and temperature cause atoms and 
+    molecules to move around. We now discuss how temperature helps molecules 
+    stick together in different ways, and the role this plays for 
+    self-assembly. In order for molecules to come together and form an ordered 
+    structure - the process we call self-assembly - the temperature has to be 
+    just right. Let&apos;s explore this is the simulation box below! The colored 
+    particles of different shapes are called monomers. This means that they 
+    are smaller building-blocks that come together and assemble into the 
+    bigger structures. These generally each represent a single protein. They 
+    are randomly placed throughout the box below.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="70" end="71">
 </content>
 
-<content start="71" end="171">
+</paragraph>
+<paragraph start="71" end="72">
+<Alignment>1</Alignment>
+<content start="71" end="72">
+</content>
+
+</paragraph>
+<paragraph start="72" end="74">
+<Alignment>1</Alignment>
+<content start="72" end="73">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>80.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    As we discussed on the previous page there is an ideal temperature range 
+    at which virus form best. When the temperature is too high, the structure 
+    won&apos;t stay stuck together. But if it&apos;s too cold, then it can&apos;t move enough 
+    from a random starting state into the best structure - instead you get a 
+    structure with defects.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="73" end="74">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="171" end="235">
-<content start="171" end="235">
+<paragraph start="74" end="75">
+<Alignment>1</Alignment>
+<content start="74" end="75">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="235" end="348">
-<content start="235" end="348">
+<paragraph start="75" end="77">
+<Alignment>1</Alignment>
+<content start="75" end="76">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Using this, you can also control how things self-assemble by controling 
+    temperature changes. This is a process called &amp;quot;annealing&amp;quot;, which is often 
+    used in computational chemistry research to make sure that we found the 
+    best possible structure. Basically, if we start with a structure that 
+    isn&apos;t perfect, we can heat it up really hot and then cool it down again. 
+    This will lead to the formation of a more stable structure with fewer 
+    defects. This can be done once or multiple times.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="76" end="77">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="348" end="461">
-<content start="348" end="461">
+<paragraph start="77" end="78">
+<Alignment>1</Alignment>
+<content start="77" end="78">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="461" end="576">
-<content start="461" end="576">
+<paragraph start="78" end="80">
+<Alignment>1</Alignment>
+<content start="78" end="79">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Now, you try it! Below is a box with a defective structure. Try playing 
+    with temperature a bit to see what the best structure you can get is. The 
+    best structure has as many monomers touching eachother as possible, with 
+    their sides touching eachother perfectly. Play around with how fast you 
+    raise and lower the temperature. Try three different attempts, choose your 
+    best one, and write about what you did. Why do you think that was the best 
+    method?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="79" end="80">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="576" end="691">
-<content start="576" end="691">
+<paragraph start="80" end="81">
+<Alignment>1</Alignment>
+<content start="80" end="81">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="691" end="771">
-<content start="691" end="770">
-<size>14</size></content>
-
-<content start="770" end="771">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="771" end="772">
-<content start="771" end="772">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="772" end="878">
-<content start="772" end="878">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="878" end="1005">
-<content start="878" end="1005">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1005" end="1097">
-<content start="1005" end="1097">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1097" end="1098">
-<content start="1097" end="1098">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1098" end="1231">
-<content start="1098" end="1231">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1231" end="1359">
-<content start="1231" end="1359">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1359" end="1496">
-<content start="1359" end="1496">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1496" end="1585">
-<content start="1496" end="1585">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1585" end="1586">
-<content start="1585" end="1586">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1586" end="1718">
-<content start="1586" end="1718">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1718" end="1850">
-<content start="1718" end="1850">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1850" end="1966">
-<content start="1850" end="1966">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1966" end="2040">
-<content start="1966" end="2040">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2040" end="2041">
-<content start="2040" end="2041">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2041" end="2044">
-<content start="2041" end="2042">
-<size>14</size></content>
-
-<content start="2042" end="2043">
+<paragraph start="81" end="83">
+<Alignment>1</Alignment>
+<content start="81" end="82">
 <size>14</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>annealing$1.mml</resource><menubar>false</menubar><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
+<resource>annealing$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
 
-<content start="2043" end="2044">
+<content start="82" end="83">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2044" end="2047">
-<content start="2044" end="2045">
+<paragraph start="83" end="84">
+<Alignment>1</Alignment>
+<content start="83" end="84">
 <size>14</size></content>
 
-<content start="2045" end="2046">
+</paragraph>
+<paragraph start="84" end="86">
+<Alignment>1</Alignment>
+<content start="84" end="85">
 <component><class>org.concord.modeler.PageSlider</class>
 <modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
 <model>1</model>
-<value>4800.0</value>
+<value>0.0</value>
 <minimum>1000.0</minimum>
 <maximum>25000.0</maximum>
 <nstep>10</nstep>
@@ -201,25 +214,19 @@
 <change>Temperature</change>
 </component></content>
 
-<content start="2046" end="2047">
+<content start="85" end="86">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2047" end="2049">
-<content start="2047" end="2049">
+<paragraph start="86" end="87">
+<Alignment>1</Alignment>
+<content start="86" end="87">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2049" end="2050">
-<content start="2049" end="2050">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2050" end="2054">
-<content start="2050" end="2051">
-<size>14</size></content>
-
-<content start="2051" end="2052">
+<paragraph start="87" end="94">
+<Alignment>1</Alignment>
+<content start="87" end="88">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -231,7 +238,10 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="2052" end="2053">
+<content start="88" end="92">
+<size>14</size></content>
+
+<content start="92" end="93">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -243,15 +253,13 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="2053" end="2054">
+<content start="93" end="94">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2054" end="2058">
-<content start="2054" end="2055">
-<size>14</size></content>
-
-<content start="2055" end="2056">
+<paragraph start="94" end="102">
+<Alignment>1</Alignment>
+<content start="94" end="95">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -263,7 +271,10 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="2056" end="2057">
+<content start="95" end="100">
+<size>14</size></content>
+
+<content start="100" end="101">
 <size>14</size><component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -279,44 +290,56 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="2057" end="2058">
+<content start="101" end="102">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2058" end="2059">
-<content start="2058" end="2059">
+<paragraph start="102" end="103">
+<Alignment>1</Alignment>
+<content start="102" end="103">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2059" end="2179">
-<content start="2059" end="2179">
+<paragraph start="103" end="105">
+<Alignment>1</Alignment>
+<content start="103" end="104">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Remember this technique for annealing for future modules! It&apos;s important 
+    to note that if the simulation isn&apos;t working immediately, the system might 
+    be stuck because the temperature is too low for the monomers to slide 
+    around each other and reach a better structure. If that happens to you in 
+    future modules, just try heating the system and cooling it down again in 
+    the way that matches your best attempt above, and see if that gets you to 
+    a better structure.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="104" end="105">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2179" end="2293">
-<content start="2179" end="2293">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2293" end="2416">
-<content start="2293" end="2416">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2416" end="2525">
-<content start="2416" end="2524">
-<size>14</size></content>
-
-<content start="2524" end="2525">
+<paragraph start="105" end="106">
+<Alignment>1</Alignment>
+<content start="105" end="106">
 </content>
 
 </paragraph>
-<paragraph start="2525" end="2526">
-<content start="2525" end="2526">
+<paragraph start="106" end="107">
+<content start="106" end="107">
 </content>
 
 </paragraph>
-<paragraph start="2526" end="2527">
+<paragraph start="107" end="108">
 </paragraph>
 </section>
 </document>

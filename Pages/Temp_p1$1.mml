@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<java version="1.8.0_251" class="java.beans.XMLDecoder">
+<java version="1.8.0_261" class="java.beans.XMLDecoder">
  <object class="org.concord.mw2d.models.Element" id="Element0">
   <void property="sigma">
    <double>7.0</double>
@@ -331,7 +331,7 @@
    <void method="put">
     <string>date</string>
     <object class="java.util.Date">
-     <long>1602897237672</long>
+     <long>1603150621025</long>
     </object>
    </void>
    <void method="put">
@@ -340,15 +340,15 @@
    </void>
    <void method="put">
     <string>size</string>
-    <long>273879</long>
+    <long>286000</long>
    </void>
    <void method="put">
     <string>codebase</string>
-    <string>C:\Molecular Workbench\Compiled Self Assembly\Pages</string>
+    <string>C:\Users\dreil\Desktop\Workspace\CNSI Outreach\CNSI-UCLA-Computational-Workshop\Pages</string>
    </void>
    <void method="put">
     <string>url</string>
-    <string>C:\Molecular Workbench\Compiled Self Assembly\Pages\Temp_p1$1.mml</string>
+    <string>C:\Users\dreil\Desktop\Workspace\CNSI Outreach\CNSI-UCLA-Computational-Workshop\Pages\Temp_p1$1.mml</string>
    </void>
   </void>
   <void property="quantumRule">
@@ -364,6 +364,9 @@
  <object class="org.concord.mw2d.AtomisticView$State">
   <void property="colorCode">
    <string>None</string>
+  </void>
+  <void property="drawCharge">
+   <boolean>false</boolean>
   </void>
   <void property="molecularObjectColors">
    <array class="java.awt.Color" length="24">

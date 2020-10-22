@@ -2,59 +2,44 @@
 <document>
 <language>UTF-8</language>
 <page_title>coulombs</page_title>
+<bg_gradient><gradient_color1><Red>255</Red><Green>255</Green><Blue>255</Blue></gradient_color1>
+<gradient_color2><Red>84</Red><Green>242</Green><Blue>163</Blue></gradient_color2>
+<gradient_style>1031</gradient_style>
+<gradient_variant>1041</gradient_variant>
+</bg_gradient>
 <text>Section 1 Page 3 - Controlling Random Motion. 
 
 Temp_p1
-The previous two pages cover how atoms and molecules of different sizes move around randomly.
-Although the system appears to behave randomly, each particle within the system moves predictably: 
-a single particle moves ballistically and lighter particles move more than heavier particles. At the same
-time, particle motion is driven by intermolecular. As a reminder from chemistry courses, intermolecular
-forces are forces between particles. Intermolecular forces determine how particles interact with one 
-another. By understanding and tailoring intermolecular forces, we can control random motion. One
-major type of intermolecular forces are those between charged molecules.
-
-You might have heard about charge and coulomb&apos;s law in your physics class:
-
- 
-
-This equation shows that there is a force F acting between two charges, represented by q1 and q2.
-The distance between these charges is r and k is a known constant that was determined experimentally.
-If they have the same sign, then the force is positive, which means they are pushing each other apart. 
-If they have opposite signs, then the force is negative, meaning that the two charges are pulling themselves 
-together.
-
-Try it yourself! Below is a box with some particles in them - put some charged particles in the box and see how they behave. 
 
  
 
  
 
-There are many charged things - from incredibly small things like electrons, to atoms and even 
-whole regions within molecules. No matter what object is holding the charge, the coulomb force
-applies and either pulls together or pushes apart object of opposite or same charge, respectively. 
-This force is actually what drives the self-assembly of the capsid proteins in our simulation boxes. 
-Notice how in the above box, when there are multiple particles with charges of both signs
-present, the particles tend to stick together, and they stick together in a very particular way? 
-This will be explored more later, but it&apos;s the foundation of how viruses &quot;know&quot; how to assemble 
-correctly!
+ 
 
-A whole particle or molecule doesn&apos;t have to be charged. Only some parts of it might be 
-charged, or different regions on the same molecule might even have opposite charges.
-
-Try it out with the molecular shapes in the box below. What happens if you give different parts 
-of the molecules different charge? Or the same charge? Remember, proteins are just 
-very big molecules, and they have different regions that can have different charge.
+ 
 
  
 
  
 
-There are other kinds of forces that act between atoms and molecules, but they are much 
-weaker than coulomb forces, and so are less important for understanding how capsid proteins
-come together and form viruses.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 
 </text>
-<section start="0" end="2722">
+<section start="0" end="98">
 <paragraph start="0" end="47">
 <LeftIndent>40.0</LeftIndent>
 <content start="0" end="46">
@@ -72,85 +57,93 @@ come together and form viruses.
 </paragraph>
 <paragraph start="48" end="56">
 <LeftIndent>40.0</LeftIndent>
-<content start="48" end="55">
+<content start="48" end="56">
 <size>14</size><href>Temp_p1.cml</href></content>
 
-<content start="55" end="56">
+</paragraph>
+<paragraph start="56" end="57">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="56" end="57">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="56" end="150">
+<paragraph start="57" end="59">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="56" end="150">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="150" end="250">
-<LeftIndent>40.0</LeftIndent>
-<content start="150" end="250">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="250" end="356">
-<LeftIndent>40.0</LeftIndent>
-<content start="250" end="356">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="356" end="460">
-<LeftIndent>40.0</LeftIndent>
-<content start="356" end="426">
-<size>14</size></content>
-
-<content start="426" end="460">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="460" end="562">
-<LeftIndent>40.0</LeftIndent>
-<content start="460" end="562">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="562" end="659">
-<LeftIndent>40.0</LeftIndent>
-<content start="562" end="574">
-<size>14</size></content>
-
-<content start="574" end="659">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="659" end="732">
-<LeftIndent>40.0</LeftIndent>
-<content start="659" end="732">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="732" end="733">
-<LeftIndent>40.0</LeftIndent>
-<content start="732" end="733">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="733" end="808">
-<LeftIndent>40.0</LeftIndent>
-<content start="733" end="808">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="808" end="809">
-<LeftIndent>40.0</LeftIndent>
-<content start="808" end="809">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="809" end="811">
-<LeftIndent>40.0</LeftIndent>
-<content start="809" end="810">
+<content start="57" end="58">
 <component><class>org.concord.modeler.PageTextBox</class>
-<width>400.0</width>
-<height>200.0</height>
+<width>800.0</width>
+<height>140.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    The previous two pages cover how atoms and molecules of different sizes 
+    move around randomly. Although the system appears to behave randomly, each 
+    particle within the system moves predictably: a single particle moves 
+    ballistically and lighter particles move more than heavier particles. At 
+    the same time, particle motion is driven by intermolecular. As a reminder 
+    from chemistry courses, intermolecular forces are forces between 
+    particles. Intermolecular forces determine how particles interact with one 
+    another. By understanding and tailoring intermolecular forces, we can 
+    control random motion. One major type of intermolecular forces are those 
+    between charged molecules.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="58" end="59">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="59" end="60">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="59" end="60">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="60" end="62">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="60" end="61">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>40.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    You may have heard about charge and coulomb&apos;s law in your physics class:
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="61" end="62">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="62" end="63">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="62" end="63">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="63" end="65">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="63" end="64">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>348.0</width>
+<height>180.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -162,100 +155,91 @@ come together and form viruses.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
-<content start="810" end="811">
+<content start="64" end="65">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="811" end="812">
+<paragraph start="65" end="66">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="811" end="812">
+<content start="65" end="66">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="812" end="910">
+<paragraph start="66" end="68">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="812" end="854">
-<size>14</size></content>
+<content start="66" end="67">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    This equation shows that there is a force F acting between two charges, 
+    represented by &lt;b&gt;q1&lt;/b&gt; and &lt;b&gt;q2&lt;/b&gt;. The distance between these charges 
+    is &lt;b&gt;r&lt;/b&gt; and &lt;b&gt;k&lt;/b&gt; is a known constant that was determined 
+    experimentally. If they have the same sign, then the force is positive, 
+    which means they are pushing each other apart. If they have opposite 
+    signs, then the force is negative, meaning that the two charges are 
+    pulling themselves together.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
 
-<content start="854" end="855">
-<size>14</size><bold>true</bold></content>
-
-<content start="855" end="899">
-<size>14</size></content>
-
-<content start="899" end="901">
-<size>14</size><bold>true</bold></content>
-
-<content start="901" end="906">
-<size>14</size></content>
-
-<content start="906" end="908">
-<size>14</size><bold>true</bold></content>
-
-<content start="908" end="910">
+<content start="67" end="68">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="910" end="1012">
+<paragraph start="68" end="69">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="910" end="948">
-<size>14</size></content>
-
-<content start="948" end="949">
-<size>14</size><bold>true</bold></content>
-
-<content start="949" end="954">
-<size>14</size></content>
-
-<content start="954" end="955">
-<size>14</size><bold>true</bold></content>
-
-<content start="955" end="1012">
+<content start="68" end="69">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="1012" end="1116">
+<paragraph start="69" end="71">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="1012" end="1116">
-<size>14</size></content>
+<content start="69" end="70">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>40.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Try it yourself! Below is a box with some particles in them - put some 
+    charged particles in the box and see how they behave.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="70" end="71">
+</content>
 
 </paragraph>
-<paragraph start="1116" end="1226">
+<paragraph start="71" end="72">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="1116" end="1226">
-<size>14</size></content>
+<content start="71" end="72">
+</content>
 
 </paragraph>
-<paragraph start="1226" end="1236">
+<paragraph start="72" end="74">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="1226" end="1236">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1236" end="1237">
-<LeftIndent>40.0</LeftIndent>
-<content start="1236" end="1237">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1237" end="1363">
-<LeftIndent>40.0</LeftIndent>
-<content start="1237" end="1363">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1363" end="1364">
-<LeftIndent>40.0</LeftIndent>
-<content start="1363" end="1364">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1364" end="1366">
-<LeftIndent>160.0</LeftIndent>
-<content start="1364" end="1365">
+<content start="72" end="73">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -273,147 +257,161 @@ come together and form viruses.
 <opaque>false</opaque>
 </component></content>
 
-<content start="1365" end="1366">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1366" end="1367">
-<LeftIndent>160.0</LeftIndent>
-<content start="1366" end="1367">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1367" end="1369">
-<LeftIndent>160.0</LeftIndent>
-<content start="1367" end="1368">
-<component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_p3$0.mml</resource><menubar>false</menubar><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Ck</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
-
-<content start="1368" end="1369">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1369" end="1370">
-<LeftIndent>40.0</LeftIndent>
-<content start="1369" end="1370">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1370" end="1466">
-<LeftIndent>40.0</LeftIndent>
-<content start="1370" end="1466">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1466" end="1561">
-<LeftIndent>40.0</LeftIndent>
-<content start="1466" end="1561">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1561" end="1661">
-<LeftIndent>40.0</LeftIndent>
-<content start="1561" end="1661">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1661" end="1763">
-<LeftIndent>40.0</LeftIndent>
-<content start="1661" end="1763">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1763" end="1853">
-<LeftIndent>40.0</LeftIndent>
-<content start="1763" end="1853">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1853" end="1951">
-<LeftIndent>40.0</LeftIndent>
-<content start="1853" end="1951">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="1951" end="2048">
-<LeftIndent>40.0</LeftIndent>
-<content start="1951" end="2048">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2048" end="2059">
-<LeftIndent>40.0</LeftIndent>
-<content start="2048" end="2059">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2059" end="2060">
-<LeftIndent>40.0</LeftIndent>
-<content start="2059" end="2060">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2060" end="2149">
-<LeftIndent>40.0</LeftIndent>
-<content start="2060" end="2149">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2149" end="2234">
-<LeftIndent>40.0</LeftIndent>
-<content start="2149" end="2234">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2234" end="2235">
-<LeftIndent>40.0</LeftIndent>
-<content start="2234" end="2235">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2235" end="2332">
-<LeftIndent>40.0</LeftIndent>
-<content start="2235" end="2332">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2332" end="2416">
-<LeftIndent>40.0</LeftIndent>
-<content start="2332" end="2416">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2416" end="2500">
-<LeftIndent>40.0</LeftIndent>
-<content start="2416" end="2500">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2500" end="2501">
-<LeftIndent>40.0</LeftIndent>
-<content start="2500" end="2501">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2501" end="2503">
-<LeftIndent>180.0</LeftIndent>
-<content start="2501" end="2502">
-<component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_p3$1.mml</resource><menubar>false</menubar><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Rectangular Molecular Ribbon</button><button>Add Rectangular Molecular Surface</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
-
-<content start="2502" end="2503">
+<content start="73" end="74">
 </content>
 
 </paragraph>
-<paragraph start="2503" end="2504">
+<paragraph start="74" end="75">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="2503" end="2504">
+<content start="74" end="75">
+</content>
+
+</paragraph>
+<paragraph start="75" end="77">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="75" end="76">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p3$0.mml</resource><menubar>false</menubar><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Ck</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+
+<content start="76" end="77">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2504" end="2506">
-<LeftIndent>180.0</LeftIndent>
-<content start="2504" end="2505">
+<paragraph start="77" end="78">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="77" end="78">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="78" end="80">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="78" end="79">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>120.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    There are many charged things - from incredibly small things like 
+    electrons, to atoms and even whole regions within molecules. No matter 
+    what object is holding the charge, the coulomb force applies and either 
+    pulls together or pushes apart object of opposite or same charge, 
+    respectively. This force is actually what drives the self-assembly of the 
+    capsid proteins in our simulation boxes. Notice how in the above box, when 
+    there are multiple particles with charges of both signs present, the 
+    particles tend to stick together, and they stick together in a very 
+    particular way? This will be explored more later, but it&apos;s the foundation 
+    of how viruses &amp;quot;know&amp;quot; how to assemble correctly!
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="79" end="80">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="80" end="81">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="80" end="81">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="81" end="83">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="81" end="82">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>60.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    A whole particle or molecule doesn&apos;t have to be charged. Only some parts 
+    of it might be charged, or different regions on the same molecule might 
+    even have opposite charges.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="82" end="83">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="83" end="84">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="83" end="84">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="84" end="86">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="84" end="85">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>60.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Try it out with the molecular shapes in the box below. What happens if you 
+    give different parts of the molecules different charge? Or the same 
+    charge? Remember, proteins are just very big molecules, and they have 
+    different regions that can have different charge.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="85" end="86">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="86" end="87">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="86" end="87">
+</content>
+
+</paragraph>
+<paragraph start="87" end="89">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="87" end="88">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p3$1.mml</resource><menubar>false</menubar><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Rectangular Molecular Ribbon</button><button>Add Rectangular Molecular Surface</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+
+<content start="88" end="89">
+</content>
+
+</paragraph>
+<paragraph start="89" end="90">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="89" end="90">
+</content>
+
+</paragraph>
+<paragraph start="90" end="92">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="90" end="91">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -431,40 +429,58 @@ come together and form viruses.
 <opaque>false</opaque>
 </component></content>
 
-<content start="2505" end="2506">
+<content start="91" end="92">
 </content>
 
 </paragraph>
-<paragraph start="2506" end="2507">
-<LeftIndent>180.0</LeftIndent>
-<content start="2506" end="2507">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="2507" end="2596">
+<paragraph start="92" end="93">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="2507" end="2596">
-<size>14</size></content>
+<content start="92" end="93">
+</content>
 
 </paragraph>
-<paragraph start="2596" end="2688">
+<paragraph start="93" end="95">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="2596" end="2688">
+<content start="93" end="94">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>60.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    There are other kinds of forces that act between atoms and molecules, but 
+    they are much weaker than coulomb forces, and so are less important for 
+    understanding how capsid proteins come together and form viruses.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="94" end="95">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2688" end="2720">
+<paragraph start="95" end="96">
+<Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="2688" end="2720">
+<content start="95" end="96">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2720" end="2721">
-<content start="2720" end="2721">
+<paragraph start="96" end="97">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="96" end="97">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="2721" end="2722">
+<paragraph start="97" end="98">
+<LeftIndent>40.0</LeftIndent>
 </paragraph>
 </section>
 </document>
