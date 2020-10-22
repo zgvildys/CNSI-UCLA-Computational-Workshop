@@ -4,7 +4,8 @@
 <page_title>Design and Procedure</page_title>
 <text>Design Principles Applied
 
-Next -&gt;
+&lt;- Prev	TOC	Next -&gt;
+
  
 
 
@@ -13,9 +14,9 @@ Next -&gt;
    
 
 
-
+&lt;- Prev	TOC	Next -&gt;
 </text>
-<section start="0" end="53">
+<section start="0" end="85">
 <paragraph start="0" end="26">
 <content start="0" end="26">
 <size>53</size><family>Times New Roman</family></content>
@@ -26,16 +27,24 @@ Next -&gt;
 <size>53</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="27" end="35">
+<paragraph start="27" end="47">
 <content start="27" end="34">
+<href>Shapes_p2.cml</href></content>
+
+<content start="34" end="39">
+</content>
+
+<content start="39" end="47">
 <href>Analysis_p2.cml</href></content>
 
-<content start="34" end="35">
+</paragraph>
+<paragraph start="47" end="48">
+<content start="47" end="48">
 </content>
 
 </paragraph>
-<paragraph start="35" end="37">
-<content start="35" end="36">
+<paragraph start="48" end="50">
+<content start="48" end="49">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>200.0</height>
@@ -65,22 +74,22 @@ Next -&gt;
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="36" end="37">
+<content start="49" end="50">
 </content>
 
 </paragraph>
-<paragraph start="37" end="38">
-<content start="37" end="38">
+<paragraph start="50" end="51">
+<content start="50" end="51">
 </content>
 
 </paragraph>
-<paragraph start="38" end="39">
-<content start="38" end="39">
+<paragraph start="51" end="52">
+<content start="51" end="52">
 </content>
 
 </paragraph>
-<paragraph start="39" end="41">
-<content start="39" end="40">
+<paragraph start="52" end="54">
+<content start="52" end="53">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>200.0</height>
@@ -111,12 +120,12 @@ Next -&gt;
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="40" end="41">
+<content start="53" end="54">
 </content>
 
 </paragraph>
-<paragraph start="41" end="45">
-<content start="41" end="42">
+<paragraph start="54" end="58">
+<content start="54" end="55">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>500.0</height>
@@ -163,11 +172,11 @@ Next -&gt;
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="42" end="43">
+<content start="55" end="56">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
 <resource>Analysis_p1$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Duplicate Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button></component></content>
 
-<content start="43" end="44">
+<content start="56" end="57">
 <component><class>org.concord.modeler.PageSlider</class>
 <modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
 <model>0</model>
@@ -185,12 +194,12 @@ Next -&gt;
 <change>Temperature</change>
 </component></content>
 
-<content start="44" end="45">
+<content start="57" end="58">
 </content>
 
 </paragraph>
-<paragraph start="45" end="49">
-<content start="45" end="46">
+<paragraph start="58" end="62">
+<content start="58" end="59">
 <component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -204,7 +213,7 @@ Next -&gt;
 <border>Line</border>
 </component></content>
 
-<content start="46" end="47">
+<content start="59" end="60">
 <component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -218,7 +227,7 @@ Next -&gt;
 <border>Line</border>
 </component></content>
 
-<content start="47" end="48">
+<content start="60" end="61">
 <component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -232,26 +241,35 @@ Next -&gt;
 <border>Line</border>
 </component></content>
 
-<content start="48" end="49">
+<content start="61" end="62">
 </content>
 
 </paragraph>
-<paragraph start="49" end="50">
-<content start="49" end="50">
+<paragraph start="62" end="63">
+<content start="62" end="63">
 </content>
 
 </paragraph>
-<paragraph start="50" end="51">
-<content start="50" end="51">
+<paragraph start="63" end="64">
+<content start="63" end="64">
 </content>
 
 </paragraph>
-<paragraph start="51" end="52">
-<content start="51" end="52">
+<paragraph start="64" end="84">
+<content start="64" end="71">
+<href>Shapes_p2.cml</href></content>
+
+<content start="71" end="76">
+</content>
+
+<content start="76" end="83">
+<href>Analysis_p2.cml</href></content>
+
+<content start="83" end="84">
 </content>
 
 </paragraph>
-<paragraph start="52" end="53">
+<paragraph start="84" end="85">
 </paragraph>
 </section>
 </document>

@@ -3,7 +3,9 @@
 <language>UTF-8</language>
 <page_title>page 3 analysis</page_title>
 <text>Assembling a virus-like particle (VLP)
-Next -&gt;
+
+&lt;- Prev	TOC	Next -&gt;
+
  
                           
 
@@ -13,23 +15,38 @@ Next -&gt;
 
  
  
+
+&lt;- Prev	TOC	Next -&gt;
 </text>
-<section start="0" end="87">
+<section start="0" end="122">
 <paragraph start="0" end="39">
 <content start="0" end="39">
 <size>25</size></content>
 
 </paragraph>
-<paragraph start="39" end="47">
-<content start="39" end="46">
-<href>Analysis_p4.cml</href></content>
-
-<content start="46" end="47">
+<paragraph start="39" end="40">
+<content start="39" end="40">
 </content>
 
 </paragraph>
-<paragraph start="47" end="49">
-<content start="47" end="48">
+<paragraph start="40" end="60">
+<content start="40" end="47">
+<href>Analysis_p2.cml</href></content>
+
+<content start="47" end="52">
+</content>
+
+<content start="52" end="60">
+<href>Analysis_p4.cml</href></content>
+
+</paragraph>
+<paragraph start="60" end="61">
+<content start="60" end="61">
+</content>
+
+</paragraph>
+<paragraph start="61" end="63">
+<content start="61" end="62">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>250.0</height>
@@ -69,12 +86,12 @@ Next -&gt;
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="48" end="49">
+<content start="62" end="63">
 </content>
 
 </paragraph>
-<paragraph start="49" end="76">
-<content start="49" end="50">
+<paragraph start="63" end="90">
+<content start="63" end="64">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>300.0</height>
@@ -92,10 +109,10 @@ Next -&gt;
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="50" end="74">
+<content start="64" end="88">
 </content>
 
-<content start="74" end="75">
+<content start="88" end="89">
 <component><class>org.concord.modeler.ImageQuestion</class><width>300</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -108,43 +125,43 @@ Next -&gt;
 <border>Line</border>
 </component></content>
 
-<content start="75" end="76">
+<content start="89" end="90">
 <size>25</size></content>
 
 </paragraph>
-<paragraph start="76" end="77">
+<paragraph start="90" end="91">
 <Alignment>1</Alignment>
-<content start="76" end="77">
+<content start="90" end="91">
 <size>25</size></content>
 
 </paragraph>
-<paragraph start="77" end="79">
-<content start="77" end="78">
+<paragraph start="91" end="93">
+<content start="91" end="92">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
 <resource>Analysis_p3$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Duplicate Object</button><button>Rotate Object</button></component></content>
 
-<content start="78" end="79">
+<content start="92" end="93">
 </content>
 
 </paragraph>
-<paragraph start="79" end="80">
-<content start="79" end="80">
+<paragraph start="93" end="94">
+<content start="93" end="94">
 </content>
 
 </paragraph>
-<paragraph start="80" end="81">
-<content start="80" end="81">
+<paragraph start="94" end="95">
+<content start="94" end="95">
 </content>
 
 </paragraph>
-<paragraph start="81" end="82">
+<paragraph start="95" end="96">
 <Alignment>1</Alignment>
-<content start="81" end="82">
+<content start="95" end="96">
 </content>
 
 </paragraph>
-<paragraph start="82" end="84">
-<content start="82" end="83">
+<paragraph start="96" end="98">
+<content start="96" end="97">
 <component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -157,12 +174,12 @@ Next -&gt;
 <border>Line</border>
 </component></content>
 
-<content start="83" end="84">
+<content start="97" end="98">
 </content>
 
 </paragraph>
-<paragraph start="84" end="86">
-<content start="84" end="85">
+<paragraph start="98" end="100">
+<content start="98" end="99">
 <component><class>org.concord.modeler.PageTextField</class>
 <width>600</width>
 <height>400</height>
@@ -180,11 +197,30 @@ Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="85" end="86">
+<content start="99" end="100">
 </content>
 
 </paragraph>
-<paragraph start="86" end="87">
+<paragraph start="100" end="101">
+<content start="100" end="101">
+</content>
+
+</paragraph>
+<paragraph start="101" end="121">
+<content start="101" end="108">
+<href>Analysis_p2.cml</href></content>
+
+<content start="108" end="113">
+</content>
+
+<content start="113" end="120">
+<href>Analysis_p4.cml</href></content>
+
+<content start="120" end="121">
+</content>
+
+</paragraph>
+<paragraph start="121" end="122">
 </paragraph>
 </section>
 </document>

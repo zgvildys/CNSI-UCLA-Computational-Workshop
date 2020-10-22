@@ -4,7 +4,7 @@
 <page_title>Page 4 analysis (Virus Symmetry)</page_title>
 <text>Symmetry of Viruses
 How does self-assembly pertain to viruses?
-Next -&gt;
+&lt;- Prev	TOC	Next -&gt;
 Basic Background of Viruses and Self-assembly
 
  
@@ -49,9 +49,9 @@ For the following triangle, what is the T number, and how many protein subunits 
 
  
 
-
+&lt;- Prev	TOC	Next -&gt;
 </text>
-<section start="0" end="6916">
+<section start="0" end="6947">
 <paragraph start="0" end="20">
 <Alignment>1</Alignment>
 <content start="0" end="20">
@@ -64,31 +64,37 @@ For the following triangle, what is the T number, and how many protein subunits 
 <size>25</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="63" end="71">
+<paragraph start="63" end="83">
 <Alignment>1</Alignment>
 <content start="63" end="70">
-<size>25</size><family>Times New Roman</family><href>Analysis_p3.cml</href></content>
+<size>18</size><family>Times New Roman</family><href>Analysis_p1.cml</href></content>
 
-<content start="70" end="71">
+<content start="70" end="75">
+<size>18</size><family>Times New Roman</family></content>
+
+<content start="75" end="82">
+<size>18</size><family>Times New Roman</family><href>Analysis_p3.cml</href></content>
+
+<content start="82" end="83">
 <size>25</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="71" end="117">
-<content start="71" end="116">
+<paragraph start="83" end="129">
+<content start="83" end="128">
 <size>25</size><family>Times New Roman</family><underline>true</underline></content>
 
-<content start="116" end="117">
+<content start="128" end="129">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="117" end="118">
-<content start="117" end="118">
+<paragraph start="129" end="130">
+<content start="129" end="130">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="118" end="120">
+<paragraph start="130" end="132">
 <Alignment>1</Alignment>
-<content start="118" end="119">
+<content start="130" end="131">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>300.0</width>
 <height>300.0</height>
@@ -106,75 +112,75 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="119" end="120">
+<content start="131" end="132">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="120" end="121">
-<content start="120" end="121">
+<paragraph start="132" end="133">
+<content start="132" end="133">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="121" end="176">
-<content start="121" end="176">
+<paragraph start="133" end="188">
+<content start="133" end="188">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="176" end="215">
-<content start="176" end="215">
+<paragraph start="188" end="227">
+<content start="188" end="227">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="215" end="293">
-<content start="215" end="293">
+<paragraph start="227" end="305">
+<content start="227" end="305">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="293" end="1028">
-<content start="293" end="566">
+<paragraph start="305" end="1040">
+<content start="305" end="578">
 <size>20</size><family>Times New Roman</family></content>
 
-<content start="566" end="579">
+<content start="578" end="591">
 <size>20</size><family>Times New Roman</family><underline>true</underline></content>
 
-<content start="579" end="767">
+<content start="591" end="779">
 <size>20</size><family>Times New Roman</family></content>
 
-<content start="767" end="772">
+<content start="779" end="784">
 <size>20</size><family>Times New Roman</family><bold>true</bold></content>
 
-<content start="772" end="1028">
+<content start="784" end="1040">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="1028" end="1029">
-<content start="1028" end="1029">
+<paragraph start="1040" end="1041">
+<content start="1040" end="1041">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="1029" end="2067">
-<content start="1029" end="2067">
+<paragraph start="1041" end="2079">
+<content start="1041" end="2079">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="2067" end="2068">
-<content start="2067" end="2068">
+<paragraph start="2079" end="2080">
+<content start="2079" end="2080">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="2068" end="2069">
-<content start="2068" end="2069">
+<paragraph start="2080" end="2081">
+<content start="2080" end="2081">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="2069" end="2089">
-<content start="2069" end="2089">
+<paragraph start="2081" end="2101">
+<content start="2081" end="2101">
 <size>25</size><family>Times New Roman</family><underline>true</underline></content>
 
 </paragraph>
-<paragraph start="2089" end="2091">
+<paragraph start="2101" end="2103">
 <Alignment>1</Alignment>
-<content start="2089" end="2090">
+<content start="2101" end="2102">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>450.0</width>
 <height>400.0</height>
@@ -192,28 +198,28 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="2090" end="2091">
+<content start="2102" end="2103">
 <size>25</size><family>Times New Roman</family><underline>true</underline></content>
 
 </paragraph>
-<paragraph start="2091" end="2092">
-<content start="2091" end="2092">
+<paragraph start="2103" end="2104">
+<content start="2103" end="2104">
 <size>25</size><family>Times New Roman</family><underline>true</underline></content>
 
 </paragraph>
-<paragraph start="2092" end="2835">
-<content start="2092" end="2835">
+<paragraph start="2104" end="2847">
+<content start="2104" end="2847">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="2835" end="2836">
-<content start="2835" end="2836">
+<paragraph start="2847" end="2848">
+<content start="2847" end="2848">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="2836" end="2838">
+<paragraph start="2848" end="2850">
 <Alignment>1</Alignment>
-<content start="2836" end="2837">
+<content start="2848" end="2849">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>300.0</width>
 <height>250.0</height>
@@ -231,43 +237,43 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="2837" end="2838">
+<content start="2849" end="2850">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="2838" end="2839">
-<content start="2838" end="2839">
+<paragraph start="2850" end="2851">
+<content start="2850" end="2851">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="2839" end="4027">
-<content start="2839" end="4027">
+<paragraph start="2851" end="4039">
+<content start="2851" end="4039">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4027" end="4028">
-<content start="4027" end="4028">
+<paragraph start="4039" end="4040">
+<content start="4039" end="4040">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4028" end="4029">
-<content start="4028" end="4029">
+<paragraph start="4040" end="4041">
+<content start="4040" end="4041">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4029" end="4058">
-<content start="4029" end="4058">
+<paragraph start="4041" end="4070">
+<content start="4041" end="4070">
 <size>25</size><family>Times New Roman</family><underline>true</underline></content>
 
 </paragraph>
-<paragraph start="4058" end="4059">
-<content start="4058" end="4059">
+<paragraph start="4070" end="4071">
+<content start="4070" end="4071">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4059" end="4061">
+<paragraph start="4071" end="4073">
 <Alignment>1</Alignment>
-<content start="4059" end="4060">
+<content start="4071" end="4072">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>500.0</width>
 <height>450.0</height>
@@ -285,38 +291,38 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="4060" end="4061">
+<content start="4072" end="4073">
 <size>20</size><family>Times New Roman</family><foreground>255 0 0</foreground></content>
 
 </paragraph>
-<paragraph start="4061" end="4062">
-<content start="4061" end="4062">
+<paragraph start="4073" end="4074">
+<content start="4073" end="4074">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4062" end="4063">
-<content start="4062" end="4063">
+<paragraph start="4074" end="4075">
+<content start="4074" end="4075">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4063" end="4999">
-<content start="4063" end="4999">
+<paragraph start="4075" end="5011">
+<content start="4075" end="5011">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4999" end="5828">
-<content start="4999" end="5828">
+<paragraph start="5011" end="5840">
+<content start="5011" end="5840">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="5828" end="6200">
-<content start="5828" end="6200">
+<paragraph start="5840" end="6212">
+<content start="5840" end="6212">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6200" end="6202">
+<paragraph start="6212" end="6214">
 <Alignment>1</Alignment>
-<content start="6200" end="6201">
+<content start="6212" end="6213">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>700.0</width>
 <height>500.0</height>
@@ -334,18 +340,18 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="6201" end="6202">
+<content start="6213" end="6214">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6202" end="6203">
-<content start="6202" end="6203">
+<paragraph start="6214" end="6215">
+<content start="6214" end="6215">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6203" end="6205">
+<paragraph start="6215" end="6217">
 <Alignment>1</Alignment>
-<content start="6203" end="6204">
+<content start="6215" end="6216">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>500.0</height>
@@ -363,28 +369,28 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="6204" end="6205">
+<content start="6216" end="6217">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6205" end="6206">
-<content start="6205" end="6206">
+<paragraph start="6217" end="6218">
+<content start="6217" end="6218">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6206" end="6406">
-<content start="6206" end="6406">
+<paragraph start="6218" end="6418">
+<content start="6218" end="6418">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6406" end="6407">
-<content start="6406" end="6407">
+<paragraph start="6418" end="6419">
+<content start="6418" end="6419">
 </content>
 
 </paragraph>
-<paragraph start="6407" end="6409">
+<paragraph start="6419" end="6421">
 <Alignment>1</Alignment>
-<content start="6407" end="6408">
+<content start="6419" end="6420">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>250.0</width>
 <height>100.0</height>
@@ -402,28 +408,28 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="6408" end="6409">
+<content start="6420" end="6421">
 </content>
 
 </paragraph>
-<paragraph start="6409" end="6794">
-<content start="6409" end="6794">
+<paragraph start="6421" end="6806">
+<content start="6421" end="6806">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6794" end="6795">
-<content start="6794" end="6795">
+<paragraph start="6806" end="6807">
+<content start="6806" end="6807">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6795" end="6908">
-<content start="6795" end="6908">
+<paragraph start="6807" end="6920">
+<content start="6807" end="6920">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6908" end="6910">
+<paragraph start="6920" end="6922">
 <Alignment>1</Alignment>
-<content start="6908" end="6909">
+<content start="6920" end="6921">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>350.0</height>
@@ -441,19 +447,19 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="6909" end="6910">
+<content start="6921" end="6922">
 </content>
 
 </paragraph>
-<paragraph start="6910" end="6911">
+<paragraph start="6922" end="6923">
 <Alignment>1</Alignment>
-<content start="6910" end="6911">
+<content start="6922" end="6923">
 </content>
 
 </paragraph>
-<paragraph start="6911" end="6913">
+<paragraph start="6923" end="6925">
 <Alignment>1</Alignment>
-<content start="6911" end="6912">
+<content start="6923" end="6924">
 <component><class>org.concord.modeler.PageTextField</class>
 <width>400</width>
 <height>60</height>
@@ -470,21 +476,31 @@ For the following triangle, what is the T number, and how many protein subunits 
 <opaque>false</opaque>
 </component></content>
 
-<content start="6912" end="6913">
+<content start="6924" end="6925">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6913" end="6914">
-<content start="6913" end="6914">
+<paragraph start="6925" end="6926">
+<content start="6925" end="6926">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6914" end="6915">
-<content start="6914" end="6915">
+<paragraph start="6926" end="6946">
+<Alignment>1</Alignment>
+<content start="6926" end="6933">
+<size>18</size><family>Times New Roman</family><href>Analysis_p1.cml</href></content>
+
+<content start="6933" end="6938">
+<size>18</size><family>Times New Roman</family></content>
+
+<content start="6938" end="6945">
+<size>18</size><family>Times New Roman</family><href>Analysis_p3.cml</href></content>
+
+<content start="6945" end="6946">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6915" end="6916">
+<paragraph start="6946" end="6947">
 </paragraph>
 </section>
 </document>

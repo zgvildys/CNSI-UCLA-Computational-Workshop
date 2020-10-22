@@ -8,8 +8,7 @@
 <gradient_variant>1041</gradient_variant>
 </bg_gradient>
 <text> 
-
-Next -&gt;
+&lt;- Prev	TOC	Next -&gt;
 
  
 
@@ -19,9 +18,9 @@ Next -&gt;
 
        
 
-
+&lt;- Prev	TOC	Next -&gt;
 </text>
-<section start="0" end="38">
+<section start="0" end="68">
 <paragraph start="0" end="2">
 <Alignment>1</Alignment>
 <content start="0" end="1">
@@ -31,30 +30,30 @@ Next -&gt;
 </content>
 
 </paragraph>
-<paragraph start="2" end="3">
+<paragraph start="2" end="22">
 <Alignment>1</Alignment>
-<content start="2" end="3">
+<content start="2" end="9">
+<href>annealing.cml</href></content>
+
+<content start="9" end="14">
 </content>
 
-</paragraph>
-<paragraph start="3" end="11">
-<Alignment>1</Alignment>
-<content start="3" end="10">
+<content start="14" end="21">
 <href>Shapes_p2.cml</href></content>
 
-<content start="10" end="11">
+<content start="21" end="22">
 </content>
 
 </paragraph>
-<paragraph start="11" end="12">
+<paragraph start="22" end="23">
 <Alignment>1</Alignment>
-<content start="11" end="12">
+<content start="22" end="23">
 </content>
 
 </paragraph>
-<paragraph start="12" end="14">
+<paragraph start="23" end="25">
 <Alignment>1</Alignment>
-<content start="12" end="13">
+<content start="23" end="24">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>100.0</height>
@@ -75,19 +74,19 @@ Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="13" end="14">
+<content start="24" end="25">
 </content>
 
 </paragraph>
-<paragraph start="14" end="15">
+<paragraph start="25" end="26">
 <Alignment>1</Alignment>
-<content start="14" end="15">
+<content start="25" end="26">
 </content>
 
 </paragraph>
-<paragraph start="15" end="17">
+<paragraph start="26" end="28">
 <Alignment>1</Alignment>
-<content start="15" end="16">
+<content start="26" end="27">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>160.0</height>
@@ -115,19 +114,19 @@ Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="16" end="17">
+<content start="27" end="28">
 </content>
 
 </paragraph>
-<paragraph start="17" end="18">
+<paragraph start="28" end="29">
 <Alignment>1</Alignment>
-<content start="17" end="18">
+<content start="28" end="29">
 </content>
 
 </paragraph>
-<paragraph start="18" end="26">
+<paragraph start="29" end="37">
 <Alignment>1</Alignment>
-<content start="18" end="19">
+<content start="29" end="30">
 <component><class>org.concord.modeler.PageMultipleChoice</class>
 <single>true</single>
 <row>5</row>
@@ -155,10 +154,10 @@ Next -&gt;
 <script> -choiceseparator-  -choiceseparator-  -choiceseparator-  -choiceseparator- </script>
 </component></content>
 
-<content start="19" end="24">
+<content start="30" end="35">
 </content>
 
-<content start="24" end="25">
+<content start="35" end="36">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>250.0</height>
@@ -176,19 +175,19 @@ Next -&gt;
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="25" end="26">
+<content start="36" end="37">
 </content>
 
 </paragraph>
-<paragraph start="26" end="27">
+<paragraph start="37" end="38">
 <Alignment>1</Alignment>
-<content start="26" end="27">
+<content start="37" end="38">
 </content>
 
 </paragraph>
-<paragraph start="27" end="35">
+<paragraph start="38" end="46">
 <Alignment>1</Alignment>
-<content start="27" end="28">
+<content start="38" end="39">
 <component><class>org.concord.modeler.PageMultipleChoice</class>
 <single>true</single>
 <row>5</row>
@@ -216,10 +215,10 @@ Next -&gt;
 <script> -choiceseparator-  -choiceseparator-  -choiceseparator-  -choiceseparator- </script>
 </component></content>
 
-<content start="28" end="33">
+<content start="39" end="44">
 </content>
 
-<content start="33" end="34">
+<content start="44" end="45">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>250.0</height>
@@ -237,23 +236,32 @@ Next -&gt;
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="34" end="35">
+<content start="45" end="46">
 </content>
 
 </paragraph>
-<paragraph start="35" end="36">
+<paragraph start="46" end="47">
 <Alignment>1</Alignment>
-<content start="35" end="36">
+<content start="46" end="47">
 </content>
 
 </paragraph>
-<paragraph start="36" end="37">
+<paragraph start="47" end="67">
 <Alignment>1</Alignment>
-<content start="36" end="37">
+<content start="47" end="54">
+<href>annealing.cml</href></content>
+
+<content start="54" end="59">
+</content>
+
+<content start="59" end="66">
+<href>Shapes_p2.cml</href></content>
+
+<content start="66" end="67">
 </content>
 
 </paragraph>
-<paragraph start="37" end="38">
+<paragraph start="67" end="68">
 </paragraph>
 </section>
 </document>

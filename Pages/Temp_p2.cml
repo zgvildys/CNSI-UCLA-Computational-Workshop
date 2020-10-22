@@ -9,7 +9,7 @@
 </bg_gradient>
 <text>	Role of Temperature in Assembly of Viral Capsids
 
-	Next -&gt;
+&lt;-Prev	TOC	Next -&gt;
 
  
 
@@ -25,9 +25,10 @@
 
  
 
+&lt;-Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="84">
+<section start="0" end="113">
 <paragraph start="0" end="50">
 <content start="0" end="49">
 <size>24</size><family>Times New Roman</family></content>
@@ -41,23 +42,27 @@
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="51" end="60">
-<content start="51" end="52">
+<paragraph start="51" end="70">
+<Alignment>1</Alignment>
+<content start="51" end="57">
+<size>16</size><family>Times New Roman</family><href>Temp_p1.cml</href></content>
+
+<content start="57" end="62">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="52" end="60">
+<content start="62" end="70">
+<size>16</size><family>Times New Roman</family><href>annealing.cml</href></content>
+
+</paragraph>
+<paragraph start="70" end="71">
+<Alignment>1</Alignment>
+<content start="70" end="71">
 <size>16</size><family>Times New Roman</family><href>Shapes_p1.cml</href></content>
 
 </paragraph>
-<paragraph start="60" end="61">
+<paragraph start="71" end="73">
 <Alignment>1</Alignment>
-<content start="60" end="61">
-<size>16</size><family>Times New Roman</family><href>Shapes_p1.cml</href></content>
-
-</paragraph>
-<paragraph start="61" end="63">
-<Alignment>1</Alignment>
-<content start="61" end="62">
+<content start="71" end="72">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>60.0</height>
@@ -76,19 +81,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="62" end="63">
+<content start="72" end="73">
 </content>
 
 </paragraph>
-<paragraph start="63" end="64">
+<paragraph start="73" end="74">
 <Alignment>1</Alignment>
-<content start="63" end="64">
+<content start="73" end="74">
 </content>
 
 </paragraph>
-<paragraph start="64" end="66">
+<paragraph start="74" end="76">
 <Alignment>1</Alignment>
-<content start="64" end="65">
+<content start="74" end="75">
 <component><class>org.concord.modeler.PageSlider</class>
 <modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
 <model>0</model>
@@ -105,35 +110,35 @@
 <change>Temperature</change>
 </component></content>
 
-<content start="65" end="66">
+<content start="75" end="76">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="66" end="67">
+<paragraph start="76" end="77">
 <Alignment>1</Alignment>
-<content start="66" end="67">
+<content start="76" end="77">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="67" end="69">
+<paragraph start="77" end="79">
 <Alignment>1</Alignment>
-<content start="67" end="68">
+<content start="77" end="78">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
 <resource>Temp_p2$0.mml</resource><menubar>false</menubar></component></content>
 
-<content start="68" end="69">
+<content start="78" end="79">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="69" end="70">
+<paragraph start="79" end="80">
 <Alignment>1</Alignment>
-<content start="69" end="70">
+<content start="79" end="80">
 </content>
 
 </paragraph>
-<paragraph start="70" end="72">
+<paragraph start="80" end="82">
 <Alignment>1</Alignment>
-<content start="70" end="71">
+<content start="80" end="81">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>800</width>
 <height>100</height>
@@ -150,19 +155,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="71" end="72">
+<content start="81" end="82">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="72" end="73">
+<paragraph start="82" end="83">
 <Alignment>1</Alignment>
-<content start="72" end="73">
+<content start="82" end="83">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="73" end="75">
+<paragraph start="83" end="85">
 <Alignment>1</Alignment>
-<content start="73" end="74">
+<content start="83" end="84">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>800</width>
 <height>100</height>
@@ -179,19 +184,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="74" end="75">
+<content start="84" end="85">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="75" end="76">
+<paragraph start="85" end="86">
 <Alignment>1</Alignment>
-<content start="75" end="76">
+<content start="85" end="86">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="76" end="78">
+<paragraph start="86" end="88">
 <Alignment>1</Alignment>
-<content start="76" end="77">
+<content start="86" end="87">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>800</width>
 <height>100</height>
@@ -208,19 +213,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="77" end="78">
+<content start="87" end="88">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="78" end="79">
+<paragraph start="88" end="89">
 <Alignment>1</Alignment>
-<content start="78" end="79">
+<content start="88" end="89">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="79" end="81">
+<paragraph start="89" end="91">
 <Alignment>1</Alignment>
-<content start="79" end="80">
+<content start="89" end="90">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>100.0</height>
@@ -242,21 +247,37 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="80" end="81">
+<content start="90" end="91">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="81" end="82">
-<content start="81" end="82">
+<paragraph start="91" end="92">
+<Alignment>1</Alignment>
+<content start="91" end="92">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="82" end="83">
-<content start="82" end="83">
+<paragraph start="92" end="111">
+<Alignment>1</Alignment>
+<content start="92" end="98">
+<size>16</size><family>Times New Roman</family><href>Temp_p1.cml</href></content>
+
+<content start="98" end="103">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="103" end="110">
+<size>16</size><family>Times New Roman</family><href>annealing.cml</href></content>
+
+<content start="110" end="111">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="83" end="84">
+<paragraph start="111" end="112">
+<content start="111" end="112">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="112" end="113">
 </paragraph>
 </section>
 </document>
