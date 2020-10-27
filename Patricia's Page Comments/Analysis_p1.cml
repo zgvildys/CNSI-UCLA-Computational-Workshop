@@ -2,20 +2,28 @@
 <document>
 <language>UTF-8</language>
 <page_title>Design and Procedure</page_title>
+<bg_gradient><gradient_color1><Red>255</Red><Green>255</Green><Blue>255</Blue></gradient_color1>
+<gradient_color2><Red>84</Red><Green>242</Green><Blue>163</Blue></gradient_color2>
+<gradient_style>1031</gradient_style>
+<gradient_variant>1041</gradient_variant>
+</bg_gradient>
 <text>Design Principles Applied
 
 Next -&gt;
- 
-
 
  
-  
-   
 
+ 
+
+      
+
+       
+
+ 
 
 
 </text>
-<section start="0" end="52">
+<section start="0" end="64">
 <paragraph start="0" end="26">
 <content start="0" end="26">
 <size>53</size><family>Times New Roman</family></content>
@@ -27,18 +35,22 @@ Next -&gt;
 
 </paragraph>
 <paragraph start="27" end="35">
-<content start="27" end="34">
+<content start="27" end="35">
 <href>Analysis_p2.cml</href></content>
 
-<content start="34" end="35">
+</paragraph>
+<paragraph start="35" end="36">
+<Alignment>1</Alignment>
+<content start="35" end="36">
 </content>
 
 </paragraph>
-<paragraph start="35" end="37">
-<content start="35" end="36">
+<paragraph start="36" end="38">
+<Alignment>1</Alignment>
+<content start="36" end="37">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>200.0</height>
+<height>140.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -62,28 +74,25 @@ Next -&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
-<content start="36" end="37">
-</content>
-
-</paragraph>
-<paragraph start="37" end="38">
 <content start="37" end="38">
 </content>
 
 </paragraph>
 <paragraph start="38" end="39">
+<Alignment>1</Alignment>
 <content start="38" end="39">
 </content>
 
 </paragraph>
 <paragraph start="39" end="41">
+<Alignment>1</Alignment>
 <content start="39" end="40">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>200.0</height>
+<height>120.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -108,18 +117,25 @@ Next -&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
 <content start="40" end="41">
 </content>
 
 </paragraph>
-<paragraph start="41" end="44">
+<paragraph start="41" end="42">
+<Alignment>1</Alignment>
 <content start="41" end="42">
+</content>
+
+</paragraph>
+<paragraph start="42" end="49">
+<Alignment>1</Alignment>
+<content start="42" end="43">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
-<height>500.0</height>
+<height>450.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -156,80 +172,102 @@ Next -&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
-<content start="42" end="43">
+<content start="43" end="47">
+</content>
+
+<content start="47" end="48">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
 <resource>Analysis_p1$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Duplicate Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button></component></content>
 
-<content start="43" end="44">
-</content>
-
-</paragraph>
-<paragraph start="44" end="48">
-<content start="44" end="45">
-<component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body face=&quot;Arial&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; bgcolor=&quot;rgb(230, 230, 230)&quot;&gt;
-    &lt;strong&gt;Place a snapshot here to show one self-assembled nanostructure you 
-    designed.&lt;/strong&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</title><opaque>false</opaque>
-<border>Line</border>
-</component></content>
-
-<content start="45" end="46">
-<component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body face=&quot;Arial&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; bgcolor=&quot;rgb(230, 230, 230)&quot;&gt;
-    &lt;strong&gt;Place a snapshot here to show one self-assembled nanostructure you 
-    designed.&lt;/strong&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</title><opaque>false</opaque>
-<border>Line</border>
-</component></content>
-
-<content start="46" end="47">
-<component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body face=&quot;Arial&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; bgcolor=&quot;rgb(230, 230, 230)&quot;&gt;
-    &lt;strong&gt;Place a snapshot here to show one self-assembled nanostructure you 
-    designed.&lt;/strong&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</title><opaque>false</opaque>
-<border>Line</border>
-</component></content>
-
-<content start="47" end="48">
-</content>
-
-</paragraph>
-<paragraph start="48" end="49">
 <content start="48" end="49">
 </content>
 
 </paragraph>
 <paragraph start="49" end="50">
+<Alignment>1</Alignment>
 <content start="49" end="50">
 </content>
 
 </paragraph>
-<paragraph start="50" end="51">
+<paragraph start="50" end="58">
+<Alignment>1</Alignment>
 <content start="50" end="51">
+<component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;Arial&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; bgcolor=&quot;rgb(230, 230, 230)&quot;&gt;
+    &lt;strong&gt;Place a snapshot here to show one self-assembled nanostructure you 
+    designed.&lt;/strong&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+<border>Line</border>
+</component></content>
+
+<content start="51" end="56">
+</content>
+
+<content start="56" end="57">
+<component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;Arial&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; bgcolor=&quot;rgb(230, 230, 230)&quot;&gt;
+    &lt;strong&gt;Place a snapshot here to show one self-assembled nanostructure you 
+    designed.&lt;/strong&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+<border>Line</border>
+</component></content>
+
+<content start="57" end="58">
 </content>
 
 </paragraph>
-<paragraph start="51" end="52">
+<paragraph start="58" end="59">
+<Alignment>1</Alignment>
+<content start="58" end="59">
+</content>
+
+</paragraph>
+<paragraph start="59" end="61">
+<Alignment>1</Alignment>
+<content start="59" end="60">
+<component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;Arial&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; bgcolor=&quot;rgb(230, 230, 230)&quot;&gt;
+    &lt;strong&gt;Place a snapshot here to show one self-assembled nanostructure you 
+    designed.&lt;/strong&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+<border>Line</border>
+</component></content>
+
+<content start="60" end="61">
+</content>
+
+</paragraph>
+<paragraph start="61" end="62">
+<Alignment>1</Alignment>
+<content start="61" end="62">
+</content>
+
+</paragraph>
+<paragraph start="62" end="63">
+<Alignment>1</Alignment>
+<content start="62" end="63">
+</content>
+
+</paragraph>
+<paragraph start="63" end="64">
 </paragraph>
 </section>
 </document>
