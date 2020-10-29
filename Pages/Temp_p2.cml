@@ -56,8 +56,8 @@
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;Key Concept: Viral capsids require a 
-    specific range of temperatures to form. &lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; viral 
+    capsids require a specific range of temperatures to form. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -130,16 +130,16 @@
 <component><class>org.concord.modeler.PageSlider</class>
 <modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
 <model>0</model>
-<value>0.0</value>
-<minimum>5.0</minimum>
-<maximum>3105.0</maximum>
-<nstep>4</nstep>
+<value>1500.0</value>
+<minimum>1000.0</minimum>
+<maximum>25000.0</maximum>
+<nstep>16</nstep>
 <title>Temperature</title>
-<width>200</width>
+<width>400</width>
 <height>60</height>
 <opaque>false</opaque>
 <tick>true</tick>
-<labeltable>{value=&quot;3100.0&quot;, label=&quot;85 &#176;C&quot;}{value=&quot;775.0&quot;, label=&quot;25 &#176;C&quot;}{value=&quot;0.0&quot;, label=&quot;5 &#176;C&quot;}</labeltable>
+<labeltable>{value=&quot;25500.0&quot;, label=&quot;85 &#176;C&quot;}{value=&quot;7500.0&quot;, label=&quot;25 &#176;C&quot;}{value=&quot;1500.0&quot;, label=&quot;5 &#176;C&quot;}</labeltable>
 <change>Temperature</change>
 </component></content>
 

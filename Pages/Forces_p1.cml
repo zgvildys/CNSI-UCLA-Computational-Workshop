@@ -62,7 +62,8 @@ TOC	Next -&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;Key Concept: &lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;Key Concept:&lt;/i&gt;&lt;/u&gt;&lt;/b&gt; atoms 
+    and molecules are in constant motion. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -116,8 +117,8 @@ TOC	Next -&gt;
     need to understand how atoms and small molecules behave on their own. 
     These particles make up all matter and are constantly moving. If there are 
     very few atoms present, they have quite predicable motion. For instance, 
-    in the box below, there is a single particle. Click &amp;quot;play&amp;quot;, and observe 
-    how the particle moves.
+    in the box below, there is a single particle. Click the &amp;quot;play&amp;quot; button at 
+    the bottom of the simulation box below, and observe how the particle moves.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -301,8 +302,9 @@ TOC	Next -&gt;
   &lt;/head&gt;
   &lt;body&gt;
     Now press play. Does the particle motion look much more chaotic and 
-    random? You can also mark a single atom, and show it&apos;s trajectory. Wait a 
-    little bit, then pause the system, and look at the path of the trajectory.
+    random? Follow the trajectory of the different colored atom, which should 
+    show as a dotted line following the atom. Wait a little bit, then pause 
+    the system, and look at the path of the trajectory.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>

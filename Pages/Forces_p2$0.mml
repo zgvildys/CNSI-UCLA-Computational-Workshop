@@ -334,7 +334,7 @@
    <void method="put">
     <string>date</string>
     <object class="java.util.Date">
-     <long>1603401132000</long>
+     <long>1604003619000</long>
     </object>
    </void>
    <void method="put">
@@ -343,15 +343,15 @@
    </void>
    <void method="put">
     <string>size</string>
-    <long>88301</long>
+    <long>88289</long>
    </void>
    <void method="put">
     <string>codebase</string>
-    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master 3/Pages</string>
+    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master/Pages</string>
    </void>
    <void method="put">
     <string>url</string>
-    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master 3/Pages/Forces_p2$0.mml</string>
+    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master/Pages/Forces_p2$0.mml</string>
    </void>
   </void>
   <void property="quantumRule">
@@ -367,9 +367,6 @@
  <object class="org.concord.mw2d.AtomisticView$State" id="AtomisticView$State0">
   <void property="colorCode">
    <string>None</string>
-  </void>
-  <void property="energizer">
-   <boolean>true</boolean>
   </void>
   <void property="forceFlavor">
    <void property="color">

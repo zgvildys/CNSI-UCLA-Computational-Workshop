@@ -54,7 +54,9 @@
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;Key Concept: &lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; 
+    apparent random motion of capsid proteins is due to the collision with 
+    many much smaller solvent molecules. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -239,13 +241,11 @@
 
 </paragraph>
 <paragraph start="113" end="114">
-<Alignment>1</Alignment>
 <content start="113" end="114">
 <size>14</size><href>Forces_p3.cml</href></content>
 
 </paragraph>
 <paragraph start="114" end="115">
-<Alignment>1</Alignment>
 </paragraph>
 </section>
 </document>

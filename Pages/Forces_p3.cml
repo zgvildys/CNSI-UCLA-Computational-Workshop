@@ -70,7 +70,8 @@
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;Key Concept: &lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; coulomb 
+    forces between atoms and molecules are required for self-assembly. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -251,14 +252,16 @@
 <content start="84" end="85">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>40.0</height>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    Try it yourself! Below is a box with some particles in them - put some 
-    charged particles in the box and see how they behave.
+    Try it yourself! Below is a box containing some particles with positive 
+    and negative charges. Press play and see how they behave. Then try 
+    clicking and dragging the atoms to different places in the box- try things 
+    like separating all the charges, or putting all the atoms close together.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -313,7 +316,7 @@
 <LeftIndent>40.0</LeftIndent>
 <content start="90" end="91">
 <component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_p3$0.mml</resource><menubar>false</menubar><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Ck</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+<resource>Forces_p3$0.mml</resource><menubar>false</menubar></component></content>
 
 <content start="91" end="92">
 <size>14</size></content>
@@ -403,15 +406,21 @@
 <content start="99" end="100">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>60.0</height>
+<height>130.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    Try it out with the molecular shapes in the box below. What happens if you 
-    give different parts of the molecules different charge? Or the same 
-    charge? Remember, proteins are just very big molecules, and they have 
+    Try it out with the square molecular shape in the box below. Try adding 
+    different charges to different parts of the molecule and then using the 
+    duplicate tool to make multiples of the same molecule- try doing negative 
+    charges along one side, and positive charges on the other, or try giving 
+    the corners one charge, and the sides the other charge. Or even try 
+    duplicating the molecule without any charge to produce two molecules, then 
+    give one molecule one charge, and the other molecule the opposite charge, 
+    then make copies of both of them. What happens with all these different 
+    cases? Remember, proteins are just very big molecules, and they have 
     different regions that can have different charge.
   &lt;/body&gt;
 &lt;/html&gt;

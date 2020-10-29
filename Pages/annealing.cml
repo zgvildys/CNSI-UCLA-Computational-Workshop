@@ -57,7 +57,9 @@
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;Key Concept: &lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; heating 
+    and cooling a system in a controlled manner can help a system 
+    self-assemble into a better structure. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -102,7 +104,7 @@
 <content start="95" end="96">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>140.0</height>
+<height>130.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -183,7 +185,8 @@
     best possible structure. Basically, if we start with a structure that 
     isn&apos;t perfect, we can heat it up really hot and then cool it down again. 
     This will lead to the formation of a more stable structure with fewer 
-    defects. This can be done once or multiple times.
+    defects- basically a more perfect structure. This can be done once or 
+    multiple times.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -213,11 +216,12 @@
   &lt;body&gt;
     Now, you try it! Below is a box with a defective structure. Try playing 
     with temperature a bit to see what the best structure you can get is. The 
-    best structure has as many monomers touching eachother as possible, with 
-    their sides touching eachother perfectly. Play around with how fast you 
-    raise and lower the temperature. Try three different attempts, choose your 
-    best one, and write about what you did. Why do you think that was the best 
-    method?
+    best structure has as many ring-shaped structures that you can- either 
+    side by side, or even overlapping. Play around with how fast you raise and 
+    lower the temperature- for instance, take the temperature to the hottest 
+    posisble, and then suddenly change it to much colder to simulate fast 
+    cooling. Try three different attempts, choose your best one, and write 
+    about what you did. Why do you think that was the best method?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -238,7 +242,7 @@
 <Alignment>1</Alignment>
 <content start="107" end="108">
 <size>14</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>annealing$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
+<resource>annealing$0.mml</resource><menubar>false</menubar></component></content>
 
 <content start="108" end="109">
 <size>14</size></content>
@@ -256,16 +260,16 @@
 <component><class>org.concord.modeler.PageSlider</class>
 <modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
 <model>0</model>
-<value>1923.0769230769233</value>
+<value>1500.0</value>
 <minimum>1000.0</minimum>
-<maximum>26000.0</maximum>
-<nstep>13</nstep>
+<maximum>25000.0</maximum>
+<nstep>16</nstep>
 <title>Temperature</title>
 <width>400</width>
 <height>100</height>
 <opaque>false</opaque>
 <tick>true</tick>
-<labeltable>{value=&quot;11538.461538461539&quot;, label=&quot;25 C&quot;}{value=&quot;25000.000000000004&quot;, label=&quot;60 C&quot;}{value=&quot;3846.1538461538466&quot;, label=&quot;5 C&quot;}</labeltable>
+<labeltable>{value=&quot;25500.0&quot;, label=&quot;85 C&quot;}{value=&quot;7500.0&quot;, label=&quot;25 C&quot;}{value=&quot;1500.0&quot;, label=&quot;5 C&quot;}</labeltable>
 <change>Temperature</change>
 </component></content>
 
