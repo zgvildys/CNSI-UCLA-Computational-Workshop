@@ -8,6 +8,9 @@
 <gradient_variant>1041</gradient_variant>
 </bg_gradient>
 <text> 
+
+ 
+
 &lt;- Prev	TOC	Next -&gt;
 
  
@@ -20,7 +23,7 @@
 
 &lt;- Prev	TOC	Next -&gt;
 </text>
-<section start="0" end="68">
+<section start="0" end="72">
 <paragraph start="0" end="2">
 <Alignment>1</Alignment>
 <content start="0" end="1">
@@ -30,30 +33,65 @@
 </content>
 
 </paragraph>
-<paragraph start="2" end="22">
+<paragraph start="2" end="3">
 <Alignment>1</Alignment>
-<content start="2" end="9">
+<content start="2" end="3">
+</content>
+
+</paragraph>
+<paragraph start="3" end="5">
+<Alignment>1</Alignment>
+<content start="3" end="4">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>600.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;Key Concept: &lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-a9278e</bgcolor>
+<border>Line</border>
+</component></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>1</Alignment>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="26">
+<Alignment>1</Alignment>
+<content start="6" end="13">
 <href>annealing.cml</href></content>
 
-<content start="9" end="14">
+<content start="13" end="18">
 </content>
 
-<content start="14" end="21">
+<content start="18" end="25">
 <href>Shapes_p2.cml</href></content>
 
-<content start="21" end="22">
+<content start="25" end="26">
 </content>
 
 </paragraph>
-<paragraph start="22" end="23">
+<paragraph start="26" end="27">
 <Alignment>1</Alignment>
-<content start="22" end="23">
+<content start="26" end="27">
 </content>
 
 </paragraph>
-<paragraph start="23" end="25">
+<paragraph start="27" end="29">
 <Alignment>1</Alignment>
-<content start="23" end="24">
+<content start="27" end="28">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>100.0</height>
@@ -74,19 +112,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="24" end="25">
+<content start="28" end="29">
 </content>
 
 </paragraph>
-<paragraph start="25" end="26">
+<paragraph start="29" end="30">
 <Alignment>1</Alignment>
-<content start="25" end="26">
+<content start="29" end="30">
 </content>
 
 </paragraph>
-<paragraph start="26" end="28">
+<paragraph start="30" end="32">
 <Alignment>1</Alignment>
-<content start="26" end="27">
+<content start="30" end="31">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>160.0</height>
@@ -114,19 +152,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="27" end="28">
+<content start="31" end="32">
 </content>
 
 </paragraph>
-<paragraph start="28" end="29">
+<paragraph start="32" end="33">
 <Alignment>1</Alignment>
-<content start="28" end="29">
+<content start="32" end="33">
 </content>
 
 </paragraph>
-<paragraph start="29" end="37">
+<paragraph start="33" end="41">
 <Alignment>1</Alignment>
-<content start="29" end="30">
+<content start="33" end="34">
 <component><class>org.concord.modeler.PageMultipleChoice</class>
 <single>true</single>
 <row>5</row>
@@ -154,10 +192,10 @@
 <script> -choiceseparator-  -choiceseparator-  -choiceseparator-  -choiceseparator- </script>
 </component></content>
 
-<content start="30" end="35">
+<content start="34" end="39">
 </content>
 
-<content start="35" end="36">
+<content start="39" end="40">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>250.0</height>
@@ -175,19 +213,19 @@
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="36" end="37">
+<content start="40" end="41">
 </content>
 
 </paragraph>
-<paragraph start="37" end="38">
+<paragraph start="41" end="42">
 <Alignment>1</Alignment>
-<content start="37" end="38">
+<content start="41" end="42">
 </content>
 
 </paragraph>
-<paragraph start="38" end="46">
+<paragraph start="42" end="50">
 <Alignment>1</Alignment>
-<content start="38" end="39">
+<content start="42" end="43">
 <component><class>org.concord.modeler.PageMultipleChoice</class>
 <single>true</single>
 <row>5</row>
@@ -215,10 +253,10 @@
 <script> -choiceseparator-  -choiceseparator-  -choiceseparator-  -choiceseparator- </script>
 </component></content>
 
-<content start="39" end="44">
+<content start="43" end="48">
 </content>
 
-<content start="44" end="45">
+<content start="48" end="49">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>250.0</height>
@@ -236,32 +274,31 @@
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="45" end="46">
+<content start="49" end="50">
 </content>
 
 </paragraph>
-<paragraph start="46" end="47">
+<paragraph start="50" end="51">
 <Alignment>1</Alignment>
-<content start="46" end="47">
+<content start="50" end="51">
 </content>
 
 </paragraph>
-<paragraph start="47" end="67">
-<Alignment>1</Alignment>
-<content start="47" end="54">
+<paragraph start="51" end="71">
+<content start="51" end="58">
 <href>annealing.cml</href></content>
 
-<content start="54" end="59">
+<content start="58" end="63">
 </content>
 
-<content start="59" end="66">
+<content start="63" end="70">
 <href>Shapes_p2.cml</href></content>
 
-<content start="66" end="67">
+<content start="70" end="71">
 </content>
 
 </paragraph>
-<paragraph start="67" end="68">
+<paragraph start="71" end="72">
 </paragraph>
 </section>
 </document>

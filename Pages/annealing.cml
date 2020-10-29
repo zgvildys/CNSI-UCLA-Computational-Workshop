@@ -9,6 +9,8 @@
 </bg_gradient>
 <text>	Section 1- Page 6: The Importance of Temperature and Self-Assembly
 	
+ 
+
 	&lt;- Prev	TOC	Next -&gt;
 
  
@@ -30,7 +32,7 @@
 	&lt;- Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="151">
+<section start="0" end="154">
 <paragraph start="0" end="68">
 <content start="0" end="67">
 <size>20</size></content>
@@ -44,32 +46,60 @@
 </content>
 
 </paragraph>
-<paragraph start="70" end="91">
+<paragraph start="70" end="72">
 <Alignment>1</Alignment>
 <content start="70" end="71">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>600.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;Key Concept: &lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-a9278e</bgcolor>
+<border>Line</border>
+</component></content>
+
+<content start="71" end="72">
 </content>
 
-<content start="71" end="78">
+</paragraph>
+<paragraph start="72" end="73">
+<content start="72" end="73">
+</content>
+
+</paragraph>
+<paragraph start="73" end="94">
+<Alignment>1</Alignment>
+<content start="73" end="74">
+</content>
+
+<content start="74" end="81">
 <href>Temp_p2.cml</href></content>
 
-<content start="78" end="83">
+<content start="81" end="86">
 </content>
 
-<content start="83" end="90">
+<content start="86" end="93">
 <href>Shapes_p1.cml</href></content>
 
-<content start="90" end="91">
+<content start="93" end="94">
 </content>
 
 </paragraph>
-<paragraph start="91" end="92">
-<content start="91" end="92">
+<paragraph start="94" end="95">
+<content start="94" end="95">
 </content>
 
 </paragraph>
-<paragraph start="92" end="94">
+<paragraph start="95" end="97">
 <Alignment>1</Alignment>
-<content start="92" end="93">
+<content start="95" end="96">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>140.0</height>
@@ -94,19 +124,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="93" end="94">
+<content start="96" end="97">
 </content>
 
 </paragraph>
-<paragraph start="94" end="95">
+<paragraph start="97" end="98">
 <Alignment>1</Alignment>
-<content start="94" end="95">
+<content start="97" end="98">
 </content>
 
 </paragraph>
-<paragraph start="95" end="97">
+<paragraph start="98" end="100">
 <Alignment>1</Alignment>
-<content start="95" end="96">
+<content start="98" end="99">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>80.0</height>
@@ -120,40 +150,6 @@
     won&apos;t stay stuck together. But if it&apos;s too cold, then it can&apos;t move enough 
     from a random starting state into the best structure - instead you get a 
     structure with defects.
-  &lt;/body&gt;
-&lt;/html&gt;
-</title>
-<opaque>false</opaque>
-</component></content>
-
-<content start="96" end="97">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="97" end="98">
-<Alignment>1</Alignment>
-<content start="97" end="98">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="98" end="100">
-<Alignment>1</Alignment>
-<content start="98" end="99">
-<component><class>org.concord.modeler.PageTextBox</class>
-<width>800.0</width>
-<height>100.0</height>
-<title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;
-    Using this, you can also control how things self-assemble by controling 
-    temperature changes. This is a process called &amp;quot;annealing&amp;quot;, which is often 
-    used in computational chemistry research to make sure that we found the 
-    best possible structure. Basically, if we start with a structure that 
-    isn&apos;t perfect, we can heat it up really hot and then cool it down again. 
-    This will lead to the formation of a more stable structure with fewer 
-    defects. This can be done once or multiple times.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -181,13 +177,13 @@
     
   &lt;/head&gt;
   &lt;body&gt;
-    Now, you try it! Below is a box with a defective structure. Try playing 
-    with temperature a bit to see what the best structure you can get is. The 
-    best structure has as many monomers touching eachother as possible, with 
-    their sides touching eachother perfectly. Play around with how fast you 
-    raise and lower the temperature. Try three different attempts, choose your 
-    best one, and write about what you did. Why do you think that was the best 
-    method?
+    Using this, you can also control how things self-assemble by controling 
+    temperature changes. This is a process called &amp;quot;annealing&amp;quot;, which is often 
+    used in computational chemistry research to make sure that we found the 
+    best possible structure. Basically, if we start with a structure that 
+    isn&apos;t perfect, we can heat it up really hot and then cool it down again. 
+    This will lead to the formation of a more stable structure with fewer 
+    defects. This can be done once or multiple times.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -207,8 +203,26 @@
 <paragraph start="104" end="106">
 <Alignment>1</Alignment>
 <content start="104" end="105">
-<size>14</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>annealing$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Now, you try it! Below is a box with a defective structure. Try playing 
+    with temperature a bit to see what the best structure you can get is. The 
+    best structure has as many monomers touching eachother as possible, with 
+    their sides touching eachother perfectly. Play around with how fast you 
+    raise and lower the temperature. Try three different attempts, choose your 
+    best one, and write about what you did. Why do you think that was the best 
+    method?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
 
 <content start="105" end="106">
 <size>14</size></content>
@@ -223,6 +237,22 @@
 <paragraph start="107" end="109">
 <Alignment>1</Alignment>
 <content start="107" end="108">
+<size>14</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>annealing$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Draw Rectangle</button><button>Draw Ellipse</button><button>Draw Triangle</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Toggle Average Position</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Create Radial Bond</button><button>Build Angular Bond</button></component></content>
+
+<content start="108" end="109">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="109" end="110">
+<Alignment>1</Alignment>
+<content start="109" end="110">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="110" end="112">
+<Alignment>1</Alignment>
+<content start="110" end="111">
 <component><class>org.concord.modeler.PageSlider</class>
 <modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
 <model>0</model>
@@ -235,17 +265,17 @@
 <height>100</height>
 <opaque>false</opaque>
 <tick>true</tick>
-<labeltable>{value=&quot;11538.461538461539&quot;, label=&quot;25 C&quot;}{value=&quot;3846.1538461538466&quot;, label=&quot;5 C&quot;}{value=&quot;25000.000000000004&quot;, label=&quot;60 C&quot;}</labeltable>
+<labeltable>{value=&quot;11538.461538461539&quot;, label=&quot;25 C&quot;}{value=&quot;25000.000000000004&quot;, label=&quot;60 C&quot;}{value=&quot;3846.1538461538466&quot;, label=&quot;5 C&quot;}</labeltable>
 <change>Temperature</change>
 </component></content>
 
-<content start="108" end="109">
+<content start="111" end="112">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="109" end="116">
+<paragraph start="112" end="119">
 <Alignment>1</Alignment>
-<content start="109" end="110">
+<content start="112" end="113">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -257,10 +287,10 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="110" end="114">
+<content start="113" end="117">
 <size>14</size></content>
 
-<content start="114" end="115">
+<content start="117" end="118">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -272,13 +302,13 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="115" end="116">
+<content start="118" end="119">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="116" end="124">
+<paragraph start="119" end="127">
 <Alignment>1</Alignment>
-<content start="116" end="117">
+<content start="119" end="120">
 <size>14</size><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -290,10 +320,10 @@
 </title><opaque>false</opaque>
 </component></content>
 
-<content start="117" end="122">
+<content start="120" end="125">
 <size>14</size></content>
 
-<content start="122" end="123">
+<content start="125" end="126">
 <size>14</size><component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -309,19 +339,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="123" end="124">
+<content start="126" end="127">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="124" end="125">
+<paragraph start="127" end="128">
 <Alignment>1</Alignment>
-<content start="124" end="125">
+<content start="127" end="128">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="125" end="127">
+<paragraph start="128" end="130">
 <Alignment>1</Alignment>
-<content start="125" end="126">
+<content start="128" end="129">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>100.0</height>
@@ -343,40 +373,40 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="126" end="127">
+<content start="129" end="130">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="127" end="128">
+<paragraph start="130" end="131">
 <Alignment>1</Alignment>
-<content start="127" end="128">
+<content start="130" end="131">
 </content>
 
 </paragraph>
-<paragraph start="128" end="149">
+<paragraph start="131" end="152">
 <Alignment>1</Alignment>
-<content start="128" end="129">
+<content start="131" end="132">
 </content>
 
-<content start="129" end="136">
+<content start="132" end="139">
 <href>Temp_p2.cml</href></content>
 
-<content start="136" end="141">
+<content start="139" end="144">
 </content>
 
-<content start="141" end="148">
+<content start="144" end="151">
 <href>Shapes_p1.cml</href></content>
 
-<content start="148" end="149">
+<content start="151" end="152">
 </content>
 
 </paragraph>
-<paragraph start="149" end="150">
-<content start="149" end="150">
+<paragraph start="152" end="153">
+<content start="152" end="153">
 </content>
 
 </paragraph>
-<paragraph start="150" end="151">
+<paragraph start="153" end="154">
 </paragraph>
 </section>
 </document>
