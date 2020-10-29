@@ -9,6 +9,8 @@
 </bg_gradient>
 <text>	Role of Temperature in Assembly of Viral Capsids
 
+ 
+
 &lt;-Prev	TOC	Next -&gt;
 
  
@@ -28,7 +30,7 @@
 &lt;-Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="113">
+<section start="0" end="116">
 <paragraph start="0" end="50">
 <content start="0" end="49">
 <size>24</size><family>Times New Roman</family></content>
@@ -38,31 +40,62 @@
 
 </paragraph>
 <paragraph start="50" end="51">
+<Alignment>1</Alignment>
 <content start="50" end="51">
+</content>
+
+</paragraph>
+<paragraph start="51" end="53">
+<Alignment>1</Alignment>
+<content start="51" end="52">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>600.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;Key Concept: Viral capsids require a 
+    specific range of temperatures to form. &lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-a9278e</bgcolor>
+<border>Line</border>
+</component></content>
+
+<content start="52" end="53">
+</content>
+
+</paragraph>
+<paragraph start="53" end="54">
+<Alignment>1</Alignment>
+<content start="53" end="54">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="51" end="70">
+<paragraph start="54" end="73">
 <Alignment>1</Alignment>
-<content start="51" end="57">
+<content start="54" end="60">
 <size>16</size><family>Times New Roman</family><href>Temp_p1.cml</href></content>
 
-<content start="57" end="62">
+<content start="60" end="65">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="62" end="70">
+<content start="65" end="73">
 <size>16</size><family>Times New Roman</family><href>annealing.cml</href></content>
 
 </paragraph>
-<paragraph start="70" end="71">
+<paragraph start="73" end="74">
 <Alignment>1</Alignment>
-<content start="70" end="71">
+<content start="73" end="74">
 <size>16</size><family>Times New Roman</family><href>Shapes_p1.cml</href></content>
 
 </paragraph>
-<paragraph start="71" end="73">
+<paragraph start="74" end="76">
 <Alignment>1</Alignment>
-<content start="71" end="72">
+<content start="74" end="75">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>60.0</height>
@@ -81,19 +114,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="72" end="73">
+<content start="75" end="76">
 </content>
 
 </paragraph>
-<paragraph start="73" end="74">
+<paragraph start="76" end="77">
 <Alignment>1</Alignment>
-<content start="73" end="74">
+<content start="76" end="77">
 </content>
 
 </paragraph>
-<paragraph start="74" end="76">
+<paragraph start="77" end="79">
 <Alignment>1</Alignment>
-<content start="74" end="75">
+<content start="77" end="78">
 <component><class>org.concord.modeler.PageSlider</class>
 <modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
 <model>0</model>
@@ -110,22 +143,6 @@
 <change>Temperature</change>
 </component></content>
 
-<content start="75" end="76">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="76" end="77">
-<Alignment>1</Alignment>
-<content start="76" end="77">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="77" end="79">
-<Alignment>1</Alignment>
-<content start="77" end="78">
-<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Temp_p2$0.mml</resource><menubar>false</menubar></component></content>
-
 <content start="78" end="79">
 <size>16</size><family>Times New Roman</family></content>
 
@@ -133,27 +150,14 @@
 <paragraph start="79" end="80">
 <Alignment>1</Alignment>
 <content start="79" end="80">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="80" end="82">
 <Alignment>1</Alignment>
 <content start="80" end="81">
-<component><class>org.concord.modeler.PageTextArea</class>
-<width>800</width>
-<height>100</height>
-<title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    How do the particles interact when you set the temperature to &lt;b&gt;85 &amp;#176;C&lt;/b&gt;? 
-    What do they form?
-  &lt;/body&gt;
-&lt;/html&gt;
-</title>
-<opaque>false</opaque>
-</component></content>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Temp_p2$0.mml</resource><menubar>false</menubar></component></content>
 
 <content start="81" end="82">
 <size>16</size><family>Times New Roman</family></content>
@@ -162,7 +166,7 @@
 <paragraph start="82" end="83">
 <Alignment>1</Alignment>
 <content start="82" end="83">
-<size>16</size><family>Times New Roman</family></content>
+</content>
 
 </paragraph>
 <paragraph start="83" end="85">
@@ -176,7 +180,7 @@
     
   &lt;/head&gt;
   &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    How do the particles interact when you set the temperature to &lt;b&gt;5 &amp;#176;C&lt;/b&gt;? 
+    How do the particles interact when you set the temperature to &lt;b&gt;85 &amp;#176;C&lt;/b&gt;? 
     What do they form?
   &lt;/body&gt;
 &lt;/html&gt;
@@ -205,7 +209,7 @@
     
   &lt;/head&gt;
   &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    How do the particles interact when you set the temperature to &lt;b&gt;25 &amp;#176;C&lt;/b&gt;? 
+    How do the particles interact when you set the temperature to &lt;b&gt;5 &amp;#176;C&lt;/b&gt;? 
     What do they form?
   &lt;/body&gt;
 &lt;/html&gt;
@@ -226,6 +230,35 @@
 <paragraph start="89" end="91">
 <Alignment>1</Alignment>
 <content start="89" end="90">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>800</width>
+<height>100</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    How do the particles interact when you set the temperature to &lt;b&gt;25 &amp;#176;C&lt;/b&gt;? 
+    What do they form?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="90" end="91">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="91" end="92">
+<Alignment>1</Alignment>
+<content start="91" end="92">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="92" end="94">
+<Alignment>1</Alignment>
+<content start="92" end="93">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>100.0</height>
@@ -247,37 +280,37 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="90" end="91">
+<content start="93" end="94">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="91" end="92">
+<paragraph start="94" end="95">
 <Alignment>1</Alignment>
-<content start="91" end="92">
+<content start="94" end="95">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="92" end="111">
+<paragraph start="95" end="114">
 <Alignment>1</Alignment>
-<content start="92" end="98">
+<content start="95" end="101">
 <size>16</size><family>Times New Roman</family><href>Temp_p1.cml</href></content>
 
-<content start="98" end="103">
+<content start="101" end="106">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="103" end="110">
+<content start="106" end="113">
 <size>16</size><family>Times New Roman</family><href>annealing.cml</href></content>
 
-<content start="110" end="111">
+<content start="113" end="114">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="111" end="112">
-<content start="111" end="112">
+<paragraph start="114" end="115">
+<content start="114" end="115">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="112" end="113">
+<paragraph start="115" end="116">
 </paragraph>
 </section>
 </document>

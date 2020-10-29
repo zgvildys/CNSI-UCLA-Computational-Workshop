@@ -9,6 +9,8 @@
 </bg_gradient>
 <text>Module 1 - Page 1 - Brownian Motion
 
+ 
+
 TOC	Next -&gt;
 
  
@@ -32,7 +34,7 @@ TOC	Next -&gt;
 TOC	Next -&gt;
 
 </text>
-<section start="0" end="91">
+<section start="0" end="94">
 <paragraph start="0" end="36">
 <LeftIndent>60.0</LeftIndent>
 <content start="0" end="35">
@@ -48,30 +50,60 @@ TOC	Next -&gt;
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="37" end="49">
+<paragraph start="37" end="39">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="37" end="41">
+<content start="37" end="38">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>600.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;Key Concept: &lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-a9278e</bgcolor>
+<border>Line</border>
+</component></content>
+
+<content start="38" end="39">
 <size>14</size></content>
 
-<content start="41" end="48">
+</paragraph>
+<paragraph start="39" end="40">
+<LeftIndent>60.0</LeftIndent>
+<content start="39" end="40">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="40" end="52">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="40" end="44">
+<size>14</size></content>
+
+<content start="44" end="51">
 <size>14</size><href>Forces_p2.cml</href></content>
 
-<content start="48" end="49">
+<content start="51" end="52">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="49" end="50">
+<paragraph start="52" end="53">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="49" end="50">
+<content start="52" end="53">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="50" end="52">
+<paragraph start="53" end="55">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="50" end="51">
+<content start="53" end="54">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>80.0</height>
@@ -92,24 +124,6 @@ TOC	Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="51" end="52">
-</content>
-
-</paragraph>
-<paragraph start="52" end="53">
-<Alignment>1</Alignment>
-<LeftIndent>60.0</LeftIndent>
-<content start="52" end="53">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="53" end="55">
-<Alignment>1</Alignment>
-<LeftIndent>60.0</LeftIndent>
-<content start="53" end="54">
-<component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_p1$0.mml</resource><menubar>false</menubar><button>Change Velocity</button></component></content>
-
 <content start="54" end="55">
 </content>
 
@@ -118,13 +132,31 @@ TOC	Next -&gt;
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
 <content start="55" end="56">
-</content>
+<size>14</size></content>
 
 </paragraph>
 <paragraph start="56" end="58">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
 <content start="56" end="57">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p1$0.mml</resource><menubar>false</menubar><button>Change Velocity</button></component></content>
+
+<content start="57" end="58">
+</content>
+
+</paragraph>
+<paragraph start="58" end="59">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="58" end="59">
+</content>
+
+</paragraph>
+<paragraph start="59" end="61">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="59" end="60">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>60.0</height>
@@ -135,38 +167,6 @@ TOC	Next -&gt;
   &lt;body&gt;
     Describe here how the particle moves. Is there anything that you&apos;ve seen 
     that behaves like this? What are the two main ways the particle moves?
-  &lt;/body&gt;
-&lt;/html&gt;
-</title>
-<opaque>false</opaque>
-</component></content>
-
-<content start="57" end="58">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="58" end="59">
-<Alignment>1</Alignment>
-<LeftIndent>60.0</LeftIndent>
-<content start="58" end="59">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="59" end="61">
-<Alignment>1</Alignment>
-<LeftIndent>60.0</LeftIndent>
-<content start="59" end="60">
-<component><class>org.concord.modeler.PageTextArea</class>
-<width>400</width>
-<height>200</height>
-<title>&lt;html&gt;
-  &lt;head&gt;
-    &lt;title&gt;Describe heere what the particle movement looks like. Are there any analogies to real-world behavior that you can think of?&lt;/title&gt;
-    
-  &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    Describe here what the particle movement looks like. Are there any 
-    analogies to real-world behavior that you can think of?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -188,6 +188,38 @@ TOC	Next -&gt;
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
 <content start="62" end="63">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>400</width>
+<height>200</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Describe heere what the particle movement looks like. Are there any analogies to real-world behavior that you can think of?&lt;/title&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Describe here what the particle movement looks like. Are there any 
+    analogies to real-world behavior that you can think of?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="63" end="64">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="64" end="65">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="64" end="65">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="65" end="67">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="65" end="66">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>160.0</height>
@@ -215,21 +247,21 @@ TOC	Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="63" end="64">
+<content start="66" end="67">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="64" end="65">
+<paragraph start="67" end="68">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="64" end="65">
+<content start="67" end="68">
 </content>
 
 </paragraph>
-<paragraph start="65" end="67">
+<paragraph start="68" end="70">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="65" end="66">
+<content start="68" end="69">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -245,21 +277,21 @@ TOC	Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="66" end="67">
+<content start="69" end="70">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="67" end="68">
+<paragraph start="70" end="71">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="67" end="68">
+<content start="70" end="71">
 <size>14</size></content>
 
 </paragraph>
-<paragraph start="68" end="70">
+<paragraph start="71" end="73">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="68" end="69">
+<content start="71" end="72">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>60.0</height>
@@ -277,26 +309,8 @@ TOC	Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="69" end="70">
-<size>14</size></content>
-
-</paragraph>
-<paragraph start="70" end="71">
-<Alignment>1</Alignment>
-<LeftIndent>60.0</LeftIndent>
-<content start="70" end="71">
-</content>
-
-</paragraph>
-<paragraph start="71" end="73">
-<Alignment>1</Alignment>
-<LeftIndent>60.0</LeftIndent>
-<content start="71" end="72">
-<component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_p1$1.mml</resource><menubar>false</menubar><button>Mark Object</button><button>Toggle Trajectory</button></component></content>
-
 <content start="72" end="73">
-</content>
+<size>14</size></content>
 
 </paragraph>
 <paragraph start="73" end="74">
@@ -310,6 +324,24 @@ TOC	Next -&gt;
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
 <content start="74" end="75">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p1$1.mml</resource><menubar>false</menubar><button>Mark Object</button><button>Toggle Trajectory</button></component></content>
+
+<content start="75" end="76">
+</content>
+
+</paragraph>
+<paragraph start="76" end="77">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="76" end="77">
+</content>
+
+</paragraph>
+<paragraph start="77" end="79">
+<Alignment>1</Alignment>
+<LeftIndent>60.0</LeftIndent>
+<content start="77" end="78">
 <component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -326,36 +358,36 @@ TOC	Next -&gt;
 <opaque>false</opaque>
 </component></content>
 
-<content start="75" end="76">
+<content start="78" end="79">
 </content>
 
 </paragraph>
-<paragraph start="76" end="77">
+<paragraph start="79" end="80">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="76" end="77">
+<content start="79" end="80">
 </content>
 
 </paragraph>
-<paragraph start="77" end="89">
+<paragraph start="80" end="92">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="77" end="81">
+<content start="80" end="84">
 <size>15</size></content>
 
-<content start="81" end="88">
+<content start="84" end="91">
 <size>15</size><href>Forces_p2.cml</href></content>
 
-<content start="88" end="89">
+<content start="91" end="92">
 </content>
 
 </paragraph>
-<paragraph start="89" end="90">
-<content start="89" end="90">
+<paragraph start="92" end="93">
+<content start="92" end="93">
 </content>
 
 </paragraph>
-<paragraph start="90" end="91">
+<paragraph start="93" end="94">
 </paragraph>
 </section>
 </document>
