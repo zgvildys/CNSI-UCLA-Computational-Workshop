@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<java version="1.8.0_251" class="java.beans.XMLDecoder">
+<java version="1.8.0_261" class="java.beans.XMLDecoder">
  <object class="org.concord.mw2d.models.Element" id="Element0">
   <void property="sigma">
    <double>7.0</double>
@@ -430,7 +430,7 @@
    <void method="put">
     <string>date</string>
     <object class="java.util.Date">
-     <long>1603401660000</long>
+     <long>1603840229890</long>
     </object>
    </void>
    <void method="put">
@@ -439,15 +439,15 @@
    </void>
    <void method="put">
     <string>size</string>
-    <long>47468</long>
+    <long>49516</long>
    </void>
    <void method="put">
     <string>codebase</string>
-    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master 3/Pages</string>
+    <string>C:\Users\dreil\Desktop\Workspace\CNSI Outreach\CNSI-UCLA-Computational-Workshop\Pages</string>
    </void>
    <void method="put">
     <string>url</string>
-    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master 3/Pages/Analysis_p1$0.mml</string>
+    <string>C:\Users\dreil\Desktop\Workspace\CNSI Outreach\CNSI-UCLA-Computational-Workshop\Pages\Analysis_p1$0.mml</string>
    </void>
   </void>
   <void property="quantumRule">

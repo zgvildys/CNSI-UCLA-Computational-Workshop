@@ -7,8 +7,7 @@
 <gradient_style>1031</gradient_style>
 <gradient_variant>1041</gradient_variant>
 </bg_gradient>
-<text> 
-
+<text>  
  
 
 &lt;- Prev	TOC	Next -&gt;
@@ -29,29 +28,57 @@
  
 
 &lt;- Prev	TOC	Next -&gt;
-
 
 </text>
-<section start="0" end="72">
-<paragraph start="0" end="2">
+<section start="0" end="71">
+<paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <content start="0" end="1">
-<icon><class>org.concord.modeler.text.LineIcon</class><width>800.0</width><height>50</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>Shape and Design</title><bgcolor>-993301</bgcolor><bottommargin>20</bottommargin></icon></content>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
+<width>210.0</width>
+<height>230.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;img src=&quot;../Images_GIFs/Banner_Root_Clear.png&quot; width=&quot;200&quot;&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
 
 <content start="1" end="2">
-</content>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
+<width>650.0</width>
+<height>230.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+      
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;font size=&quot;7&quot; face=&quot;Arial&quot;&gt;&lt;b&gt;Module 2 - Page 2 - Effect of Shape on 
+      Viral Assembly&lt;/b&gt;&lt;/font&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
 
-</paragraph>
-<paragraph start="2" end="3">
-<Alignment>1</Alignment>
 <content start="2" end="3">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="3" end="5">
 <Alignment>1</Alignment>
 <content start="3" end="4">
-<component><class>org.concord.modeler.PageTextBox</class>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>600.0</width>
 <height>100.0</height>
 <title>&lt;html&gt;
@@ -63,51 +90,51 @@
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-a9278e</bgcolor>
+<bgcolor>-b42786</bgcolor>
 <border>Line</border>
 </component></content>
 
 <content start="4" end="5">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="5" end="6">
 <Alignment>1</Alignment>
 <content start="5" end="6">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="6" end="26">
 <Alignment>1</Alignment>
 <content start="6" end="13">
-<href>Shapes_p1.cml</href></content>
+<size>16</size><family>Times New Roman</family><href>Shapes_p1.cml</href></content>
 
 <content start="13" end="18">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 <content start="18" end="25">
-<href>Analysis_p1.cml</href></content>
+<size>16</size><family>Times New Roman</family><href>Analysis_p1.cml</href></content>
 
 <content start="25" end="26">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="26" end="27">
 <Alignment>1</Alignment>
 <content start="26" end="27">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="27" end="28">
 <Alignment>1</Alignment>
 <content start="27" end="28">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="28" end="30">
 <Alignment>1</Alignment>
 <content start="28" end="29">
-<component><class>org.concord.modeler.PageTextBox</class>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>360.0</height>
 <title>&lt;html&gt;
@@ -145,19 +172,19 @@
 </component></content>
 
 <content start="29" end="30">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="30" end="31">
 <Alignment>1</Alignment>
 <content start="30" end="31">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="31" end="33">
 <Alignment>1</Alignment>
 <content start="31" end="32">
-<component><class>org.concord.modeler.PageTextBox</class>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>400.0</height>
 <title>&lt;html&gt;
@@ -200,35 +227,35 @@
 </component></content>
 
 <content start="32" end="33">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="33" end="34">
 <Alignment>1</Alignment>
 <content start="33" end="34">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="34" end="36">
 <Alignment>1</Alignment>
 <content start="34" end="35">
-<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
 <resource>Shapes_p2$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Rotate Object</button><button>Duplicate Object</button></component></content>
 
 <content start="35" end="36">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="36" end="37">
 <Alignment>1</Alignment>
 <content start="36" end="37">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="37" end="39">
 <Alignment>1</Alignment>
 <content start="37" end="38">
-<component><class>org.concord.modeler.PageTextField</class>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
 <height>100</height>
 <title>&lt;html&gt;
@@ -247,19 +274,19 @@
 </component></content>
 
 <content start="38" end="39">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="39" end="40">
 <Alignment>1</Alignment>
 <content start="39" end="40">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="40" end="42">
 <Alignment>1</Alignment>
 <content start="40" end="41">
-<component><class>org.concord.modeler.PageTextField</class>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
 <height>100</height>
 <title>&lt;html&gt;
@@ -277,19 +304,19 @@
 </component></content>
 
 <content start="41" end="42">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="42" end="43">
 <Alignment>1</Alignment>
 <content start="42" end="43">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="43" end="45">
 <Alignment>1</Alignment>
 <content start="43" end="44">
-<component><class>org.concord.modeler.PageTextField</class>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
 <height>150</height>
 <title>&lt;html&gt;
@@ -309,19 +336,19 @@
 </component></content>
 
 <content start="44" end="45">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="45" end="46">
 <Alignment>1</Alignment>
 <content start="45" end="46">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="46" end="48">
 <Alignment>1</Alignment>
 <content start="46" end="47">
-<component><class>org.concord.modeler.PageTextField</class>
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
 <height>150</height>
 <title>&lt;html&gt;
@@ -342,42 +369,37 @@
 </component></content>
 
 <content start="47" end="48">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="48" end="49">
 <Alignment>1</Alignment>
 <content start="48" end="49">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="49" end="69">
 <Alignment>1</Alignment>
 <content start="49" end="56">
-<href>Shapes_p1.cml</href></content>
+<size>16</size><family>Times New Roman</family><href>Shapes_p1.cml</href></content>
 
 <content start="56" end="61">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 <content start="61" end="68">
-<href>Analysis_p1.cml</href></content>
+<size>16</size><family>Times New Roman</family><href>Analysis_p1.cml</href></content>
 
 <content start="68" end="69">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="69" end="70">
 <Alignment>1</Alignment>
 <content start="69" end="70">
-</content>
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
 <paragraph start="70" end="71">
-<content start="70" end="71">
-</content>
-
-</paragraph>
-<paragraph start="71" end="72">
 </paragraph>
 </section>
 </document>
