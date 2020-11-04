@@ -7,46 +7,36 @@
 
 &lt;- Prev	TOC	Next -&gt;
 
-Basic Background of Viruses and Self-assembly
 
- 
-
-The most basic viruses consist of two main components:
-1) Genetic material such as RNA or DNA
-2) A protein shell that protects and delivers the genetic material or &quot;cargo&quot;
-One question you could ask is &quot;how do viruses put themselves together?&quot;. In the macroscopic world we build things with tools and hold them together with adhesives, nails, screws ect. In the nano-world, there are no tools to &quot;build&quot; these structures. Thus most viruses must spontaneously self-assemble. As you may have heard in your chemistry or physics courses, for something to spontanously happen, it must increase the entropy of the universe! By doing so, the structures lower the energy (or more specifically, the free energy) of the system. This means assembly of the structure does not require any external energy to be built. This is part of the reason why viruses are so effective at replicating themselves inside their hosts.
-
-When viruses get into a host cell, they disassemble and release their genome (and what ever else they may be carrying!) into the cell. The host cell&apos;s own machinery (like ribosomes for example) is then often used to replicate the proteins and genetic material of the viruses. For the simplest viruses, such as cowpea chlorotic mottle virus (CCMV), this only requires synthesis of as little as four proteins, only one of which is in the assembled virus particle. The coat protein, which makes up the viral capsid/shell, is an irregularly shaped protein. These proteins then bind to themselves and the genome and form other shapes, such as pentamers and hexamers which then form higher order structures like the icosahedron discussed in the next section. These &quot;bonds&quot; between proteins are non-covalent and thus reversible. This means that the formed capsid is only metastable, or temporarily stable. This is important for the life cycle of the virus as it needs to not only store and protect its genome, but also release it into its host.
 
 
 Symmetry in Viruses
  
-
-Symmetry is ubiquitous in nature. What we mean by symmetry here, is in mathematical terms. That is that the structure does not change (or is invariant) under certain motions (or operations). To state it simply, the structure remains the same if we were to say rotate by ninety degrees, or perhaps if we reflect it like a mirror image. For example, in the image of the star below, roation by 72 degrees gives the same star started with. Symmetry often shows up in nature because symmetry often corresponds with lower energy structures. In other words, it is easier to make something symmetric than it is to make something asymmetric. The more operations we can perform and leave the structure invariant, the higher the symmetry of the object. 
-
  
 
-There are multiple symmetries we see in viruses such as helical, icosahedral and prolate. For example, helical symmetry is seen in Coronaviruses like COVID-19 in the ordering of the nucleic acid-protein complex inside the capsid. However, most often we see icosahedral symmetry, one of the highest possible symmetry groups. The rotating box at the top of the section is an image of an icosahedron. An icosahedron has 20 triangular faces (and thus 20 3-fold verticies), 12 pentagonal faces (12 5-fold verticies) and 2-fold verticies along the edges. A 5-fold vertex, for example, here means you can rotate the structure 360/5 = 72 degrees and the structure remains the same. So there are many different operations you can perform that leave the icosahedron invariant. The origin of this symmetry in viruses and specific assembly pathways to the icosahedron is still a popular research topic today and computational models, like the ones you have been exploring, have been paramount in broadening our understanding of viruses. For the remaining excercises we will explore how these symmetries can show up in viruses that have different types of genomes and even in different sized viruses.
+
+
+ 
+ 
+
 
 
 Introduction of the T Number
 
  
 
-
-Earlier, we mentioned that the coat protein is often an irregularily shaped object. Shown above is a picture of a potential monomeric unit of a capsid protein (CCMV). Notice that the protein subunit is not symmetrical. So then how can irregularly shaped objects come together to form such high symmetry particles? Work done by Watson and Crick, the same scientists who helped undercover the helical nature of DNA, found that all round (icosahedral capsids) viruses had multiples of 60 of the coat protein. That is they had 60, 120, 180, ect. identical subunits in the virus. Experiments also observed that though the round viruses came in many different sizes, the size of the monomeric coat proteins for the different viruses were roughly the same. In the early 1960s, scientists Donald Caspar and Aaron Klug forumlated the number and arrangement of monomers could be in an icosahedral shell called the &quot;quasi-equivalence&quot; principle. 
-	The identical monomers (or subunits) combine in three inequivalent positions (represented on the figure below as the number 6 inside the triangles) to form pentamers and hexamers. If one makes an arrangement of triangles such that each vertex of triangles have 6 nearest neighbors, then you would create a sheet of hexamers. The reason the icosahedrons are not just make up of hexamers is because without any pentamers, the structure could not form a closed shell. To make a closed shell defects (or irregularities in the sheet of hexagones) are needed. To form a highly symmetric particle like an icosahedron, five defects are needed and it is created by removing on triangle from a hexagon and then bending it inward to form a pentagon. These pentagon defects add curvature to the structure and allow the shell to be closed. 
-	The spacing between these defects is what gives rise to the different T structures and we will explore this idea more in a bit. These structure can be described by two indicies, h and k, such that starting from the edge of a pentamer taking h steps and turning 60 degrees counterclockwise and taking k steps to get to the next pentamer. The process is illustrated below.
+ 
+ 
  
 
  
 
-The b and a vectors here represent what we would call the unit vectors along the h and k axises. The triangulation number, which represents these quasi-equivalent icosahedral structures, is given by.
+ 
+ 
 
  
-The total number of protein subunits in the icosahedral shell is T times 60. The smallest T number possible is a T=1 structure, which corresponds to the triangular monomer being one of the triangles on a triangular lattice. The arrangement of a singular irregular protein into a triangle allows a virus to make as little as one capsid protein that can for many different sized shells!
+ 
 
-For the following triangle, what is the T number, and how many protein subunits are in the complete icosahedron?
  
 
  
@@ -54,7 +44,7 @@ For the following triangle, what is the T number, and how many protein subunits 
 &lt;- Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="6909">
+<section start="0" end="162">
 <paragraph start="0" end="20">
 <Alignment>1</Alignment>
 <content start="0" end="20">
@@ -96,7 +86,13 @@ For the following triangle, what is the T number, and how many protein subunits 
 <content start="23" end="30">
 <size>16</size><family>Times New Roman</family><href>Analysis_p1.cml</href></content>
 
-<content start="30" end="35">
+<content start="30" end="31">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="31" end="34">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="34" end="35">
 <size>16</size><family>Times New Roman</family></content>
 
 <content start="35" end="42">
@@ -112,108 +108,30 @@ For the following triangle, what is the T number, and how many protein subunits 
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="44" end="90">
-<content start="44" end="89">
-<size>25</size><family>Times New Roman</family><underline>true</underline></content>
+<paragraph start="44" end="45">
+<content start="44" end="45">
+<size>16</size><family>Times New Roman</family></content>
 
-<content start="89" end="90">
+</paragraph>
+<paragraph start="45" end="46">
+<content start="45" end="46">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="46" end="47">
+<content start="46" end="47">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="90" end="91">
-<content start="90" end="91">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="91" end="93">
+<paragraph start="47" end="67">
 <Alignment>1</Alignment>
-<content start="91" end="92">
-<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>300.0</width>
-<height>300.0</height>
-<title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;p style=&quot;margin-top: 0&quot;&gt;
-      &lt;img src=&quot;../Images_GIFs/coronavirus_image.jpg&quot;&gt;
-    &lt;/p&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</title>
-<bgcolor>-1</bgcolor>
-</component></content>
-
-<content start="92" end="93">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="93" end="94">
-<content start="93" end="94">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="94" end="149">
-<content start="94" end="149">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="149" end="188">
-<content start="149" end="188">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="188" end="266">
-<content start="188" end="266">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="266" end="1001">
-<content start="266" end="539">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="539" end="552">
-<size>16</size><family>Times New Roman</family><underline>true</underline></content>
-
-<content start="552" end="740">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="740" end="745">
-<size>16</size><family>Times New Roman</family><bold>true</bold></content>
-
-<content start="745" end="1001">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="1001" end="1002">
-<content start="1001" end="1002">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="1002" end="2040">
-<content start="1002" end="2040">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="2040" end="2041">
-<content start="2040" end="2041">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="2041" end="2042">
-<content start="2041" end="2042">
-<size>20</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="2042" end="2062">
-<content start="2042" end="2062">
+<content start="47" end="67">
 <size>25</size><family>Times New Roman</family><underline>true</underline></content>
 
 </paragraph>
-<paragraph start="2062" end="2064">
+<paragraph start="67" end="69">
 <Alignment>1</Alignment>
-<content start="2062" end="2063">
+<content start="67" end="68">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>450.0</width>
 <height>400.0</height>
@@ -231,28 +149,60 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="2063" end="2064">
-<size>16</size><family>Times New Roman</family><underline>true</underline></content>
-
-</paragraph>
-<paragraph start="2064" end="2065">
-<content start="2064" end="2065">
-<size>16</size><family>Times New Roman</family><underline>true</underline></content>
-
-</paragraph>
-<paragraph start="2065" end="2808">
-<content start="2065" end="2808">
+<content start="68" end="69">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="2808" end="2809">
-<content start="2808" end="2809">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="2809" end="2811">
+<paragraph start="69" end="71">
 <Alignment>1</Alignment>
-<content start="2809" end="2810">
+<content start="69" end="70">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>200.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    Symmetry is ubiquitous in nature. What we mean by symmetry here, is in 
+    mathematical terms. That is that the structure does not change (or is 
+    invariant) under certain motions (or operations). To state it simply, the 
+    structure remains the same if we were to say rotate by ninety degrees, or 
+    perhaps if we reflect it like a mirror image. For example, in the image of 
+    the star below, roation by 72 degrees gives the same star started with. 
+    Symmetry often shows up in nature because symmetry often corresponds with 
+    lower energy structures. In other words, it is easier to make something 
+    symmetric than it is to make something asymmetric. The more operations we 
+    can perform and leave the structure invariant, the higher the symmetry of 
+    the object.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="70" end="71">
+<size>16</size><family>Times New Roman</family><underline>true</underline></content>
+
+</paragraph>
+<paragraph start="71" end="72">
+<content start="71" end="72">
+<size>16</size><family>Times New Roman</family><underline>true</underline></content>
+
+</paragraph>
+<paragraph start="72" end="73">
+<content start="72" end="73">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="73" end="74">
+<content start="73" end="74">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="74" end="76">
+<Alignment>1</Alignment>
+<content start="74" end="75">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>300.0</width>
 <height>250.0</height>
@@ -270,43 +220,79 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="2810" end="2811">
+<content start="75" end="76">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="2811" end="2812">
-<content start="2811" end="2812">
+<paragraph start="76" end="78">
+<Alignment>1</Alignment>
+<content start="76" end="77">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>220.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      There are multiple symmetries we see in viruses such as helical, 
+      icosahedral and prolate. For example, helical symmetry is seen in 
+      Coronaviruses like COVID-19 in the ordering of the nucleic acid-protein 
+      complex inside the capsid. However, most often we see icosahedral 
+      symmetry, one of the highest possible symmetry groups. The rotating box 
+      at the top of the section is an image of an icosahedron. An icosahedron 
+      has 20 triangular faces (and thus 20 3-fold verticies), 12 pentagonal 
+      faces (12 5-fold verticies) and 2-fold verticies along the edges. A 
+      5-fold vertex, for example, here means you can rotate the structure 
+      360/5 = 72 degrees and the structure remains the same. So there are many 
+      different operations you can perform that leave the icosahedron 
+      invariant. The origin of this symmetry in viruses and specific assembly 
+      pathways to the icosahedron is still a popular research topic today and 
+      computational models, like the ones you have been exploring, have been 
+      paramount in broadening our understanding of viruses. For the remaining 
+      excercises we will explore how these symmetries can show up in viruses 
+      that have different types of genomes and even in different sized viruses.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="77" end="78">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="2812" end="4000">
-<content start="2812" end="4000">
+<paragraph start="78" end="79">
+<content start="78" end="79">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4000" end="4001">
-<content start="4000" end="4001">
+<paragraph start="79" end="80">
+<content start="79" end="80">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4001" end="4002">
-<content start="4001" end="4002">
+<paragraph start="80" end="81">
+<content start="80" end="81">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4002" end="4031">
-<content start="4002" end="4031">
+<paragraph start="81" end="110">
+<Alignment>1</Alignment>
+<content start="81" end="110">
 <size>25</size><family>Times New Roman</family><underline>true</underline></content>
 
 </paragraph>
-<paragraph start="4031" end="4032">
-<content start="4031" end="4032">
+<paragraph start="110" end="111">
+<content start="110" end="111">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4032" end="4034">
+<paragraph start="111" end="113">
 <Alignment>1</Alignment>
-<content start="4032" end="4033">
+<content start="111" end="112">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>500.0</width>
 <height>450.0</height>
@@ -324,38 +310,125 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="4033" end="4034">
+<content start="112" end="113">
 <size>16</size><family>Times New Roman</family><foreground>255 0 0</foreground></content>
 
 </paragraph>
-<paragraph start="4034" end="4035">
-<content start="4034" end="4035">
+<paragraph start="113" end="114">
+<content start="113" end="114">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="4035" end="4036">
-<content start="4035" end="4036">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="4036" end="4972">
-<content start="4036" end="4972">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="4972" end="5801">
-<content start="4972" end="5801">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="5801" end="6173">
-<content start="5801" end="6173">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="6173" end="6175">
+<paragraph start="114" end="116">
 <Alignment>1</Alignment>
-<content start="6173" end="6174">
+<content start="114" end="115">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>200.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      Earlier, we mentioned that the coat protein is often an irregularily 
+      shaped object. Shown above is a picture of a potential monomeric unit of 
+      a capsid protein (CCMV). Notice that the protein subunit is not 
+      symmetrical. So then how can irregularly shaped objects come together to 
+      form such high symmetry particles? Work done by Watson and Crick, the 
+      same scientists who helped undercover the helical nature of DNA, found 
+      that all round (icosahedral capsids) viruses had multiples of 60 of the 
+      coat protein. That is they had 60, 120, 180, ect. identical subunits in 
+      the virus. Experiments also observed that though the round viruses came 
+      in many different sizes, the size of the monomeric coat proteins for the 
+      different viruses were roughly the same. In the early 1960s, scientists 
+      Donald Caspar and Aaron Klug forumlated the number and arrangement of 
+      monomers could be in an icosahedral shell called the &amp;quot;quasi-equivalence&amp;quot; 
+      principle.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="115" end="116">
+</content>
+
+</paragraph>
+<paragraph start="116" end="118">
+<Alignment>1</Alignment>
+<content start="116" end="117">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>200.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      The identical monomers (or subunits) combine in three inequivalent 
+      positions (represented on the figure below as the number 6 inside the 
+      triangles) to form pentamers and hexamers. If one makes an arrangement 
+      of triangles such that each vertex of triangles have 6 nearest 
+      neighbors, then you would create a sheet of hexamers. The reason the 
+      icosahedrons are not just make up of hexamers is because without any 
+      pentamers, the structure could not form a closed shell. To make a closed 
+      shell defects (or irregularities in the sheet of hexagones) are needed. 
+      To form a highly symmetric particle like an icosahedron, five defects 
+      are needed and it is created by removing on triangle from a hexagon and 
+      then bending it inward to form a pentagon. These pentagon defects add 
+      curvature to the structure and allow the shell to be closed.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="117" end="118">
+</content>
+
+</paragraph>
+<paragraph start="118" end="120">
+<Alignment>1</Alignment>
+<content start="118" end="119">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>200.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      The spacing between these defects is what gives rise to the different T 
+      structures and we will explore this idea more in a bit. These structure 
+      can be described by two indicies, h and k, such that starting from the 
+      edge of a pentamer taking h steps and turning 60 degrees 
+      counterclockwise and taking k steps to get to the next pentamer. The 
+      process is illustrated below.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="119" end="120">
+</content>
+
+</paragraph>
+<paragraph start="120" end="121">
+<Alignment>1</Alignment>
+<content start="120" end="121">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="121" end="123">
+<Alignment>1</Alignment>
+<content start="121" end="122">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>700.0</width>
 <height>500.0</height>
@@ -373,18 +446,18 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="6174" end="6175">
+<content start="122" end="123">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6175" end="6176">
-<content start="6175" end="6176">
+<paragraph start="123" end="124">
+<content start="123" end="124">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6176" end="6178">
+<paragraph start="124" end="126">
 <Alignment>1</Alignment>
-<content start="6176" end="6177">
+<content start="124" end="125">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>500.0</height>
@@ -402,28 +475,44 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="6177" end="6178">
+<content start="125" end="126">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6178" end="6179">
-<content start="6178" end="6179">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="6179" end="6379">
-<content start="6179" end="6379">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="6379" end="6380">
-<content start="6379" end="6380">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="6380" end="6382">
+<paragraph start="126" end="128">
 <Alignment>1</Alignment>
-<content start="6380" end="6381">
+<content start="126" end="127">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>75.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      The b and a vectors here represent what we would call the unit vectors 
+      along the h and k axises. The triangulation number, which represents 
+      these quasi-equivalent icosahedral structures, is given by.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="127" end="128">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="128" end="129">
+<content start="128" end="129">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="129" end="131">
+<Alignment>1</Alignment>
+<content start="129" end="130">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>250.0</width>
 <height>100.0</height>
@@ -441,28 +530,48 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="6381" end="6382">
+<content start="130" end="131">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6382" end="6767">
-<content start="6382" end="6767">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="6767" end="6768">
-<content start="6767" end="6768">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="6768" end="6881">
-<content start="6768" end="6881">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="6881" end="6883">
+<paragraph start="131" end="133">
 <Alignment>1</Alignment>
-<content start="6881" end="6882">
+<content start="131" end="132">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      The total number of protein subunits in the icosahedral shell is T times 
+      60. The smallest T number possible is a T=1 structure, which corresponds 
+      to the triangular monomer being one of the triangles on a triangular 
+      lattice. The arrangement of a singular irregular protein into a triangle 
+      allows a virus to make as little as one capsid protein that can for many 
+      different sized shells! For the following triangle, what is the T 
+      number, and how many protein subunits are in the complete icosahedron?
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="132" end="133">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="133" end="134">
+<content start="133" end="134">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="134" end="136">
+<Alignment>1</Alignment>
+<content start="134" end="135">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>350.0</height>
@@ -480,19 +589,19 @@ For the following triangle, what is the T number, and how many protein subunits 
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="6882" end="6883">
+<content start="135" end="136">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6883" end="6884">
+<paragraph start="136" end="137">
 <Alignment>1</Alignment>
-<content start="6883" end="6884">
+<content start="136" end="137">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6884" end="6886">
+<paragraph start="137" end="139">
 <Alignment>1</Alignment>
-<content start="6884" end="6885">
+<content start="137" end="138">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>400</width>
 <height>60</height>
@@ -509,35 +618,43 @@ For the following triangle, what is the T number, and how many protein subunits 
 <opaque>false</opaque>
 </component></content>
 
-<content start="6885" end="6886">
+<content start="138" end="139">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6886" end="6887">
-<content start="6886" end="6887">
+<paragraph start="139" end="140">
+<Alignment>1</Alignment>
+<content start="139" end="140">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6887" end="6907">
-<content start="6887" end="6894">
+<paragraph start="140" end="160">
+<Alignment>1</Alignment>
+<content start="140" end="147">
 <size>16</size><family>Times New Roman</family><href>Analysis_p1.cml</href></content>
 
-<content start="6894" end="6899">
+<content start="147" end="148">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="6899" end="6906">
+<content start="148" end="151">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="151" end="152">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="152" end="159">
 <size>16</size><family>Times New Roman</family><href>Analysis_p3.cml</href></content>
 
-<content start="6906" end="6907">
+<content start="159" end="160">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6907" end="6908">
-<content start="6907" end="6908">
+<paragraph start="160" end="161">
+<content start="160" end="161">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="6908" end="6909">
+<paragraph start="161" end="162">
 </paragraph>
 </section>
 </document>

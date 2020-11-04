@@ -112,7 +112,10 @@ TOC	Next -&gt;
 <paragraph start="6" end="18">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="6" end="10">
+<content start="6" end="9">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="9" end="10">
 <size>16</size><family>Times New Roman</family></content>
 
 <content start="10" end="17">
@@ -402,7 +405,10 @@ TOC	Next -&gt;
 <paragraph start="46" end="58">
 <Alignment>1</Alignment>
 <LeftIndent>60.0</LeftIndent>
-<content start="46" end="50">
+<content start="46" end="49">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="49" end="50">
 <size>16</size><family>Times New Roman</family></content>
 
 <content start="50" end="57">

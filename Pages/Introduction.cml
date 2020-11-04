@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Introduction</page_title>
+<text>Introduction
+TOC Next
+
+ 
+
+What is a virus?
+ 
+
+
+How do viruses put themselves together?
+ 
+
+Viruses require a host. Their main goal is to get inside a host and then make more of themselves. How do they make such nice structures consistently?(bacteria full of viruses image) Lets go on an adventrure!!!!!!!!!!!!!!!!!!!!!!!
+
+Next
+</text>
+<section start="0" end="327">
+<paragraph start="0" end="13">
+<Alignment>1</Alignment>
+<content start="0" end="13">
+<size>25</size><family>Times New Roman</family><underline>true</underline></content>
+
+</paragraph>
+<paragraph start="13" end="22">
+<Alignment>1</Alignment>
+<content start="13" end="16">
+<size>20</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="16" end="17">
+<size>20</size><family>Times New Roman</family></content>
+
+<content start="17" end="21">
+<size>20</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
+
+<content start="21" end="22">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="22" end="23">
+<Alignment>1</Alignment>
+<content start="22" end="23">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="23" end="25">
+<Alignment>1</Alignment>
+<content start="23" end="24">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>250.0</width>
+<height>250.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;img src=&quot;../Images_GIFs/coronavirus_image.jpg&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="24" end="25">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<Alignment>1</Alignment>
+<content start="25" end="26">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="26" end="43">
+<Alignment>1</Alignment>
+<content start="26" end="42">
+<size>25</size><family>Times New Roman</family><bold>true</bold></content>
+
+<content start="42" end="43">
+<size>20</size><family>Times New Roman</family><bold>true</bold></content>
+
+</paragraph>
+<paragraph start="43" end="45">
+<Alignment>1</Alignment>
+<content start="43" end="44">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>550.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;What is a virus?&lt;/title&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font size=&quot;6&quot;&gt;A virus is a nano-scale infectious agent that infiltrates a 
+    living cell and commandeers host cell machinery to get itself replicated. 
+    Outside of a cell, viruses exist as independent particles, or virions, 
+    consisting of (i) genetic material (DNA or RNA) and (ii) a protein shell, 
+    called a capsid, which protects the genetic material from degradation. 
+    When a virus infects a cell, it disassembles to release its genetic 
+    material. Then, it sequesters host cell replication and translation 
+    resources to make the host cell rapidly produce millions of identical 
+    copies of the original virus particle. Viruses are obligate parasites, 
+    meaning they cannot complete their &amp;#8220;life cycle&amp;#8221; without exploiting a 
+    suitable host. Viruses do not grow or replicate. Rather, they are 
+    replicated by the host cell that they infect. In this sense, a virus is 
+    just an assembly of protein and nucleic acid molecules that is 
+    repetitively reproduces by the molecular machinery of host cells. Most 
+    viral capsids demonstrate helical or icosahedral symmetry and many 
+    single-stranded genomes are spontaneously packaged by capsid protein to 
+    form perfectly identical, high-symmetry virus particles in the complex 
+    cellular milieu.&lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="44" end="45">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="45" end="46">
+<Alignment>1</Alignment>
+<content start="45" end="46">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="46" end="47">
+<Alignment>1</Alignment>
+<content start="46" end="47">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="47" end="87">
+<Alignment>1</Alignment>
+<content start="47" end="86">
+<size>25</size><family>Times New Roman</family><bold>true</bold></content>
+
+<content start="86" end="87">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="87" end="89">
+<Alignment>1</Alignment>
+<content start="87" end="88">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>700.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;How do viruses put themselves together?&lt;/title&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      &lt;font size=&quot;6&quot;&gt;In the macroscopic world, we build with our hands or 
+      tools (hammer, screwdriver, etc.) and hold them together with adhesives 
+      (nails, screws, etc.). In the nano-scale world, there are no hands or 
+      tools to build these small structures. Thus, most viruses must 
+      spontaneously self-assemble. In thermodynamics, a spontaneous process is 
+      one that increases the entropy of the universe by releasing free energy 
+      and moving to a lower energy state (more stable). In the context of 
+      viruses, it means the assembly of the capsids does not require any 
+      external energy to be built. The capsid proteins that make up the 
+      protein shell will often bind to each other and also to the genome to 
+      form small shapes (pentamers and hexamers), which then become the 
+      building blocks of the higher order structures of the capsid shell. The 
+      &amp;#8220;bonds&amp;#8221; between the proteins are non-covalent and thus reversible. This 
+      means that the capsid shell is metastable (temporarily stable). This is 
+      important for the &amp;#8220;life cycle&amp;#8221; of the virus as it needs to not only 
+      store and protect its genome, but also release its genome into the host 
+      cell. In this computational workshop, you will explore the parameters 
+      that are key to spontaneous self-assembly. Throughout this workshop you 
+      will: explore Brownian motion for particles of various sizes, control 
+      the motion of particles with intermolecular forces (charge), understand 
+      the effects of temperature on assembly, and use particle shape and 
+      intermolecular forces to design your own assemblies&lt;/font&gt;.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-1</bgcolor>
+</component></content>
+
+<content start="88" end="89">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="89" end="90">
+<Alignment>1</Alignment>
+<content start="89" end="90">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="90" end="320">
+<Alignment>1</Alignment>
+<content start="90" end="239">
+<size>20</size><family>Times New Roman</family></content>
+
+<content start="239" end="271">
+<size>20</size><family>Times New Roman</family><foreground>255 0 0</foreground></content>
+
+<content start="271" end="320">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="320" end="321">
+<Alignment>1</Alignment>
+<content start="320" end="321">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="321" end="326">
+<Alignment>1</Alignment>
+<content start="321" end="325">
+<size>20</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
+
+<content start="325" end="326">
+<size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="326" end="327">
+</paragraph>
+</section>
+</document>

@@ -104,7 +104,13 @@
 <content start="6" end="13">
 <size>16</size><family>Times New Roman</family><href>Analysis_p2.cml</href></content>
 
-<content start="13" end="18">
+<content start="13" end="14">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="14" end="17">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="17" end="18">
 <size>16</size><family>Times New Roman</family></content>
 
 <content start="18" end="26">
@@ -291,7 +297,13 @@
 <content start="63" end="70">
 <size>16</size><family>Times New Roman</family><href>Analysis_p2.cml</href></content>
 
-<content start="70" end="75">
+<content start="70" end="71">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="71" end="74">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="74" end="75">
 <size>16</size><family>Times New Roman</family></content>
 
 <content start="75" end="83">

@@ -105,7 +105,13 @@
 <content start="6" end="13">
 <size>16</size><family>Times New Roman</family><href>Shapes_p2.cml</href></content>
 
-<content start="13" end="18">
+<content start="13" end="14">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="14" end="17">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="17" end="18">
 <size>16</size><family>Times New Roman</family></content>
 
 <content start="18" end="26">
@@ -358,7 +364,13 @@
 <content start="50" end="57">
 <size>16</size><family>Times New Roman</family><href>Shapes_p2.cml</href></content>
 
-<content start="57" end="62">
+<content start="57" end="58">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="58" end="61">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="61" end="62">
 <size>16</size><family>Times New Roman</family></content>
 
 <content start="62" end="69">

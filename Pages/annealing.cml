@@ -28,10 +28,12 @@
 
  
 
+ 
+
 	&lt;- Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="87">
+<section start="0" end="90">
 <paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <content start="0" end="1">
@@ -114,7 +116,13 @@
 <content start="7" end="14">
 <size>16</size><family>Times New Roman</family><href>Temp_p2.cml</href></content>
 
-<content start="14" end="19">
+<content start="14" end="15">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="15" end="18">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="18" end="19">
 <size>16</size><family>Times New Roman</family></content>
 
 <content start="19" end="26">
@@ -418,30 +426,57 @@
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="64" end="85">
+<paragraph start="64" end="66">
 <Alignment>1</Alignment>
 <content start="64" end="65">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>Create a report for module 1</title>
+<tooltip>Create a report for module 1</tooltip>
+<group>Forces_p1.cml,Forces_p2.cml,Forces_p3.cml,Temp_p1.cml,Temp_p2.cml,annealing.cml</group>
+<bgcolor>-ff0100</bgcolor>
+<border>Line</border>
+<action>Create a report for a page group in a new window</action></component></content>
+
+<content start="65" end="66">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="65" end="72">
+</paragraph>
+<paragraph start="66" end="67">
+<Alignment>1</Alignment>
+<content start="66" end="67">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="67" end="88">
+<Alignment>1</Alignment>
+<content start="67" end="68">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="68" end="75">
 <size>16</size><family>Times New Roman</family><href>Temp_p2.cml</href></content>
 
-<content start="72" end="77">
+<content start="75" end="76">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="77" end="84">
+<content start="76" end="79">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="79" end="80">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="80" end="87">
 <size>16</size><family>Times New Roman</family><href>Shapes_p1.cml</href></content>
 
-<content start="84" end="85">
+<content start="87" end="88">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="85" end="86">
-<content start="85" end="86">
+<paragraph start="88" end="89">
+<content start="88" end="89">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="86" end="87">
+<paragraph start="89" end="90">
 </paragraph>
 </section>
 </document>
