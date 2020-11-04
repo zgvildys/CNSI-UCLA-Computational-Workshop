@@ -2,7 +2,12 @@
 <document>
 <language>UTF-8</language>
 <page_title>Introduction</page_title>
-<text>Introduction
+<bg_gradient><gradient_color1><Red>255</Red><Green>255</Green><Blue>255</Blue></gradient_color1>
+<gradient_color2><Red>84</Red><Green>242</Green><Blue>163</Blue></gradient_color2>
+<gradient_style>1031</gradient_style>
+<gradient_variant>1041</gradient_variant>
+</bg_gradient>
+<text>  
 TOC Next
 
  
@@ -14,43 +19,81 @@ What is a virus?
 How do viruses put themselves together?
  
 
-Viruses require a host. Their main goal is to get inside a host and then make more of themselves. How do they make such nice structures consistently?(bacteria full of viruses image) Lets go on an adventrure!!!!!!!!!!!!!!!!!!!!!!!
+ 
 
 Next
+
 </text>
-<section start="0" end="327">
-<paragraph start="0" end="13">
+<section start="0" end="90">
+<paragraph start="0" end="3">
 <Alignment>1</Alignment>
-<content start="0" end="13">
-<size>25</size><family>Times New Roman</family><underline>true</underline></content>
+<content start="0" end="1">
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
+<width>210.0</width>
+<height>230.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;img src=&quot;../Images_GIFs/Banner_Root_Clear.png&quot; width=&quot;200&quot;&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="1" end="2">
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
+<width>650.0</width>
+<height>230.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+      
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;font size=&quot;7&quot; face=&quot;Arial&quot;&gt;&lt;b&gt;Introduction - Viruses&lt;/b&gt;&lt;/font&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="2" end="3">
+<size>16</size><family>Times New Roman</family><underline>true</underline></content>
 
 </paragraph>
-<paragraph start="13" end="22">
+<paragraph start="3" end="12">
 <Alignment>1</Alignment>
-<content start="13" end="16">
-<size>20</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+<content start="3" end="6">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
 
-<content start="16" end="17">
-<size>20</size><family>Times New Roman</family></content>
+<content start="6" end="7">
+<size>16</size><family>Times New Roman</family></content>
 
-<content start="17" end="21">
-<size>20</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
+<content start="7" end="11">
+<size>16</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
 
-<content start="21" end="22">
-<size>20</size><family>Times New Roman</family></content>
+<content start="11" end="12">
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="22" end="23">
+<paragraph start="12" end="13">
 <Alignment>1</Alignment>
-<content start="22" end="23">
-<size>20</size><family>Times New Roman</family></content>
+<content start="12" end="13">
+<size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="23" end="25">
+<paragraph start="13" end="15">
 <Alignment>1</Alignment>
-<content start="23" end="24">
-<component><class>org.concord.modeler.PageTextBox</class>
-<width>250.0</width>
+<content start="13" end="14">
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
+<width>230.0</width>
 <height>250.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
@@ -63,34 +106,34 @@ Next
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
-<content start="24" end="25">
+<content start="14" end="15">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="15" end="16">
+<Alignment>1</Alignment>
+<content start="15" end="16">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="25" end="26">
+<paragraph start="16" end="33">
 <Alignment>1</Alignment>
-<content start="25" end="26">
-<size>20</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="26" end="43">
-<Alignment>1</Alignment>
-<content start="26" end="42">
+<content start="16" end="32">
 <size>25</size><family>Times New Roman</family><bold>true</bold></content>
 
-<content start="42" end="43">
+<content start="32" end="33">
 <size>20</size><family>Times New Roman</family><bold>true</bold></content>
 
 </paragraph>
-<paragraph start="43" end="45">
+<paragraph start="33" end="35">
 <Alignment>1</Alignment>
-<content start="43" end="44">
+<content start="33" end="34">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>550.0</height>
+<height>520.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;What is a virus?&lt;/title&gt;
@@ -118,40 +161,40 @@ Next
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
-<content start="44" end="45">
+<content start="34" end="35">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="45" end="46">
+<paragraph start="35" end="36">
 <Alignment>1</Alignment>
-<content start="45" end="46">
+<content start="35" end="36">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="46" end="47">
+<paragraph start="36" end="37">
 <Alignment>1</Alignment>
-<content start="46" end="47">
+<content start="36" end="37">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="47" end="87">
+<paragraph start="37" end="77">
 <Alignment>1</Alignment>
-<content start="47" end="86">
+<content start="37" end="76">
 <size>25</size><family>Times New Roman</family><bold>true</bold></content>
 
-<content start="86" end="87">
+<content start="76" end="77">
 <size>20</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="87" end="89">
+<paragraph start="77" end="79">
 <Alignment>1</Alignment>
-<content start="87" end="88">
+<content start="77" end="78">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>700.0</height>
+<height>680.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;How do viruses put themselves together?&lt;/title&gt;
@@ -185,47 +228,65 @@ Next
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
-<content start="88" end="89">
+<content start="78" end="79">
 <size>20</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="79" end="80">
+<Alignment>1</Alignment>
+<content start="79" end="80">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="80" end="82">
+<Alignment>1</Alignment>
+<content start="80" end="81">
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>120.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font size=&quot;6&quot;&gt;Viruses require a host. Their main goal is to get inside a 
+    host and then make more of themselves. How do they make such nice 
+    structures consistently?( bacteria full of viruses image) Let&apos;s go on an 
+    adventure!!!!!!!!!!!!!!!!!!!!!!!&lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="81" end="82">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="82" end="83">
+<Alignment>1</Alignment>
+<content start="82" end="83">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="83" end="88">
+<Alignment>1</Alignment>
+<content start="83" end="87">
+<size>16</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
+
+<content start="87" end="88">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="88" end="89">
+<content start="88" end="89">
+<size>16</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
 
 </paragraph>
 <paragraph start="89" end="90">
-<Alignment>1</Alignment>
-<content start="89" end="90">
-<size>20</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="90" end="320">
-<Alignment>1</Alignment>
-<content start="90" end="239">
-<size>20</size><family>Times New Roman</family></content>
-
-<content start="239" end="271">
-<size>20</size><family>Times New Roman</family><foreground>255 0 0</foreground></content>
-
-<content start="271" end="320">
-<size>20</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="320" end="321">
-<Alignment>1</Alignment>
-<content start="320" end="321">
-<size>20</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="321" end="326">
-<Alignment>1</Alignment>
-<content start="321" end="325">
-<size>20</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
-
-<content start="325" end="326">
-<size>20</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="326" end="327">
 </paragraph>
 </section>
 </document>
