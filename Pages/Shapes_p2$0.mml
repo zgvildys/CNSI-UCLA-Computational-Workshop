@@ -303,7 +303,7 @@
        <string>width</string>
        <void method="set">
         <object idref="Dimension0"/>
-        <int>750</int>
+        <int>800</int>
        </void>
       </void>
       <void class="java.awt.Dimension" method="getField">
@@ -316,7 +316,7 @@
      </object>
     </void>
     <void property="width">
-     <double>750.0</double>
+     <double>800.0</double>
     </void>
    </object>
   </void>
@@ -380,7 +380,7 @@
    <void method="put">
     <string>date</string>
     <object class="java.util.Date">
-     <long>1603401930000</long>
+     <long>1604559559037</long>
     </object>
    </void>
    <void method="put">
@@ -393,11 +393,11 @@
    </void>
    <void method="put">
     <string>codebase</string>
-    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master 3/Pages</string>
+    <string>C:\Molecular Workbench\CNSI-UCLA-Computational-Workshop-master\Pages</string>
    </void>
    <void method="put">
     <string>url</string>
-    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master 3/Pages/Shapes_p2$0.mml</string>
+    <string>C:\Molecular Workbench\CNSI-UCLA-Computational-Workshop-master\Pages\Shapes_p2$0.mml</string>
    </void>
   </void>
   <void property="quantumRule">

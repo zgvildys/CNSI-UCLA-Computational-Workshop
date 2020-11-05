@@ -14,8 +14,6 @@
 
  
 
- 
-
        
 
        
@@ -23,7 +21,7 @@
 &lt;- Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="73">
+<section start="0" end="70">
 <paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <content start="0" end="1">
@@ -79,7 +77,8 @@
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;Key Concept:&lt;/i&gt;&lt;/u&gt;&lt;/b&gt; &lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;Key Concept:&lt;/i&gt;&lt;/u&gt;&lt;/b&gt; Monomer 
+    shape affects how monomers interact with one another and pack in space.&lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -129,18 +128,27 @@
 <content start="27" end="28">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>100.0</height>
+<height>200.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     We often think of particles as spheres which works well for atoms, but 
-    monomers can have shape. Bacteria can come in the form of rods, spirals, 
-    as well as spheres. Proteins are described as having spiral-shaped and 
-    plane-shaped regions. Through repulsive interactions and potentially other 
-    interaction types, these shapes can influence how monomers interact with 
-    one another and thus influence how these monomers pack in space.
+    monomers can have shape. A monomer is a molecule that can bond with other 
+    identical molecules to form a larger structure or assembly. Bacteria can 
+    come in the form of rods, spirals, as well as spheres. Proteins are 
+    described as having spiral-shaped and plane-shaped regions. Through 
+    repulsive interactions and potentially other interaction types, these 
+    shapes can influence how monomers interact with one another and thus 
+    influence how these monomers pack in space.
+
+    &lt;p&gt;
+      To see how monomer shape affects packing, answer the questions below. 
+      You will be asked to count the number of neighbors. Neighboring monomers 
+      are ones that touch and in this case we will include monomoers that 
+      share an edge or corner.
+    &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -157,49 +165,9 @@
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="30" end="32">
+<paragraph start="30" end="38">
 <Alignment>1</Alignment>
 <content start="30" end="31">
-<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>800.0</width>
-<height>160.0</height>
-<title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;
-    We often think of particles as spheres which works well for atoms, but 
-    monomers can have shape. Bacteria can come in the form of rods, spirals, 
-    as well as spheres. Proteins are described as having spiral-shaped and 
-    plane-shaped regions. Through repulsive interactions and potentially other 
-    interaction types, these shapes can influence how monomers interact with 
-    one another and thus influence how these monomers pack in space.
-
-    &lt;p&gt;
-      To see how monomer shape affects packing, answer the questions below. 
-      You will be asked to count the number of neighbors. Neighboring monomers 
-      are ones that touch and in this case we will include monomoers that 
-      share an edge or corner.
-    &lt;/p&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</title>
-<opaque>false</opaque>
-</component></content>
-
-<content start="31" end="32">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="32" end="33">
-<Alignment>1</Alignment>
-<content start="32" end="33">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="33" end="41">
-<Alignment>1</Alignment>
-<content start="33" end="34">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageMultipleChoice</class>
 <single>true</single>
 <row>5</row>
@@ -209,9 +177,9 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    Using the image provided to the right, what is the average number of 
-    neighbors for a system of packed circular monomers?
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    Using the image provided to the right as reference, what is the maximum 
+    number of neighbors for a system of packed circular monomers?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -227,10 +195,10 @@
 <script> -choiceseparator-  -choiceseparator-  -choiceseparator-  -choiceseparator- </script>
 </component></content>
 
-<content start="34" end="39">
+<content start="31" end="36">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="39" end="40">
+<content start="36" end="37">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>250.0</height>
@@ -248,19 +216,19 @@
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="40" end="41">
+<content start="37" end="38">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="41" end="42">
+<paragraph start="38" end="39">
 <Alignment>1</Alignment>
-<content start="41" end="42">
+<content start="38" end="39">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="42" end="50">
+<paragraph start="39" end="47">
 <Alignment>1</Alignment>
-<content start="42" end="43">
+<content start="39" end="40">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageMultipleChoice</class>
 <single>true</single>
 <row>5</row>
@@ -270,7 +238,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Using the image to the right as reference, what is the maximum number of 
     neighbors for a system of packed square monomers?
   &lt;/body&gt;
@@ -288,10 +256,10 @@
 <script> -choiceseparator-  -choiceseparator-  -choiceseparator-  -choiceseparator- </script>
 </component></content>
 
-<content start="43" end="48">
+<content start="40" end="45">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="48" end="49">
+<content start="45" end="46">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>400.0</width>
 <height>250.0</height>
@@ -309,43 +277,43 @@
 <bgcolor>-1</bgcolor>
 </component></content>
 
-<content start="49" end="50">
+<content start="46" end="47">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="50" end="51">
+<paragraph start="47" end="48">
 <Alignment>1</Alignment>
-<content start="50" end="51">
+<content start="47" end="48">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="51" end="71">
+<paragraph start="48" end="68">
 <Alignment>1</Alignment>
-<content start="51" end="58">
+<content start="48" end="55">
 <size>16</size><family>Times New Roman</family><href>annealing.cml</href></content>
 
-<content start="58" end="59">
+<content start="55" end="56">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="59" end="62">
+<content start="56" end="59">
 <size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
 
-<content start="62" end="63">
+<content start="59" end="60">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="63" end="70">
+<content start="60" end="67">
 <size>16</size><family>Times New Roman</family><href>Shapes_p2.cml</href></content>
 
-<content start="70" end="71">
+<content start="67" end="68">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="71" end="72">
-<content start="71" end="72">
+<paragraph start="68" end="69">
+<content start="68" end="69">
 <size>16</size><family>Times New Roman</family><href>Shapes_p2.cml</href></content>
 
 </paragraph>
-<paragraph start="72" end="73">
+<paragraph start="69" end="70">
 </paragraph>
 </section>
 </document>

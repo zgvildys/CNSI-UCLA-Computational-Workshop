@@ -14,9 +14,7 @@
 
 
  
-
  
-
  
 
  
@@ -30,7 +28,7 @@
 &lt;- Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="71">
+<section start="0" end="69">
 <paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <content start="0" end="1">
@@ -86,7 +84,8 @@
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;Key Concept:&lt;/i&gt;&lt;/u&gt;&lt;/b&gt; &lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;Key Concept:&lt;/i&gt;&lt;/u&gt;&lt;/b&gt; Monomer 
+    shape affects how monomers interact with one another and pack in space.&lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -142,17 +141,16 @@
 <content start="28" end="29">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>360.0</height>
+<height>460.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      To see how monomer shape leads to more complex structures, we can design 
-      a monomer to form closed loops. We can create a closed loop by 
-      connecting a series of line segments at a fixed angle, &amp;#952;, such as in the 
-      image below.
+      We will build open the last page bu shaping our monomers to form closed 
+      loops. We can create a closed loop by connecting a series of line 
+      segments at a fixed angle, &amp;#952;, such as in the image below.
     &lt;/p&gt;
     &lt;p align=&quot;center&quot;&gt;
       &lt;img src=&quot;../Images_GIFs/drawing octagon.png&quot; width=&quot;350&quot;&gt;
@@ -161,15 +159,27 @@
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       Since the line segments are connected at 45&amp;#176; degrees, an octagon is 
       formed. For monomers to self-assemble into this structure, we would need 
-      two types of monomers; a linear monomer to represent the line segments, 
-      and another monomer, which we call T-shaped, to control the angle at 
-      which the segments connect. In the image insert, we see that the 
-      T-shaped monomer controls the angle, &amp;#952;, using inserts.
+      two types of monomers; a rod-shaped monomer to represent the line 
+      segments, and another monomer, which we call T-shaped, to control the 
+      angle at which the line segments connect. The T-shaped monomers, 
+      represented by the red circles, control the angle at which they connect 
+      using inserts.
     &lt;/p&gt;
+    &lt;br&gt;
+    
+
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       Using the model space below, see if you can form a closed loop by 
-      dropping monomers into the simulation space and running dynamics. Then 
-      answer the questions below.
+      dropping monomers into the simulation space and running dynamics. After 
+      playing around with simulations, answer the questions below.
+    &lt;/p&gt;
+    &lt;p&gt;
+      Note: You will have more success with forming a closed loop by evenly 
+      spacing your monomers throughout the simulation box. Also, if it takes 
+      your simulation more than ~15000 fs to assemble, it may be a good idea 
+      to reset and start from a more favorable configuration. The simulation 
+      time can be found at the bottom left of the model and fs = femtoseconds 
+      which is the timescale for small molecules.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -181,18 +191,12 @@
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="30" end="31">
+<paragraph start="30" end="32">
 <Alignment>1</Alignment>
 <content start="30" end="31">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="31" end="33">
-<Alignment>1</Alignment>
-<content start="31" end="32">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>400.0</width>
-<height>400.0</height>
+<width>800.0</width>
+<height>150.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -200,30 +204,20 @@
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;ol&gt;
       &lt;li&gt;
-        Choose one of the three structures above.
-      &lt;/li&gt;
-      &lt;li&gt;
-        Using the move tool (&lt;img src=&quot;../Images_GIFs/move_tool.png&quot;&gt;), drag 
-        the molecules you&apos;ll need out of their boxes on the left side of the 
-        model.
-      &lt;/li&gt;
-      &lt;li&gt;
-        Using the charge tools (&lt;img src=&quot;../Images_GIFs/pos_charge_tool.png&quot;&gt; 
-        and &lt;img src=&quot;../Images_GIFs/neg_charge_tool.png&quot;&gt;), add charges 
-        around the edges of the molecules. (Tip: If the charges will be the 
-        same for a shape. Sometimes it is easier to add the charges before 
-        copying them outside their box)
-      &lt;/li&gt;
-      &lt;li&gt;
         Using the duplicate tool (&lt;img src=&quot;../Images_GIFs/duplicate_tool.png&quot;&gt;), 
-        make several copies of each molecule.
+        copy the molecules you will need and drop them into the larger 
+        simulation space.
       &lt;/li&gt;
       &lt;li&gt;
-        Take a snapshot when your stucture has assembled itself.
+        Using the move tool (&lt;img src=&quot;../Images_GIFs/move_tool.png&quot;&gt;), move 
+        the molecules around the simulation space as needed. model.
       &lt;/li&gt;
       &lt;li&gt;
-        Press the reset button to start again. Repeat for each of the 
-        structures above.
+        Using the rotate tool (&lt;img src=&quot;../Images_GIFs/rotate_tool.png&quot;&gt;), 
+        rotate the molecules as needed.
+      &lt;/li&gt;
+      &lt;li&gt;
+        Press the reset button to start again.
       &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/body&gt;
@@ -232,35 +226,29 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="32" end="33">
+<content start="31" end="32">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="33" end="34">
+<paragraph start="32" end="34">
 <Alignment>1</Alignment>
+<content start="32" end="33">
+<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Shapes_p2$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Rotate Object</button><button>Duplicate Object</button></component></content>
+
 <content start="33" end="34">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="34" end="36">
+<paragraph start="34" end="35">
 <Alignment>1</Alignment>
 <content start="34" end="35">
-<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Shapes_p2$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Rotate Object</button><button>Duplicate Object</button></component></content>
+<size>16</size><family>Times New Roman</family></content>
 
+</paragraph>
+<paragraph start="35" end="37">
+<Alignment>1</Alignment>
 <content start="35" end="36">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="36" end="37">
-<Alignment>1</Alignment>
-<content start="36" end="37">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="37" end="39">
-<Alignment>1</Alignment>
-<content start="37" end="38">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
 <height>100</height>
@@ -269,9 +257,11 @@
     &lt;title&gt;ShapesQ1&lt;/title&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     What size rings can be formed? By size of the ring, count the number of 
-    T-shaped monomers that participate in the assembly.
+    T-shaped monomers that participate in the assembly. If you are having 
+    trouble forming rings, be sure to use an equal number of T-shaped to 
+    rod-shaped monomers, just as in the image at the start of the page.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -279,19 +269,19 @@
 <opaque>false</opaque>
 </component></content>
 
+<content start="36" end="37">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="37" end="38">
+<Alignment>1</Alignment>
+<content start="37" end="38">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="38" end="40">
+<Alignment>1</Alignment>
 <content start="38" end="39">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="39" end="40">
-<Alignment>1</Alignment>
-<content start="39" end="40">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="40" end="42">
-<Alignment>1</Alignment>
-<content start="40" end="41">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
 <height>100</height>
@@ -300,8 +290,10 @@
     &lt;title&gt;ShapesQ2&lt;/title&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    What other structures can these monomers form?
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    After playing around with varying amounts of T-shaped to rod-shaped 
+    monomers and their initial configurations, what other structures do these 
+    monomers form?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -309,19 +301,19 @@
 <opaque>false</opaque>
 </component></content>
 
+<content start="39" end="40">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="40" end="41">
+<Alignment>1</Alignment>
+<content start="40" end="41">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="41" end="43">
+<Alignment>1</Alignment>
 <content start="41" end="42">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="42" end="43">
-<Alignment>1</Alignment>
-<content start="42" end="43">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="43" end="45">
-<Alignment>1</Alignment>
-<content start="43" end="44">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
 <height>150</height>
@@ -330,30 +322,30 @@
     &lt;title&gt;ShapesQ3&lt;/title&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    What happens when the ratio of T-shaped monomers to linear monomers is 
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    What happens when the ratio of T-shaped monomers to rod-shaped monomers is 
     N:(2N+1)? For example, if you have 4 T-shaped monomers, you would need 9 
-    linear monomers.
+    rod-shaped monomers.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<description>Cannot form a closed loop unless some of the linear monomers do not bind to the T-shaped monomers. Instead, the monomers would form a &quot;fuzzy&quot; line, almost like a fuzzy caterpillar.</description>
+<description>Cannot form a closed loop unless some of the rod-shaped monomers do not bind to the T-shaped monomers. Instead, the monomers would form a &quot;fuzzy&quot; line, almost like a fuzzy caterpillar.</description>
 <opaque>false</opaque>
 </component></content>
 
+<content start="42" end="43">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="43" end="44">
+<Alignment>1</Alignment>
+<content start="43" end="44">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="44" end="46">
+<Alignment>1</Alignment>
 <content start="44" end="45">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="45" end="46">
-<Alignment>1</Alignment>
-<content start="45" end="46">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="46" end="48">
-<Alignment>1</Alignment>
-<content start="46" end="47">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
 <height>150</height>
@@ -362,55 +354,55 @@
     &lt;title&gt;ShapesQ4&lt;/title&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Without running a simulation, what do you think will happen at higher 
-    ratios of linear monomers to T-shaped monomers? For example, running with 
-    12 linear monomers and 3 T-shaped monomers? After answering, you can check 
-    your intuition by performing the simulation.
+    ratios of rod-shaped monomers to T-shaped monomers? For example, running 
+    with 12 rod-shaped monomers and 3 T-shaped monomers? After answering, you 
+    can check your intuition by performing the simulation.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<description>The monomers would not form a unified assembly. Instead, you might see regions where the T-shaped monomers aggregate with some of the linear monomers, but there would be some linear monomers that would be floating off to the side. </description>
+<description>The monomers would not form a unified assembly. Instead, you might see regions where the T-shaped monomers aggregate with some of the rod-shaped monomers, but there would be some rod-shaped monomers that would be floating off to the side. </description>
 <opaque>false</opaque>
 </component></content>
 
-<content start="47" end="48">
+<content start="45" end="46">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="48" end="49">
+<paragraph start="46" end="47">
 <Alignment>1</Alignment>
-<content start="48" end="49">
+<content start="46" end="47">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="49" end="69">
+<paragraph start="47" end="67">
 <Alignment>1</Alignment>
-<content start="49" end="56">
+<content start="47" end="54">
 <size>16</size><family>Times New Roman</family><href>Shapes_p1.cml</href></content>
 
-<content start="56" end="57">
+<content start="54" end="55">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="57" end="60">
+<content start="55" end="58">
 <size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
 
-<content start="60" end="61">
+<content start="58" end="59">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="61" end="68">
+<content start="59" end="66">
 <size>16</size><family>Times New Roman</family><href>Analysis_p1.cml</href></content>
 
-<content start="68" end="69">
+<content start="66" end="67">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="69" end="70">
-<content start="69" end="70">
+<paragraph start="67" end="68">
+<content start="67" end="68">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="70" end="71">
+<paragraph start="68" end="69">
 </paragraph>
 </section>
 </document>
