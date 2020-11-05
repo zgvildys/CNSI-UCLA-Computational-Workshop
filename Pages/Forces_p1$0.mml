@@ -334,7 +334,7 @@
    <void method="put">
     <string>date</string>
     <object class="java.util.Date">
-     <long>1604003457000</long>
+     <long>1604598678000</long>
     </object>
    </void>
    <void method="put">
@@ -394,19 +394,19 @@
    <int>3</int>
   </void>
   <void property="rx">
-   <double>292.6950176728143</double>
+   <double>187.30944581822803</double>
   </void>
   <void property="ry">
-   <double>157.7577324819119</double>
+   <double>226.16749604845828</double>
   </void>
   <void property="showRTraj">
    <boolean>true</boolean>
   </void>
   <void property="vx">
-   <double>0.10819873907042289</double>
+   <double>-0.10819873907042289</double>
   </void>
   <void property="vy">
-   <double>0.06966371035290217</double>
+   <double>-0.06966371035290217</double>
   </void>
  </object>
  <object class="org.concord.mw2d.models.MolecularModel$State"/>

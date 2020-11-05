@@ -332,6 +332,7 @@
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
+<description>They no longer move in straight lines and bounce off all other particles in the same way- the particles exert a force on each other across a distance, either pushing (repulsion) or pulling (attraction).</description>
 <opaque>false</opaque>
 </component></content>
 
@@ -441,22 +442,32 @@
 <content start="54" end="55">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>130.0</height>
+<height>270.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     Try it out with the square molecular shape in the box below. Try adding 
-    different charges to different parts of the molecule and then using the 
-    duplicate tool to make multiples of the same molecule- try doing negative 
-    charges along one side, and positive charges on the other, or try giving 
-    the corners one charge, and the sides the other charge. Or even try 
-    duplicating the molecule without any charge to produce two molecules, then 
-    give one molecule one charge, and the other molecule the opposite charge, 
-    then make copies of both of them. What happens with all these different 
+    different charges (with buttons &lt;img src=&quot;../Images_GIFs/add_charge.png&quot;&gt;) 
+    to different parts of the molecule and then using the duplicate tool (&lt;img src=&quot;../Images_GIFs/duplicate.png&quot;&gt;) 
+    to make multiples of the same molecule- try doing negative charges along 
+    one side, and positive charges on the other, or try giving the corners one 
+    charge, and the sides the other charge. Or even try duplicating the 
+    molecule without any charge to produce two molecules, then give one 
+    molecule one charge, and the other molecule the opposite charge, then make 
+    copies of both of them. You can even try making multiple molecules each 
+    with different charge locations. What happens with all these different 
     cases? Remember, proteins are just very big molecules, and they have 
     different regions that can have different charge.
+
+    &lt;p&gt;
+      Note- there are two ways you can reset the simulation for different 
+      charge compositions. You can either reset totally to the beginning by 
+      pressing &lt;imgsrc imgsrc=&quot;../Images_GIFs/reset.png&quot;&gt;, or you can use the 
+      remove tool (&lt;img src=&quot;../Images_GIFs/cut.png&quot;&gt;) to remove all but one 
+      molecule and change the charges on that one before starting again.
+    &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -479,7 +490,7 @@
 <LeftIndent>40.0</LeftIndent>
 <content start="57" end="58">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_p3$1.mml</resource><menubar>false</menubar><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Add Rectangular Molecular Ribbon</button><button>Add Rectangular Molecular Surface</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
+<resource>Forces_p3$1.mml</resource><menubar>false</menubar><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
 
 <content start="58" end="59">
 <size>16</size><family>Times New Roman</family></content>
@@ -510,6 +521,7 @@
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
+<description>Different location of charges cause different sides of the molecules to be attracted/repulsed by each other, leading to different ways the particles can sit next to each other. </description>
 <opaque>false</opaque>
 </component></content>
 

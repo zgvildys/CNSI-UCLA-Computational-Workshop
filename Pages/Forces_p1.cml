@@ -138,7 +138,7 @@ TOC	Next -&gt;
 <content start="19" end="20">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>80.0</height>
+<height>140.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -147,9 +147,15 @@ TOC	Next -&gt;
     Before we can start to understand how viruses can assemble themselves, we 
     need to understand how atoms and small molecules behave on their own. 
     These particles make up all matter and are constantly moving. If there are 
-    very few atoms present, they have quite predicable motion. For instance, 
-    in the box below, there is a single particle. Click the &amp;quot;play&amp;quot; button at 
-    the bottom of the simulation box below, and observe how the particle moves.
+    very few atoms present, they have quite predicable motion.
+
+    &lt;p&gt;
+      For instance, in the box below, there is a single particle. Press the 
+      &amp;quot;play&amp;quot; button (&lt;img src=&quot;../Images_GIFs/play_button.png&quot;&gt;) and 
+      observe how the particle moves. Watch as the dotted line draws out the 
+      path that the particle takes. This path is known as the &amp;quot;trajectory&amp;quot; of 
+      the particle.
+    &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -234,6 +240,7 @@ TOC	Next -&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
+<description>good analogies would be things like &quot;billiard balls&quot; &quot;air hocky pucks&quot; </description>
 <opaque>false</opaque>
 </component></content>
 
@@ -333,9 +340,9 @@ TOC	Next -&gt;
   &lt;/head&gt;
   &lt;body&gt;
     Now press play. Does the particle motion look much more chaotic and 
-    random? Follow the trajectory of the different colored atom, which should 
-    show as a dotted line following the atom. Wait a little bit, then pause 
-    the system, and look at the path of the trajectory.
+    random? Follow the trajectory of the grey atom, which is the dotted line 
+    following the atom. Wait a little bit, then pause the system, and look at 
+    the path of the trajectory.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>

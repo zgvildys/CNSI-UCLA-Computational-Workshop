@@ -196,7 +196,7 @@
 <content start="33" end="34">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>60.0</height>
+<height>90.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -205,7 +205,10 @@
     See how the capsid protein, shown here in a simplified form in yellow, 
     just bounces around when colliding with the white particles, which 
     represent water molecules. Remember, living things are largely made of 
-    water!
+    water! Notice that the larger yellow protein doesn&apos;t get to move very far- 
+    unlike in the previous page, there are so many collisions that the protein 
+    can&apos;t travel very far in a straight line before it collides with something 
+    else.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -242,6 +245,7 @@
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
+<description>Forces- anything along the lines of &quot;they need to stick together&quot; or &quot;they need to pull on each other&quot;</description>
 <opaque>false</opaque>
 </component></content>
 

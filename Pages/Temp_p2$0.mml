@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<java version="1.8.0_261" class="java.beans.XMLDecoder">
+<java version="1.8.0_251" class="java.beans.XMLDecoder">
  <object class="org.concord.mw2d.models.Element" id="Element0">
   <void property="sigma">
    <double>7.0</double>
@@ -334,7 +334,7 @@
    <void method="put">
     <string>date</string>
     <object class="java.util.Date">
-     <long>1604362490458</long>
+     <long>1604598678000</long>
     </object>
    </void>
    <void method="put">
@@ -347,11 +347,11 @@
    </void>
    <void method="put">
     <string>codebase</string>
-    <string>C:\Users\dreil\Desktop\Workspace\CNSI Outreach\CNSI-UCLA-Computational-Workshop\Pages</string>
+    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master/Pages</string>
    </void>
    <void method="put">
     <string>url</string>
-    <string>C:\Users\dreil\Desktop\Workspace\CNSI Outreach\CNSI-UCLA-Computational-Workshop\Pages\Temp_p2$0.mml</string>
+    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master/Pages/Temp_p2$0.mml</string>
    </void>
   </void>
   <void property="quantumRule">
@@ -2194,10 +2194,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>144.7021484375</double>
+   <double>162.92283884684244</double>
   </void>
   <void property="ry">
-   <double>249.91317749023438</double>
+   <double>227.77021280924475</double>
   </void>
   <void property="vx">
    <double>0.031797063416699856</double>
@@ -2217,10 +2217,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>137.11026000976562</double>
+   <double>155.33095041910806</double>
   </void>
   <void property="ry">
-   <double>240.3660125732422</double>
+   <double>218.22304789225257</double>
   </void>
   <void property="vx">
    <double>-0.009659188210388255</double>
@@ -2237,10 +2237,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>130.88702392578125</double>
+   <double>149.1077143351237</double>
   </void>
   <void property="ry">
-   <double>230.9439697265625</double>
+   <double>208.80100504557288</double>
   </void>
   <void property="vx">
    <double>0.004767278020906425</double>
@@ -2260,10 +2260,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>124.99535369873047</double>
+   <double>143.2160441080729</double>
   </void>
   <void property="ry">
-   <double>242.46461486816406</double>
+   <double>220.32165018717444</double>
   </void>
   <void property="vx">
    <double>-0.019225786299330905</double>
@@ -2280,10 +2280,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>120.98242950439453</double>
+   <double>139.20311991373697</double>
   </void>
   <void property="ry">
-   <double>250.3331756591797</double>
+   <double>228.19021097819007</double>
   </void>
   <void property="vx">
    <double>-0.02032824402888438</double>
@@ -2303,10 +2303,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>131.99864196777344</double>
+   <double>150.21933237711588</double>
   </void>
   <void property="ry">
-   <double>250.8368377685547</double>
+   <double>228.69387308756507</double>
   </void>
   <void property="vx">
    <double>-0.006939635270465969</double>
@@ -3374,10 +3374,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>57.50934600830078</double>
+   <double>26.499006271362305</double>
   </void>
   <void property="ry">
-   <double>348.1767272949219</double>
+   <double>360.20435078938795</double>
   </void>
   <void property="vx">
    <double>0.010767628339478537</double>
@@ -3397,10 +3397,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>66.1109619140625</double>
+   <double>35.10062217712402</double>
   </void>
   <void property="ry">
-   <double>340.01959228515625</double>
+   <double>352.0472157796223</double>
   </void>
   <void property="vx">
    <double>-0.002296650616849853</double>
@@ -3417,10 +3417,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>76.70719146728516</double>
+   <double>45.69685173034668</double>
   </void>
   <void property="ry">
-   <double>332.1199035644531</double>
+   <double>344.1475270589192</double>
   </void>
   <void property="vx">
    <double>-0.009223468083271595</double>
@@ -3440,10 +3440,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>64.4457015991211</double>
+   <double>33.43536186218262</double>
   </void>
   <void property="ry">
-   <double>328.3719482421875</double>
+   <double>340.39957173665357</double>
   </void>
   <void property="vx">
    <double>0.013210463676874049</double>
@@ -3460,10 +3460,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>52.132469177246094</double>
+   <double>21.122129440307617</double>
   </void>
   <void property="ry">
-   <double>325.13592529296875</double>
+   <double>337.1635487874348</double>
   </void>
   <void property="vx">
    <double>-0.019013773524190966</double>
@@ -3483,10 +3483,10 @@
    <boolean>false</boolean>
   </void>
   <void property="rx">
-   <double>55.156368255615234</double>
+   <double>24.146028518676758</double>
   </void>
   <void property="ry">
-   <double>336.0101623535156</double>
+   <double>348.0377858479817</double>
   </void>
   <void property="vx">
    <double>-0.03298099846242301</double>
