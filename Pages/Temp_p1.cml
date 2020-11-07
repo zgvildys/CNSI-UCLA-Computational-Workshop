@@ -81,15 +81,15 @@
 <Alignment>1</Alignment>
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>100.0</height>
+<width>800.0</width>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; 
-    temperature correlates with the average velocity of nanoscale particles.&lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; The 
+    average velocity of nanoscale particles correlates with temperature.&lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -140,7 +140,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     We normally think of temperature in macroscopic terms: the air temperature 
     outside or how cold the water is at the beach. These are the temperatures 
     of things we can directly see and feel. However, temperature is also 
@@ -171,7 +171,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     We can observe this in our simulation boxes. The box on the left shows an 
     ensemble (or arrangement) of capsid proteins at low temperature, while the 
     box on the right shows the same ensemble at high temperature.
@@ -204,7 +204,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     What differences do you notice in the motion of the proteins between the 
     two temperatures?
   &lt;/body&gt;
@@ -297,7 +297,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Let us characterize the relation you&apos;ve observed between temperature and 
     motion at the microscopic scale.
   &lt;/body&gt;
@@ -326,7 +326,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     At the microscopic scale, temperature is proportional to the average 
     kinetic energy of an ensemble. We can write this as &lt;b&gt;T &amp;#8733; KE&lt;/b&gt;, 
     where &lt;b&gt;T&lt;/b&gt; is the temperature and &lt;b&gt;KE&lt;/b&gt; is the kinetic energy. 
@@ -359,11 +359,11 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     The kinetic energy is the energy of a particle due to its motion. One way 
-    of defining it is by the equation &lt;b&gt;KE = &amp;#189; m&lt;i&gt;v&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/b&gt; 
-    where m is the mass of the object and &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; is its velocity. 
-    Thus the faster an object is moving, the more kinetic energy it has.
+    of defining it is by &lt;b&gt;KE = &amp;#189; m&lt;i&gt;v&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/b&gt; where m is 
+    the mass of the object and &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; is its velocity. Thus the 
+    faster an object is moving, the more kinetic energy it has.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -390,7 +390,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Together these equations give us the relation &lt;b&gt;T &amp;#8733; &lt;i&gt;v&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/b&gt;. 
     This means that a higher temperature means a higher average veloctiy, 
     while a lower temperature means a lower average velocity, which is exactly 

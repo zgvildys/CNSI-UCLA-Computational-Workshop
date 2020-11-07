@@ -82,8 +82,8 @@
 <Alignment>1</Alignment>
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>100.0</height>
+<width>800.0</width>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -133,12 +133,12 @@
 <content start="19" end="20">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>150.0</height>
+<height>175.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 5&quot;&gt;
       Now that you have assembled a vlp and demonstrated knowledge of what 
       interactions are important for assembly around cargo, lets take a look 
@@ -182,7 +182,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     If you wanted to package a larger genome (circle), how would you modify 
     the assembly?
   &lt;/body&gt;
@@ -217,7 +217,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       Investigate your answer above by trying to assemble around the circle 
       below. When you are finished, place a snapshot of your assembled capsid 
@@ -290,7 +290,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       Now that you have assembled a capsid around a larger cargo, we can draw 
       connections between our simulation assemblies and self assembly of real 
@@ -322,7 +322,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     In previous sections we saw that the T shaped subunits created curvature 
     for our capsid to be able to close. What role do the rectangular monomers 
     have when encapsulating different sized cargo?
@@ -354,7 +354,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     How are the T shaped subunits similar to pentamers in real viral capsids 
     and the rectangular subunits similar to hexamers?
   &lt;/body&gt;

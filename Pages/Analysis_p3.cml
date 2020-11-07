@@ -74,8 +74,8 @@
 <Alignment>1</Alignment>
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>100.0</height>
+<width>800.0</width>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -128,13 +128,13 @@
 <content start="27" end="28">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>240.0</height>
+<height>280.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;Instructions&lt;/title&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 5&quot;&gt;
       For this page, you will be simulating the &amp;quot;assembly&amp;quot; of a virus-like 
       particle (vlp). You are given two subunits in the left side of the 
@@ -272,7 +272,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     What role do the T-shaped structures play in the capsid and without them, 
     do you think the capsid would assemble around the cargo?
   &lt;/body&gt;

@@ -92,15 +92,17 @@
 <LeftIndent>40.0</LeftIndent>
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>100.0</height>
+<width>800.0</width>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; coulomb 
-    forces between atoms and molecules are required for self-assembly. &lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; Motion 
+    is controlled by intermolecular forces. Balancing forces allows us to 
+    control random motion, but the forces must be large relative to the 
+    particle&apos;s velocity. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -155,7 +157,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     The previous two pages cover how atoms and molecules of different sizes 
     move around randomly. Although the system appears to behave randomly, each 
     particle within the system moves predictably: a single particle moves 
@@ -194,7 +196,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     You may have heard about charge and coulomb&apos;s law in your physics class:
   &lt;/body&gt;
 &lt;/html&gt;
@@ -256,7 +258,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     This equation shows that there is a force F acting between two charges, 
     represented by &lt;b&gt;q1&lt;/b&gt; and &lt;b&gt;q2&lt;/b&gt;. The distance between these charges 
     is &lt;b&gt;r&lt;/b&gt; and &lt;b&gt;k&lt;/b&gt; is a known constant that was determined 
@@ -292,7 +294,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Try it yourself! Below is a box containing some particles with positive 
     and negative charges. Press play and see how they behave. Then try 
     clicking and dragging the atoms to different places in the box- try things 
@@ -325,7 +327,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Place them far apart and see how they move towards each other - what do 
     you notice? How might it be explained by Coulomb&apos;s law? And what is the 
     key difference between this type of motion and random motion?
@@ -371,12 +373,12 @@
 <content start="48" end="49">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>120.0</height>
+<height>150.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     There are many charged things - from incredibly small things like 
     electrons, to atoms and even whole regions within molecules. No matter 
     what object is holding the charge, the coulomb force applies and either 
@@ -415,7 +417,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     A whole particle or molecule doesn&apos;t have to be charged. Only some parts 
     of it might be charged, or different regions on the same molecule might 
     even have opposite charges.
@@ -447,7 +449,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Try it out with the square molecular shape in the box below. Try adding 
     different charges (with buttons &lt;img src=&quot;../Images_GIFs/add_charge.png&quot;&gt;) 
     to different parts of the molecule and then using the duplicate tool (&lt;img src=&quot;../Images_GIFs/duplicate.png&quot;&gt;) 
@@ -514,7 +516,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Make a few molecules that have opposite charges in a number of different 
     places. Does this change how the molecules behave? Why do you think that 
     is?
@@ -547,7 +549,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     There are other kinds of forces that act between atoms and molecules, but 
     they are much weaker than coulomb forces, and so are less important for 
     understanding how capsid proteins come together and form viruses.

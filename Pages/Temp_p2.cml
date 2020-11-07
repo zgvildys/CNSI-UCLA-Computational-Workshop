@@ -78,14 +78,14 @@
 <Alignment>1</Alignment>
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>100.0</height>
+<width>800.0</width>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; viral 
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; Viral 
     capsids require a specific range of temperatures to form. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -138,7 +138,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     The assembly of viral capsids from their proteins requires the correct 
     temperature. Answer the following questions using the simulation box 
     below. Run your simulations for 200 ns to give the proteins enough time to 
@@ -214,7 +214,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     How do the particles interact when you set the temperature to &lt;b&gt;85 &amp;#176;C&lt;/b&gt;? 
     What do they form?
   &lt;/body&gt;
@@ -243,7 +243,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     How do the particles interact when you set the temperature to &lt;b&gt;5 &amp;#176;C&lt;/b&gt;? 
     What do they form?
   &lt;/body&gt;
@@ -272,7 +272,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     How do the particles interact when you set the temperature to &lt;b&gt;25 &amp;#176;C&lt;/b&gt;? 
     What do they form?
   &lt;/body&gt;
@@ -301,7 +301,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     As you can see from your simulations, temperature modifies how well the 
     proteins can interact with each other. At the extremes of temperature, the 
     intermolecular forces that define the protein interactions become either 

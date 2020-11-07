@@ -83,14 +83,14 @@ TOC	Next -&gt;
 <LeftIndent>60.0</LeftIndent>
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>100.0</height>
+<width>800.0</width>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;Key Concept:&lt;/i&gt;&lt;/u&gt;&lt;/b&gt; atoms 
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;Key Concept:&lt;/i&gt;&lt;/u&gt;&lt;/b&gt; Atoms 
     and molecules are in constant motion. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -143,7 +143,7 @@ TOC	Next -&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Before we can start to understand how viruses can assemble themselves, we 
     need to understand how atoms and small molecules behave on their own. 
     These particles make up all matter and are constantly moving. If there are 
@@ -202,7 +202,7 @@ TOC	Next -&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Describe here how the particle moves. Is there anything that you&apos;ve seen 
     that behaves like this? What are the two main ways the particle moves?
   &lt;/body&gt;
@@ -231,10 +231,10 @@ TOC	Next -&gt;
 <height>200</height>
 <title>&lt;html&gt;
   &lt;head&gt;
-    &lt;title&gt;Describe heere what the particle movement looks like. Are there any analogies to real-world behavior that you can think of?&lt;/title&gt;
+    &lt;title&gt;Describe here what the particle movement looks like. Are there any analogies to real-world behavior that you can think of?&lt;/title&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Describe here what the particle movement looks like. Are there any 
     analogies to real-world behavior that you can think of?
   &lt;/body&gt;
@@ -261,12 +261,12 @@ TOC	Next -&gt;
 <content start="31" end="32">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>160.0</height>
+<height>180.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     The type of motion you saw in the single particle model above is what 
     scientists call &amp;quot;ballistic motion&amp;quot; or &amp;quot;Brownian motion&amp;quot; or simply &amp;quot;random 
     motion&amp;quot;. It is reminiscent of how billiard balls move! Essentially, the 
@@ -308,7 +308,7 @@ TOC	Next -&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     How do you predict the system with more particles will behave?
   &lt;/body&gt;
 &lt;/html&gt;
@@ -338,7 +338,7 @@ TOC	Next -&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Now press play. Does the particle motion look much more chaotic and 
     random? Follow the trajectory of the grey atom, which is the dotted line 
     following the atom. Wait a little bit, then pause the system, and look at 
@@ -389,7 +389,7 @@ TOC	Next -&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     What does the trajectory look like compared to the previous box? How do 
     you think the trajectory would change if you added even more particles?
   &lt;/body&gt;

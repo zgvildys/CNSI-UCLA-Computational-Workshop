@@ -82,16 +82,16 @@
 <Alignment>1</Alignment>
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>100.0</height>
+<width>800.0</width>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; heating 
-    and cooling a system in a controlled manner can help a system 
-    self-assemble into a better structure. &lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; 
+    Controlled heating and cooling can help a system assemble into more stable 
+    structures. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -149,7 +149,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     So far, you have learned about how forces and temperature cause atoms and 
     molecules to move around. We now discuss how temperature helps molecules 
     stick together in different ways, and the role this plays for 
@@ -185,7 +185,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     As we discussed on the previous page there is an ideal temperature range 
     at which virus form best. When the temperature is too high, the structure 
     won&apos;t stay stuck together. But if it&apos;s too cold, then it can&apos;t move enough 
@@ -217,7 +217,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Using this, you can also control how things self-assemble by controling 
     temperature changes. This is a process called &amp;quot;annealing&amp;quot;, which is often 
     used in computational chemistry research to make sure that we found the 
@@ -247,12 +247,12 @@
 <content start="37" end="38">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>180.0</height>
+<height>200.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Now, you try it! Below is a box with a defective structure. Try playing 
     with temperature a bit to see what the best structure you can get is. The 
     best structure has as many ring-shaped structures that you can- either 
@@ -388,7 +388,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     What Attempt was the best? Why do you think it was the best?
   &lt;/body&gt;
 &lt;/html&gt;
@@ -416,7 +416,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Remember this technique for annealing for future modules! It&apos;s important 
     to note that if the simulation isn&apos;t working immediately, the system might 
     be stuck because the temperature is too low for the monomers to slide 

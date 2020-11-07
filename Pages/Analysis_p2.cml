@@ -94,8 +94,8 @@ Introduction of the T Number
 <Alignment>1</Alignment>
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>100.0</height>
+<width>800.0</width>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -186,7 +186,7 @@ Introduction of the T Number
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Symmetry is ubiquitous in nature. What we mean by symmetry here, is in 
     mathematical terms. That is that the structure does not change (or is 
     invariant) under certain motions (or operations). To state it simply, the 
@@ -257,7 +257,7 @@ Introduction of the T Number
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       There are multiple symmetries we see in viruses such as helical, 
       icosahedral and prolate. For example, helical symmetry is seen in 
@@ -352,7 +352,7 @@ Introduction of the T Number
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       Earlier, we mentioned that the coat protein is often an irregularily 
       shaped object. Shown above is a picture of a potential monomeric unit of 
@@ -389,7 +389,7 @@ Introduction of the T Number
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       The identical monomers (or subunits) combine in three inequivalent 
       positions (represented on the figure below as the number 6 inside the 
@@ -424,7 +424,7 @@ Introduction of the T Number
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       The spacing between these defects is what gives rise to the different T 
       structures and we will explore this idea more in a bit. These structure 
@@ -512,7 +512,7 @@ Introduction of the T Number
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       The b and a vectors here represent what we would call the unit vectors 
       along the h and k axises. The triangulation number, which represents 
@@ -567,7 +567,7 @@ Introduction of the T Number
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       The total number of protein subunits in the icosahedral shell is T times 
       60. The smallest T number possible is a T=1 structure, which corresponds 
@@ -632,7 +632,7 @@ Introduction of the T Number
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     What is the T number for the triangle drawn on the lattice above?
   &lt;/body&gt;
 &lt;/html&gt;

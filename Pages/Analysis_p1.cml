@@ -74,8 +74,8 @@
 <Alignment>1</Alignment>
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>100.0</height>
+<width>800.0</width>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -134,7 +134,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       Throughout the lab, you have learned about what principals govern the 
       motions and assembly nanoscale objects. We will now think about how we 
@@ -176,7 +176,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p align=&quot;left&quot; style=&quot;margin-top: 0&quot;&gt;
       Using the monomers below, assemble the following structures.
     &lt;/p&gt;

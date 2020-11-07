@@ -75,15 +75,15 @@
 <LeftIndent>40.0</LeftIndent>
 <content start="3" end="4">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>600.0</width>
-<height>100.0</height>
+<width>800.0</width>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
     &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; 
-    apparent random motion of capsid proteins is due to the collision with 
+    Apparent random motion of capsid proteins is due to the collision with 
     many much smaller solvent molecules. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -143,7 +143,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     The previous page introduced how small particles undergo random, or 
     Brownian motion. All of the particles in these systems were the same size. 
     However, the assembly of viruses involves molecules of different sizes. 
@@ -201,7 +201,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     See how the capsid protein, shown here in a simplified form in yellow, 
     just bounces around when colliding with the white particles, which 
     represent water molecules. Remember, living things are largely made of 
@@ -237,7 +237,7 @@
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     So far, this doesn&apos;t look like the kind of motion that could assemble a 
     virus out of a bunch of different proteins, if they&apos;re just moving around 
     randomly. What do you think is missing here to make the proteins come 
