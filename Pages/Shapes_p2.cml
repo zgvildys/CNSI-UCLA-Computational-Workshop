@@ -265,7 +265,6 @@
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<description>3-7. It may be possible to form an 8-ring but the model size is quite small for that to occur.</description>
 <opaque>false</opaque>
 </component></content>
 
@@ -297,7 +296,6 @@
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<description>Lines and branches</description>
 <opaque>false</opaque>
 </component></content>
 
@@ -329,7 +327,6 @@
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<description>Cannot form a closed loop unless some of the rod-shaped monomers do not bind to the T-shaped monomers. Instead, the monomers would form a &quot;fuzzy&quot; line, almost like a fuzzy caterpillar.</description>
 <opaque>false</opaque>
 </component></content>
 
@@ -362,7 +359,6 @@
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<description>The monomers would not form a unified assembly. Instead, you might see regions where the T-shaped monomers aggregate with some of the rod-shaped monomers, but there would be some rod-shaped monomers that would be floating off to the side. </description>
 <opaque>false</opaque>
 </component></content>
 
