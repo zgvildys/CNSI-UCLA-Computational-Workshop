@@ -133,7 +133,7 @@
 <content start="26" end="27">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>60.0</height>
+<height>100.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -142,7 +142,8 @@
     The assembly of viral capsids from their proteins requires the correct 
     temperature. Answer the following questions using the simulation box 
     below. Run your simulations for 200 ns to give the proteins enough time to 
-    interact.
+    interact. The simulation time is found at the bottom left of the 
+    simulation box. Between changing temperature, use the reset button (&lt;img src=&quot;../Images_GIFs/reset.png&quot;&gt;).
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
