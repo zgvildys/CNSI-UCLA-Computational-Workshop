@@ -218,13 +218,13 @@
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    Using this, you can also control how things self-assemble by controling 
-    temperature changes. This is a process called &amp;quot;annealing&amp;quot;, which is often 
-    used in computational chemistry research to make sure that we found the 
-    best possible structure. Basically, if we start with a structure that 
-    isn&apos;t perfect, we can heat it up really hot and then cool it down again. 
-    This will lead to the formation of a more stable structure with fewer 
-    defects- basically a more perfect structure. This can be done once or 
+    Using this information, you can control how things self-assemble by 
+    controling temperature changes. This is a process called &amp;quot;annealing&amp;quot;, 
+    which is often used in computational chemistry research to make sure that 
+    we found the best possible structure. Basically, if we start with a 
+    structure that isn&apos;t perfect, we can heat it up really hot and then cool 
+    it down again. This will lead to the formation of a more stable structure 
+    with fewer defects- a more perfect structure. This can be done once or 
     multiple times.
   &lt;/body&gt;
 &lt;/html&gt;
@@ -262,10 +262,10 @@
     cooling. Try three different attempts and take a snapshot of the end 
     outcome each time. Write down what you did for each attempt, and why you 
     think you got the result you did. Choose the structure you think is best- 
-    why do you think the method produced the best results?
+    why do you think that method produced the best results?
 
     &lt;p&gt;
-      Tip- to screenshot, left-click on the model box and select &lt;img src=&quot;../Images_GIFs/snapshot.png&quot;&gt;. 
+      To take a screenshot, left-click on the model box and select &lt;img src=&quot;../Images_GIFs/snapshot.png&quot;&gt;. 
       Then go to the boxes below, click &amp;quot;open&amp;quot;, and select the screenshot you 
       want.
     &lt;/p&gt;
@@ -389,7 +389,7 @@
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    What Attempt was the best? Why do you think it was the best?
+    Which attempt was the best? Why do you think it was the best?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -417,13 +417,13 @@
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    Remember this technique for annealing for future modules! It&apos;s important 
-    to note that if the simulation isn&apos;t working immediately, the system might 
-    be stuck because the temperature is too low for the monomers to slide 
-    around each other and reach a better structure. If that happens to you in 
-    future modules, just try heating the system and cooling it down again in 
-    the way that matches your best attempt above, and see if that gets you to 
-    a better structure.
+    Remember this annealing technique for future modules! It&apos;s important to 
+    note that if the simulation isn&apos;t working immediately, the system might be 
+    stuck because the temperature is too low for the monomers to slide around 
+    each other and reach a better structure. If that happens to you in future 
+    modules, try heating the system and cooling it down again in the way that 
+    matches your best attempt above, and see if that gets you to a better 
+    structure.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
