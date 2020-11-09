@@ -31,6 +31,8 @@
  
 
  
+ 
+
 
  
 
@@ -41,7 +43,7 @@
 &lt;- Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="88">
+<section start="0" end="91">
 <paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
@@ -162,12 +164,11 @@
     move around randomly. Although the system appears to behave randomly, each 
     particle within the system moves predictably: a single particle moves 
     ballistically and lighter particles move more than heavier particles. At 
-    the same time, particle motion is driven by intermolecular. As a reminder 
-    from chemistry courses, intermolecular forces are forces between 
-    particles. Intermolecular forces determine how particles interact with one 
-    another. By understanding and tailoring intermolecular forces, we can 
-    control random motion. One major type of intermolecular forces are those 
-    between charged molecules.
+    the same time, particle motion is driven by intermolecular forces. As a 
+    reminder from chemistry courses, intermolecular forces are forces between 
+    particles. By understanding and tailoring intermolecular forces, we can 
+    control random motion. One important type of intermolecular forces are 
+    those between charged molecules.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -382,12 +383,12 @@
     There are many charged things - from incredibly small things like 
     electrons, to atoms and even whole regions within molecules. No matter 
     what object is holding the charge, the coulomb force applies and either 
-    pulls together or pushes apart object of opposite or same charge, 
+    pulls together or pushes apart objects of opposite or same charge, 
     respectively. This force is actually what drives the self-assembly of the 
     capsid proteins in our simulation boxes. Notice how in the above box, when 
     there are multiple particles with charges of both signs present, the 
     particles tend to stick together, and they stick together in a very 
-    particular way? This will be explored more later, but it&apos;s the foundation 
+    particular way! This will be explored more later, but it&apos;s the foundation 
     of how viruses &amp;quot;know&amp;quot; how to assemble correctly!
   &lt;/body&gt;
 &lt;/html&gt;
@@ -444,31 +445,31 @@
 <content start="54" end="55">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>270.0</height>
+<height>250.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    Try it out with the square molecular shape in the box below. Try adding 
-    different charges (with buttons &lt;img src=&quot;../Images_GIFs/add_charge.png&quot;&gt;) 
-    to different parts of the molecule and then using the duplicate tool (&lt;img src=&quot;../Images_GIFs/duplicate.png&quot;&gt;) 
-    to make multiples of the same molecule- try doing negative charges along 
-    one side, and positive charges on the other, or try giving the corners one 
-    charge, and the sides the other charge. Or even try duplicating the 
-    molecule without any charge to produce two molecules, then give one 
-    molecule one charge, and the other molecule the opposite charge, then make 
-    copies of both of them. You can even try making multiple molecules each 
-    with different charge locations. What happens with all these different 
-    cases? Remember, proteins are just very big molecules, and they have 
-    different regions that can have different charge.
+    In the simulation box below, try simulating many molecules with regions of 
+    positive and negative charge but starting with a neutral square molecule. 
+    Instructions for adding/removing charges and other useful model functions 
+    are below. Try doing negative charges along one side, and positive charges 
+    on the other, or try giving the corners one charge, and the sides the 
+    other charge. You can also try duplicating the molecule without any charge 
+    to produce two molecules, then give one molecule one charge, and the other 
+    molecule the opposite charge, then make copies of both of them. You can 
+    even try making multiple molecules each with different charge locations. 
+    What happens with all these different cases? Remember, proteins are just 
+    very big molecules, and they have different regions that can have 
+    different charge.
 
     &lt;p&gt;
       Note- there are two ways you can reset the simulation for different 
       charge compositions. You can either reset totally to the beginning by 
-      pressing &lt;imgsrc imgsrc=&quot;../Images_GIFs/reset.png&quot;&gt;, or you can use the 
-      remove tool (&lt;img src=&quot;../Images_GIFs/cut.png&quot;&gt;) to remove all but one 
-      molecule and change the charges on that one before starting again.
+      pressing the reset button, or you can use the remove tool to remove all 
+      but one molecule and change the charges on that one before starting 
+      again.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -480,20 +481,58 @@
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="56" end="57">
+<paragraph start="56" end="58">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
 <content start="56" end="57">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>250.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    &lt;ol&gt;
+      &lt;li&gt;
+        Using the add/remove charge(&lt;img src=&quot;../Images_GIFs/pos_charge_tool.png&quot;&gt;/&lt;img src=&quot;../Images_GIFs/neg_charge_tool.png&quot;&gt;) 
+        create regions of positive and negative charge within the square 
+        molecule. It may be easier to add/remove charges by first 
+        right-clicking the molecule then selecting &amp;quot;Show Sites.&amp;quot; You will want 
+        to start with +/- 0.5 and adjust the magnitudes from there.
+      &lt;/li&gt;
+      &lt;li&gt;
+        Using the duplicate tool (&lt;img src=&quot;../Images_GIFs/duplicate_tool.png&quot;&gt;), 
+        copy the charged molecule you have just created. To duplicate, click 
+        and drag.
+      &lt;/li&gt;
+      &lt;li&gt;
+        Using the move tool (&lt;img src=&quot;../Images_GIFs/move_tool.png&quot;&gt;), move 
+        the molecules around the simulation space as needed.
+      &lt;/li&gt;
+      &lt;li&gt;
+        Using the rotate tool (&lt;img src=&quot;../Images_GIFs/rotate_tool.png&quot;&gt;), 
+        rotate the molecules as needed.
+      &lt;/li&gt;
+      &lt;li&gt;
+        Press the reset button (&lt;img src=&quot;../Images_GIFs/reset.png&quot;&gt;) to start 
+        again or use the remove tool (&lt;img src=&quot;../Images_GIFs/cut.png&quot;&gt;) to 
+        delete molecules.
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="57" end="58">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="57" end="59">
+<paragraph start="58" end="59">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="57" end="58">
-<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_p3$1.mml</resource><menubar>false</menubar><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Duplicate Object</button><button>Delete Objects</button></component></content>
-
 <content start="58" end="59">
 <size>16</size><family>Times New Roman</family></content>
 
@@ -509,6 +548,24 @@
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
 <content start="60" end="61">
+<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Forces_p3$1.mml</resource><menubar>false</menubar><button>Select Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Duplicate Object</button><button>Delete Objects</button><button>Rotate Object</button></component></content>
+
+<content start="61" end="62">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="62" end="63">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="62" end="63">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="63" end="65">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="63" end="64">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -527,21 +584,21 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="61" end="62">
+<content start="64" end="65">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="62" end="63">
+<paragraph start="65" end="66">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="62" end="63">
+<content start="65" end="66">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="63" end="65">
+<paragraph start="66" end="68">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="63" end="64">
+<content start="66" end="67">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>60.0</height>
@@ -559,45 +616,45 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="64" end="65">
+<content start="67" end="68">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="65" end="66">
+<paragraph start="68" end="69">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="65" end="66">
+<content start="68" end="69">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="66" end="86">
+<paragraph start="69" end="89">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="66" end="73">
+<content start="69" end="76">
 <size>16</size><family>Times New Roman</family><href>Forces_p2.cml</href></content>
 
-<content start="73" end="74">
+<content start="76" end="77">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="74" end="77">
+<content start="77" end="80">
 <size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
 
-<content start="77" end="78">
+<content start="80" end="81">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="78" end="85">
+<content start="81" end="88">
 <size>16</size><family>Times New Roman</family><href>Temp_p1.cml</href></content>
 
-<content start="85" end="86">
+<content start="88" end="89">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="86" end="87">
-<content start="86" end="87">
+<paragraph start="89" end="90">
+<content start="89" end="90">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="87" end="88">
+<paragraph start="90" end="91">
 </paragraph>
 </section>
 </document>
