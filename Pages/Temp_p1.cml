@@ -361,7 +361,7 @@
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     The kinetic energy is the energy of a particle due to its motion. One way 
-    of defining it is by &lt;b&gt;KE = &amp;#189; m&lt;i&gt;v&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/b&gt; where m is 
+    of defining it is by &lt;b&gt;KE = &amp;#189; m&lt;i&gt;v&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/b&gt; where &lt;b&gt;&lt;i&gt;m&lt;/i&gt;&lt;/b&gt; is 
     the mass of the object and &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; is its velocity. Thus the 
     faster an object is moving, the more kinetic energy it has.
   &lt;/body&gt;
