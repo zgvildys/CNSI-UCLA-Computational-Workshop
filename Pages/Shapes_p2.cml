@@ -148,9 +148,10 @@
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      We will build open the last page bu shaping our monomers to form closed 
-      loops. We can create a closed loop by connecting a series of line 
-      segments at a fixed angle, &amp;#952;, such as in the image below.
+      We will build open the last page by controlling the shape of our 
+      monomers to form closed loops. We can create a closed loop by connecting 
+      a series of line segments at a fixed angle, &amp;#952;, such as in the image 
+      below.
     &lt;/p&gt;
     &lt;p align=&quot;center&quot;&gt;
       &lt;img src=&quot;../Images_GIFs/drawing octagon.png&quot; width=&quot;350&quot;&gt;
@@ -196,7 +197,7 @@
 <content start="30" end="31">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>150.0</height>
+<height>175.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -210,11 +211,15 @@
       &lt;/li&gt;
       &lt;li&gt;
         Using the move tool (&lt;img src=&quot;../Images_GIFs/move_tool.png&quot;&gt;), move 
-        the molecules around the simulation space as needed. model.
+        the molecules around the simulation space as needed.
       &lt;/li&gt;
       &lt;li&gt;
         Using the rotate tool (&lt;img src=&quot;../Images_GIFs/rotate_tool.png&quot;&gt;), 
         rotate the molecules as needed.
+      &lt;/li&gt;
+      &lt;li&gt;
+        Using the cut tool (&lt;img src=&quot;../Images_GIFs/cut.png&quot;&gt;), remove 
+        molecules as needed.
       &lt;/li&gt;
       &lt;li&gt;
         Press the reset button to start again.
@@ -234,7 +239,7 @@
 <Alignment>1</Alignment>
 <content start="32" end="33">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Shapes_p2$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Rotate Object</button><button>Duplicate Object</button></component></content>
+<resource>Shapes_p2$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Duplicate Object</button><button>Rotate Object</button><button>Delete Objects</button></component></content>
 
 <content start="33" end="34">
 <size>16</size><family>Times New Roman</family></content>
@@ -290,7 +295,7 @@
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    After playing around with varying amounts of T-shaped to rod-shaped 
+    After playing around with various amounts of T-shaped to rod-shaped 
     monomers and their initial configurations, what other structures do these 
     monomers form?
   &lt;/body&gt;
