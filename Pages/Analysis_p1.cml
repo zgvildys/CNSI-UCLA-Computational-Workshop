@@ -81,8 +81,8 @@
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; 
-    temperature correlates with the average velocity of nanoscale particles.&lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; Testing 
+    knowledge of general self assembly.&lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -129,7 +129,7 @@
 <content start="27" end="28">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>140.0</height>
+<height>150.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -171,7 +171,7 @@
 <content start="30" end="31">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>120.0</height>
+<height>130.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -191,7 +191,7 @@
     &lt;/p&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       When finished, place a snapshot of your structure the boxes below the 
-      simulation box.
+      simulation box. Each simulation should take 30sec - 1min to assemble.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -234,7 +234,8 @@
         and &lt;img src=&quot;../Images_GIFs/neg_charge_tool.png&quot;&gt;), add charges 
         around the edges of the molecules. (Tip: If the charges will be the 
         same for a shape. Sometimes it is easier to add the charges before 
-        copying them outside their box)
+        copying them outside their box) Also, you can double click the charge 
+        icons so that they add charge in increments of 0.5 instead of 0.1.
       &lt;/li&gt;
       &lt;li&gt;
         Using the duplicate tool (&lt;img src=&quot;../Images_GIFs/duplicate_tool.png&quot;&gt;), 

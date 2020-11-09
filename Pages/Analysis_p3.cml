@@ -15,6 +15,8 @@
  
 
                       
+ 
+ 
 
  
 
@@ -25,7 +27,7 @@
 &lt;- Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="85">
+<section start="0" end="89">
 <paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <content start="0" end="1">
@@ -128,7 +130,7 @@
 <content start="27" end="28">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>280.0</height>
+<height>320.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;Instructions&lt;/title&gt;
@@ -155,7 +157,10 @@
       assembled. A diagram done with different monomers is shown below. Once 
       you know the angle, you can determine how many corners you need to 
       completely close the shell and can calculate how many of each you may 
-      need to assemble. Once you have assembled your vlp, take a snapshot and 
+      need to assemble. Since these are flexible objects that don&apos;t have an 
+      exact static shape, there may be some variation in the shape, and that 
+      is okay! Some real viruses, like COVID-19, can adopt many different 
+      sizes and shapes. Once you have assembled your vlp, take a snapshot and 
       place it in the snapshot box below the simulation box and answer the 
       question(s) at the bottom of the page.
     &lt;/p&gt;
@@ -192,7 +197,7 @@
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<bgcolor>-1</bgcolor>
+<opaque>false</opaque>
 </component></content>
 
 <content start="31" end="51">
@@ -215,56 +220,112 @@
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="53" end="54">
+<paragraph start="53" end="55">
 <Alignment>1</Alignment>
 <content start="53" end="54">
-<size>16</size><family>Times New Roman</family></content>
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>150.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Instructions&lt;/title&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    &lt;p style=&quot;margin-top: 5&quot;&gt;
+      Once you have determined roughly the number of each of the subunits, 
+      then you will need to place the charges on assembly units. Below are 
+      three charge configurations to try out. Think about what interactions 
+      are important for the capsid to assemble around the cargo. The icons in 
+      the simulation box are similar to the ones you have used in previous 
+      pages. To get a robust assembly, &lt;u&gt;make the charge magnitudes around 
+      +/- 0.5 to +/- 1&lt;/u&gt;. The assembly should take around 1-4 minutes. If 
+      the structure has not assembled by then, and looks like it is moving 
+      away from assembling, restart the simulation.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
 
-</paragraph>
-<paragraph start="54" end="56">
-<Alignment>1</Alignment>
 <content start="54" end="55">
-<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Analysis_p3$0.mml</resource><menubar>false</menubar><border>none</border><button>Select Object</button><button>Duplicate Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button></component></content>
-
-<content start="55" end="56">
-<size>16</size><family>Times New Roman</family></content>
+</content>
 
 </paragraph>
-<paragraph start="56" end="57">
+<paragraph start="55" end="57">
 <Alignment>1</Alignment>
+<content start="55" end="56">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>250.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Instructions&lt;/title&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    &lt;img src=&quot;../Images_GIFs/charge_configurations.png&quot; width=&quot;790&quot;&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
 <content start="56" end="57">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="57" end="59">
+<paragraph start="57" end="58">
 <Alignment>1</Alignment>
 <content start="57" end="58">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="58" end="60">
+<Alignment>1</Alignment>
+<content start="58" end="59">
+<size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>Analysis_p3$0.mml</resource><menubar>false</menubar><border>none</border><button>Select Object</button><button>Duplicate Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button></component></content>
+
+<content start="59" end="60">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="60" end="61">
+<Alignment>1</Alignment>
+<content start="60" end="61">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="61" end="63">
+<Alignment>1</Alignment>
+<content start="61" end="62">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
-    Place snapshot of assembled vlp here.
+    Place snapshot of assembled structure here.
   &lt;/body&gt;
 &lt;/html&gt;
 </title><opaque>false</opaque>
 <border>Line</border>
 </component></content>
 
-<content start="58" end="59">
+<content start="62" end="63">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="59" end="60">
+<paragraph start="63" end="64">
 <Alignment>1</Alignment>
-<content start="59" end="60">
+<content start="63" end="64">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="60" end="62">
+<paragraph start="64" end="66">
 <Alignment>1</Alignment>
-<content start="60" end="61">
+<content start="64" end="65">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>600</width>
 <height>400</height>
@@ -274,48 +335,50 @@
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     What role do the T-shaped structures play in the capsid and without them, 
-    do you think the capsid would assemble around the cargo?
+    do you think the capsid would assemble around the cargo? Which charge 
+    configuration worked best for assembly? Why do you think that charge 
+    configuration worked best?
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
-<description>The T-shaped structures act as points of curvature for the capsid. Without them, the capsid would not assemble as the other monomer unit would prefer to pack in a rectangular lattice.</description>
+<description>The T-shaped structures act as points of curvature for the capsid. Without them, the capsid would not assemble as the other monomer unit would prefer to pack in a rectangular lattice. The 3rd charge configuration should have worked best. This configuration gives attractive interactions between the capsid units and has attractive interaction between the T shaped monomers and the cargo. Just like in real viruses, the lateral interactions between proteins and the interactions between protein and cargo are important for assembly!</description>
 <opaque>false</opaque>
 </component></content>
 
-<content start="61" end="62">
+<content start="65" end="66">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="62" end="63">
+<paragraph start="66" end="67">
 <Alignment>1</Alignment>
-<content start="62" end="63">
+<content start="66" end="67">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="63" end="83">
+<paragraph start="67" end="87">
 <Alignment>1</Alignment>
-<content start="63" end="70">
+<content start="67" end="74">
 <size>16</size><family>Times New Roman</family><href>Analysis_p2.cml</href></content>
-
-<content start="70" end="71">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="71" end="74">
-<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
 
 <content start="74" end="75">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="75" end="83">
+<content start="75" end="78">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="78" end="79">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="79" end="87">
 <size>16</size><family>Times New Roman</family><href>Analysis_p4.cml</href></content>
 
 </paragraph>
-<paragraph start="83" end="84">
-<content start="83" end="84">
+<paragraph start="87" end="88">
+<content start="87" end="88">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="84" end="85">
+<paragraph start="88" end="89">
 </paragraph>
 </section>
 </document>

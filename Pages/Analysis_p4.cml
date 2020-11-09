@@ -89,7 +89,8 @@
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt; 
+    Connecting geometry and physics with viral self-assembly.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -212,7 +213,7 @@
 <content start="25" end="26">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>60.0</height>
+<height>110.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -221,7 +222,10 @@
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       Investigate your answer above by trying to assemble around the circle 
       below. When you are finished, place a snapshot of your assembled capsid 
-      below the simulation box and answer the questions below.
+      below the simulation box and answer the questions below. The charge 
+      configuration that worked on the previous page should be the same you 
+      use on this page. The simulations may take a little longer since the 
+      system is bigger.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
