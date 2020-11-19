@@ -228,20 +228,19 @@
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;ol&gt;
       &lt;li&gt;
-        Choose one of the three structures above.
+        Choose one of the three structures to the right.
       &lt;/li&gt;
       &lt;li&gt;
         Using the move tool (&lt;img src=&quot;../Images_GIFs/move_tool.png&quot;&gt;), drag 
-        the molecules you&apos;ll need out of their boxes on the left side of the 
-        model.
+        the molecules you&apos;ll need out of their boxes and into the larger simulation space.
       &lt;/li&gt;
       &lt;li&gt;
         Using the charge tools (&lt;img src=&quot;../Images_GIFs/pos_charge_tool.png&quot;&gt; 
         and &lt;img src=&quot;../Images_GIFs/neg_charge_tool.png&quot;&gt;), add charges 
         around the edges of the molecules. (Tip: If the charges will be the 
         same for a shape. Sometimes it is easier to add the charges before 
-        copying them outside their box) Also, you can double click the charge 
-        icons so that they add charge in increments of 0.5 instead of 0.1.
+        duplicating them. Also, you can double click the charge 
+        icons so that they add charge in increments of 0.5 instead of 0.1.)
       &lt;/li&gt;
       &lt;li&gt;
         Using the duplicate tool (&lt;img src=&quot;../Images_GIFs/duplicate_tool.png&quot;&gt;), 
