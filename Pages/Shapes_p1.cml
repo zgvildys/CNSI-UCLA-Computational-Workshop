@@ -149,7 +149,7 @@
     &lt;p&gt;
       To see how monomer shape affects packing, answer the questions below. 
       You will be asked to count the number of neighbors. Neighboring monomers 
-      are ones that touch and in this case we will include monomoers that 
+      are ones that touch and in this case we will include monomers that 
       share an edge or corner.
     &lt;/p&gt;
   &lt;/body&gt;
