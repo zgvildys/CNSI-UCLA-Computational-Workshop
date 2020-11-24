@@ -151,7 +151,7 @@
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      We will build open the last page by controlling the shape of our 
+      We will build upon the last page by controlling the shape of our 
       monomers to form closed loops. We can create a closed loop by connecting 
       a series of line segments at a fixed angle, &amp;#952;, such as in the image 
       below.
