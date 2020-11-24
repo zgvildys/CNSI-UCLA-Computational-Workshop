@@ -112,7 +112,8 @@ Introduction of the T Number
   &lt;/head&gt;
   &lt;body&gt;
     &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; How to 
-    characterize spherical virus symmetry. &lt;/font&gt;
+    characterize symmetry in spherical viruses. Introduction of the T number 
+    and icosahedral symmetry. &lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -200,11 +201,13 @@ Introduction of the T Number
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    Symmetry is ubiquitous in nature. In mathematical terms, an object is symmetric if its structure does not change ( 
-    invariant) under certain motions (operations). For example, in the image of 
-    the star below, rotating the star by 72 degrees gives the same shape that we started with. If we
-    perform the same rotation 5 times, then we come back to the original orientation. We refer to this
-    rotational symmetry as 5-fold symmetric. Symmetry shows up in nature because symmetry often corresponds to low 
+    Symmetry is ubiquitous in nature. In mathematical terms, an object is 
+    symmetric if its structure does not change ( invariant) under certain 
+    motions (operations). For example, in the image of the star below, 
+    rotating the star by 72 degrees gives the same shape that we started with. 
+    If we perform the same rotation 5 times, then we come back to the original 
+    orientation. We refer to this rotational symmetry as 5-fold symmetric. 
+    Symmetry shows up in nature because symmetry often corresponds to low 
     energy structures. In other words, it is easier to make something 
     symmetric than it is to make something asymmetric. The more operations we 
     can perform and leave the structure invariant, the higher the symmetry of 
@@ -281,15 +284,16 @@ Introduction of the T Number
       There are multiple symmetries found in viruses such as helical, 
       icosahedral and prolate. For example, helical symmetry is seen in 
       Coronaviruses like COVID-19 in the ordering of the nucleic acid-protein 
-      complex inside the capsid. Icosahedral symmetry, like the one found in the rotating virus
-      at the top of the section, is one of the highest possible symmetries. An 
-      icosahedron has 20 triangular faces (and thus 20 3-fold vertices), 12 
-      pentagonal faces (12 5-fold vertices) and 2-fold vertices along the 
-      edges. So there are many different operations you can perform that leave the icosahedron 
-      invariant. The 5- and 6- fold vertices of a viral capsid are shown below in red and 
-      blue, respectively. As you can see, there are pentagons and hexagons that 
-      form on the surface and they represent the different symmetry axes of 
-      the icosahedron.
+      complex inside the capsid. Icosahedral symmetry, like the one found in 
+      the rotating virus at the top of the section, is one of the highest 
+      possible symmetries. An icosahedron has 20 triangular faces (and thus 20 
+      3-fold vertices), 12 pentagonal faces (12 5-fold vertices) and 2-fold 
+      vertices along the edges. So there are many different operations you can 
+      perform that leave the icosahedron invariant. The 5- and 6- fold 
+      vertices of a viral capsid are shown below in red and blue, 
+      respectively. As you can see, there are pentagons and hexagons that form 
+      on the surface and they represent the different symmetry axes of the 
+      icosahedron.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -427,18 +431,19 @@ Introduction of the T Number
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       Earlier, we mentioned that the coat protein is often an irregularily 
       shaped object. Shown above on the right is a picture of a capsid protein 
-      for cowpea chlorotic mottle virus (CCMV). On the left is a reconstruction of the full virus particle. 
-      Notice that the individual capsid protein is not symmetric. So then 
-      how can irregularly shaped objects come together to form such high 
-      symmetry particles? Work done by Watson and Crick, the same scientists 
-      who helped undercover the helical nature of DNA, found that all round 
-      (icosahedral capsids) viruses had multiples of 60 of the coat protein. 
-      That is they had 60, 120, 180, etc. identical subunits in the virus. 
-      Experiments also observed that though the round viruses came in many 
-      different sizes, the size of the monomeric coat proteins for the 
-      different viruses were roughly the same. In the early 1960s, scientists 
-      Caspar and Klug forumlated the number and arrangement of monomers could 
-      be in an icosahedral shell called the &amp;quot;quasi-equivalence&amp;quot; principle.
+      for cowpea chlorotic mottle virus (CCMV). On the left is a 
+      reconstruction of the full virus particle. Notice that the individual 
+      capsid protein is not symmetric. So then how can irregularly shaped 
+      objects come together to form such high symmetry particles? Work done by 
+      Watson and Crick, the same scientists who helped undercover the helical 
+      nature of DNA, found that all round (icosahedral capsids) viruses had 
+      multiples of 60 of the coat protein. That is they had 60, 120, 180, etc. 
+      identical subunits in the virus. Experiments also observed that though 
+      the round viruses came in many different sizes, the size of the 
+      monomeric coat proteins for the different viruses were roughly the same. 
+      In the early 1960s, scientists Caspar and Klug forumlated the number and 
+      arrangement of monomers could be in an icosahedral shell called the 
+      &amp;quot;quasi-equivalence&amp;quot; principle.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -464,14 +469,16 @@ Introduction of the T Number
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       The identical monomers (or subunits) combine in three inequivalent 
       positions (represented on the figure below as the number 6 inside the 
-      triangular faces) to form pentamers and hexamers. If six triangles are arranged to share
-      a common vertex then you would form a hexamer. Those six triangles, or hexameric 
-      arrangement of triangles, could be duplicated to fill a sheet. Icosahedrons could not
-      be formed using only hexamers because they cannot form a closed shell. To make a closed
-      shell, defects, or irregularities in the sheet of hexamers, are needed. To form the 
-      highly symmetric icosahedron, twelve defects are needed and they are created by
-      removing a triangle from a hexamer and then bending it to form a pentamer. These pentagonal
-      defects add curvature to the structure and allow the shell to close.
+      triangular faces) to form pentamers and hexamers. If six triangles are 
+      arranged to share a common vertex then you would form a hexamer. Those 
+      six triangles, or hexameric arrangement of triangles, could be 
+      duplicated to fill a sheet. Icosahedrons could not be formed using only 
+      hexamers because they cannot form a closed shell. To make a closed 
+      shell, defects, or irregularities in the sheet of hexamers, are needed. 
+      To form the highly symmetric icosahedron, twelve defects are needed and 
+      they are created by removing a triangle from a hexamer and then bending 
+      it to form a pentamer. These pentagonal defects add curvature to the 
+      structure and allow the shell to close.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -519,8 +526,8 @@ Introduction of the T Number
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      The spacing between these defects gives rise T structures. 
-      The &amp;quot;T&amp;quot; stands for triangulation number, and T structures describe 
+      The spacing between these defects gives rise T structures. The &amp;quot;T&amp;quot; 
+      stands for triangulation number, and T structures describe 
       quasi-equivalent icosahedrons. These structures can be described by two 
       indices, h and k, such that starting from the edge of a pentamer taking 
       h steps and turning 60 degrees counterclockwise and taking k steps to 
@@ -634,8 +641,8 @@ Introduction of the T Number
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       The triangulation number, which represents these quasi-equivalent 
-      icosahedral structures, is related to the number of a steps (h) 
-      and the number of b steps (k) by the following equation.
+      icosahedral structures, is related to the number of a steps (h) and the 
+      number of b steps (k) by the following equation.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -790,11 +797,12 @@ Introduction of the T Number
   &lt;body&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       &lt;font size=&quot;4&quot; face=&quot;Verdana&quot;&gt;So what does the T number tell us about 
-      icosahedral viruses? It tells us that icosahedral viruses have evolved a highly efficient method 
-      of assembly. These viruses, such as CCMV, only need to code for one capsid protein! This also explains why 
-      different viruses like Panicum mosaic satellite virus (SPMV) and 
-      Rotavirus can vary so greatly in size (17nm to 70nm) and genome (ssRNA 
-      to dsDNA), yet have the same structure!&lt;/font&gt;
+      icosahedral viruses? It tells us that icosahedral viruses have evolved a 
+      highly efficient method of assembly. These viruses, such as CCMV, only 
+      need to code for one capsid protein! This also explains why different 
+      viruses like Panicum mosaic satellite virus (SPMV) and Rotavirus can 
+      vary so greatly in size (17nm to 70nm) and genome (ssRNA to dsDNA), yet 
+      have the same structure!&lt;/font&gt;
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;

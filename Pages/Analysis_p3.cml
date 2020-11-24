@@ -24,10 +24,19 @@
 
  
 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
 &lt;- Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="91">
+<section start="0" end="105">
 <paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <content start="0" end="1">
@@ -83,7 +92,9 @@
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; &lt;/font&gt;
+    &lt;font size=&quot;5&quot; face=&quot;Constantia&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Key Concept:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; &lt;/font&gt;Connecting 
+    geometry to functionallity of viral capsid and the importance of setting 
+    up simulations appropriately(initial conditions).
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -136,7 +147,7 @@
 <content start="29" end="30">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>320.0</height>
+<height>340.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;Instructions&lt;/title&gt;
@@ -148,15 +159,17 @@
       particle (vlp). You are given two subunits in the left side of the 
       simulation box and a circular object with negative charges in the center 
       of the box. The circular object represents the cargo (or genome) inside 
-      the protein shell, which is made up of the subunits on the left. The 
-      components of the protein shell are currently uncharged and it is up to 
-      you to place the charges and correct number of each subunit to assemble 
-      around the shell. To determine the number of subunits to place, 
-      calculate the angle formed by the assembly of the two subunits on the 
-      left when they form two edges and a vertex. Remember to assemble around 
-      the capsid, you will need both interactions between the subunits and the 
-      cargo and interactions between the subunits. It may take some time to 
-      find the best combination of these interactions.
+      the protein shell (or capsid), which is made up of the subunits on the 
+      left. The components of the protein shell are currently uncharged and it 
+      is up to you to place the charges and correct number of each subunit to 
+      assemble around the shell. We want a complete capsid, meaning there are 
+      no holes or large gaps between the capsid subunits. To determine the 
+      number of subunits to place, calculate the angle formed by the assembly 
+      of the two subunits on the left when they form two edges and a vertex. 
+      Remember to assemble around the capsid, you will need both interactions 
+      between the subunits and the cargo and interactions between the 
+      subunits. It may take some time to find the best combination of these 
+      interactions.
     &lt;/p&gt;
     &lt;p style=&quot;margin-top: 5&quot;&gt;
       You can calculate the angle by taking a snapshot of the peices 
@@ -231,7 +244,7 @@
 <content start="55" end="56">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>150.0</height>
+<height>210.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;Instructions&lt;/title&gt;
@@ -245,9 +258,14 @@
       are important for the capsid to assemble around the cargo. The icons in 
       the simulation box are similar to the ones you have used in previous 
       pages. To get a robust assembly, &lt;u&gt;make the charge magnitudes around 
-      +/- 0.5 to +/- 1&lt;/u&gt;. The assembly should take around 1-4 minutes. If 
-      the structure has not assembled by then, and looks like it is moving 
-      away from assembling, restart the simulation.
+      +/- 0.5 to +/- 1&lt;/u&gt;. The assembly should take around 30 seconds to 1 
+      one minute. If the structure has not assembled by then, and looks like 
+      it is moving away from assembling, restart the simulation. The magnitude 
+      in the charges below are 0.7 on the tips of the T-shaped monomers, 1.2 
+      on the rectangular monomers and 1 on the grooves of the T-shaped 
+      monomers.&lt;b&gt; For the sake of time, only give assembly three attempts&lt;/b&gt;. 
+      Take a snapshot after each attempt and then submit your best attempt to 
+      the first snapshot submission box below the simulation box.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -271,7 +289,7 @@
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    &lt;img src=&quot;../Images_GIFs/charge_configurations.png&quot; width=&quot;790&quot;&gt;
+    &lt;img src=&quot;../Images_GIFs/charge_configurations_2.png&quot; width=&quot;790&quot; height=&quot;225&quot;&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -307,6 +325,160 @@
 <paragraph start="63" end="65">
 <Alignment>1</Alignment>
 <content start="63" end="64">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>Reset</title>
+<border>None</border>
+<script>script:mw2d:1:load ../models/cargo_no_charges.mml; </script>
+<action>Script</action></component></content>
+
+<content start="64" end="65">
+</content>
+
+</paragraph>
+<paragraph start="65" end="66">
+<Alignment>1</Alignment>
+<content start="65" end="66">
+</content>
+
+</paragraph>
+<paragraph start="66" end="68">
+<Alignment>1</Alignment>
+<content start="66" end="67">
+<component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Place snapshot of best attempt here.
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+<border>Line</border>
+</component></content>
+
+<content start="67" end="68">
+</content>
+
+</paragraph>
+<paragraph start="68" end="69">
+<Alignment>1</Alignment>
+<content start="68" end="69">
+</content>
+
+</paragraph>
+<paragraph start="69" end="71">
+<Alignment>1</Alignment>
+<content start="69" end="70">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>55.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p align=&quot;center&quot; style=&quot;margin-top: 0&quot;&gt;
+      &lt;b&gt;&lt;font size=&quot;6&quot;&gt;Initial Conditions&lt;/font&gt;&lt;/b&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="70" end="71">
+</content>
+
+</paragraph>
+<paragraph start="71" end="73">
+<Alignment>1</Alignment>
+<content start="71" end="72">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>450.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    &lt;p style=&quot;margin-top: 5&quot;&gt;
+      
+    &lt;/p&gt;
+    &lt;title&gt;Initial Conditions&lt;/title&gt;
+    Above you submitted your best attempt at assembling a viral capsid. I 
+    would guess that in the three attempts, a complete capsid did not form. 
+    The correct charge conformation, number 3, does assemble into capsids. So 
+    then what could be the reason that a complete capsid did not form?
+
+    &lt;p style=&quot;margin-top: 5&quot;&gt;
+      The reason your capsid may not have formed is because the initial 
+      conditions, or starting points of the simulations, are &amp;quot;far&amp;quot; enough from 
+      the point of assembly. Essentially, the time it would take to wait for 
+      the assembly from that starting point is longer than what we can observe 
+      in simulation. One challenging thing to reconsile as a computational 
+      scientist is the timescale (or how long they take) on which simulations 
+      occur, and the timescale on which the processes they are modelling 
+      happen in reality. This is an especially large challenge when trying to 
+      model biological systems like viruses where the interesting motions 
+      happen on the atomistic length scale, but on millisecond to second 
+      timescale. In simulation, we define an increment of time in which we 
+      move the forward one step at a time. This timestep, depending on the 
+      type of simulation, is often very small, which makes simulating things 
+      on timescales of biological processes take extremely long. A simulation 
+      of a small biological like ubiquitin, with twenty thousand atoms, for 
+      one millisecond can take months to finish. So how does this relate to 
+      how we start our simulations? Most often, computational sceintists will 
+      set up their simulations as close as they can to where interesting 
+      things can happen, or else they may never observe the phenomena. So in 
+      the simulation your performed above, you may have not considered &amp;quot;what 
+      arrangement of monomers should I use to have the best chance of 
+      assembly?&amp;quot;, but this is often a question computational scientists 
+      consider.
+    &lt;/p&gt;
+    &lt;p style=&quot;margin-top: 5&quot;&gt;
+      The button below labeled &amp;quot;Load Initial Conditions&amp;quot; initiates a starting 
+      configuration which will assembly into a complete capsid. Click it and 
+      run the simulation box. Take a snapshot of your formed capsid, submit it 
+      below and then continue with the page.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="72" end="73">
+</content>
+
+</paragraph>
+<paragraph start="73" end="74">
+<Alignment>1</Alignment>
+<content start="73" end="74">
+</content>
+
+</paragraph>
+<paragraph start="74" end="76">
+<Alignment>1</Alignment>
+<content start="74" end="75">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>Load Initial Conditions</title>
+<border>None</border>
+<script>script:mw2d:1:load ../models/cargo.mml; </script>
+<action>Script</action></component></content>
+
+<content start="75" end="76">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="76" end="77">
+<Alignment>1</Alignment>
+<content start="76" end="77">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="77" end="79">
+<Alignment>1</Alignment>
+<content start="77" end="78">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -319,21 +491,21 @@
 <border>Line</border>
 </component></content>
 
-<content start="64" end="65">
+<content start="78" end="79">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="65" end="66">
+<paragraph start="79" end="80">
 <Alignment>1</Alignment>
-<content start="65" end="66">
+<content start="79" end="80">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="66" end="68">
+<paragraph start="80" end="82">
 <Alignment>1</Alignment>
-<content start="66" end="67">
+<content start="80" end="81">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
-<width>600</width>
+<width>800</width>
 <height>400</height>
 <title>&lt;html&gt;
   &lt;head&gt;
@@ -351,40 +523,40 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="67" end="68">
+<content start="81" end="82">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="68" end="69">
+<paragraph start="82" end="83">
 <Alignment>1</Alignment>
-<content start="68" end="69">
+<content start="82" end="83">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="69" end="89">
+<paragraph start="83" end="103">
 <Alignment>1</Alignment>
-<content start="69" end="76">
+<content start="83" end="90">
 <size>16</size><family>Times New Roman</family><href>Analysis_p2.cml</href></content>
 
-<content start="76" end="77">
+<content start="90" end="91">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="77" end="80">
+<content start="91" end="94">
 <size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
 
-<content start="80" end="81">
+<content start="94" end="95">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="81" end="89">
+<content start="95" end="103">
 <size>16</size><family>Times New Roman</family><href>Analysis_p4.cml</href></content>
 
 </paragraph>
-<paragraph start="89" end="90">
-<content start="89" end="90">
+<paragraph start="103" end="104">
+<content start="103" end="104">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="90" end="91">
+<paragraph start="104" end="105">
 </paragraph>
 </section>
 </document>

@@ -19,12 +19,12 @@ What is a virus?
 How do viruses put themselves together?
  
 
- 
+
 
 Next
 
 </text>
-<section start="0" end="95">
+<section start="0" end="94">
 <paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <content start="0" end="1">
@@ -244,52 +244,33 @@ Next
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="85" end="87">
+<paragraph start="85" end="86">
 <Alignment>1</Alignment>
 <content start="85" end="86">
-<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
-<width>800.0</width>
-<height>120.0</height>
-<title>&lt;html&gt;
-  &lt;head&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;font size=&quot;6&quot;&gt;Viruses require a host. Their main goal is to get inside a 
-    host and then make more of themselves. How do they make such nice 
-    structures consistently?( bacteria full of viruses image) Let&apos;s go on an 
-    adventure!!!!!!!!!!!!!!!!!!!!!!!&lt;/font&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</title>
-<opaque>false</opaque>
-</component></content>
+<size>16</size><family>Times New Roman</family></content>
 
+</paragraph>
+<paragraph start="86" end="87">
+<Alignment>1</Alignment>
 <content start="86" end="87">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="87" end="88">
+<paragraph start="87" end="92">
 <Alignment>1</Alignment>
-<content start="87" end="88">
+<content start="87" end="91">
+<size>16</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
+
+<content start="91" end="92">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="88" end="93">
-<Alignment>1</Alignment>
-<content start="88" end="92">
-<size>16</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
-
+<paragraph start="92" end="93">
 <content start="92" end="93">
-<size>16</size><family>Times New Roman</family></content>
+<size>16</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
 
 </paragraph>
 <paragraph start="93" end="94">
-<content start="93" end="94">
-<size>16</size><family>Times New Roman</family><href>../Pages/Forces_P1.cml</href></content>
-
-</paragraph>
-<paragraph start="94" end="95">
 </paragraph>
 </section>
 </document>
