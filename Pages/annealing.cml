@@ -181,7 +181,7 @@
 <content start="31" end="32">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>100.0</height>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
