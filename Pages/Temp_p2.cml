@@ -26,10 +26,16 @@
 
  
 
+ 
+
+ 
+
+ 
+
 &lt;-Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="70">
+<section start="0" end="79">
 <paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <content start="0" end="1">
@@ -124,10 +130,7 @@
 <content start="18" end="25">
 <size>16</size><family>Times New Roman</family><href>annealing.cml</href></content>
 
-<content start="25" end="26">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="26" end="27">
+<content start="25" end="27">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
@@ -142,17 +145,24 @@
 <content start="28" end="29">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>100.0</height>
+<height>140.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     The assembly of viral capsids from their proteins requires the correct 
-    temperature. Answer the following questions using the simulation box 
-    below. Run your simulations for 200 ns to give the proteins enough time to 
-    interact. The simulation time is found at the bottom left of the 
-    simulation box. Between changing temperature, use the reset button (&lt;img src=&quot;../Images_GIFs/reset.png&quot;&gt;).
+    temperature. Answer the following questions using the simulation box below 
+    and provide a screenshot of the final state in your simulation. Run your 
+    simulations for 40000 fs to give the proteins enough time to interact. The 
+    simulation time is found at the bottom left of the simulation box. Between 
+    changing temperature, use the reset button (&lt;img src=&quot;../Images_GIFs/reset.png&quot;&gt;).
+
+    &lt;p&gt;
+      To take a screenshot, right-click on the model box and select &lt;img src=&quot;../Images_GIFs/snapshot.png&quot;&gt;. 
+      Then go to the boxes below, click &amp;quot;open&amp;quot;, and select the screenshot you 
+      want.
+    &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -246,20 +256,15 @@
 <paragraph start="40" end="42">
 <Alignment>1</Alignment>
 <content start="40" end="41">
-<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextArea</class>
-<width>800</width>
-<height>100</height>
-<title>&lt;html&gt;
+<component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
   &lt;/head&gt;
-  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    How do the particles interact when you set the temperature to &lt;b&gt;5 &amp;#176;C&lt;/b&gt;? 
-    What do they form?
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    &lt;b&gt;85 &amp;#176;C&lt;/b&gt; result
   &lt;/body&gt;
 &lt;/html&gt;
-</title>
-<opaque>false</opaque>
+</title><opaque>false</opaque>
 </component></content>
 
 <content start="41" end="42">
@@ -283,7 +288,7 @@
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    How do the particles interact when you set the temperature to &lt;b&gt;25 &amp;#176;C&lt;/b&gt;? 
+    How do the particles interact when you set the temperature to &lt;b&gt;5 &amp;#176;C&lt;/b&gt;? 
     What do they form?
   &lt;/body&gt;
 &lt;/html&gt;
@@ -304,6 +309,83 @@
 <paragraph start="46" end="48">
 <Alignment>1</Alignment>
 <content start="46" end="47">
+<component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    &lt;b&gt;5 &amp;#176;C&lt;/b&gt; result
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+</component></content>
+
+<content start="47" end="48">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="48" end="49">
+<Alignment>1</Alignment>
+<content start="48" end="49">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="49" end="51">
+<Alignment>1</Alignment>
+<content start="49" end="50">
+<size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextArea</class>
+<width>800</width>
+<height>100</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    How do the particles interact when you set the temperature to &lt;b&gt;25 &amp;#176;C&lt;/b&gt;? 
+    What do they form?
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="50" end="51">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="51" end="52">
+<Alignment>1</Alignment>
+<content start="51" end="52">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="52" end="54">
+<Alignment>1</Alignment>
+<content start="52" end="53">
+<component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    &lt;b&gt;25 &amp;#176;C&lt;/b&gt; result
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+</component></content>
+
+<content start="53" end="54">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="54" end="55">
+<Alignment>1</Alignment>
+<content start="54" end="55">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="55" end="57">
+<Alignment>1</Alignment>
+<content start="55" end="56">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>100.0</height>
@@ -325,43 +407,43 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="47" end="48">
+<content start="56" end="57">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="48" end="49">
+<paragraph start="57" end="58">
 <Alignment>1</Alignment>
-<content start="48" end="49">
+<content start="57" end="58">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="49" end="68">
+<paragraph start="58" end="77">
 <Alignment>1</Alignment>
-<content start="49" end="55">
+<content start="58" end="64">
 <size>16</size><family>Times New Roman</family><href>Temp_p1.cml</href></content>
 
-<content start="55" end="56">
+<content start="64" end="65">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="56" end="59">
+<content start="65" end="68">
 <size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
 
-<content start="59" end="60">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="60" end="67">
-<size>16</size><family>Times New Roman</family><href>annealing.cml</href></content>
-
-<content start="67" end="68">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="68" end="69">
 <content start="68" end="69">
 <size>16</size><family>Times New Roman</family></content>
 
+<content start="69" end="76">
+<size>16</size><family>Times New Roman</family><href>annealing.cml</href></content>
+
+<content start="76" end="77">
+<size>16</size><family>Times New Roman</family></content>
+
 </paragraph>
-<paragraph start="69" end="70">
+<paragraph start="77" end="78">
+<content start="77" end="78">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="78" end="79">
 </paragraph>
 </section>
 </document>
