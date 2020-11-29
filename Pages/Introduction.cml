@@ -156,10 +156,9 @@ Next
     suitable host. Viruses do not grow or replicate. Rather, they are 
     replicated by the host cell that they infect. In this sense, a virus is 
     just an assembly of protein and nucleic acid molecules that is 
-    repetitively reproduced by the molecular machinery of host cells. Most 
-    viral capsids demonstrate helical or icosahedral symmetry and many 
-    single-stranded genomes are spontaneously packaged by capsid protein to 
-    form perfectly identical, high-symmetry virus particles in the complex 
+    repetitively reproduced by the molecular machinery of host cells. Many 
+    single-stranded RNA (ssRNA) genomes are spontaneously packaged by capsid 
+    protein to form identical, high-symmetry virus particles in the complex 
     cellular milieu.&lt;/font&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -208,25 +207,25 @@ Next
       &lt;font size=&quot;6&quot;&gt;In the macroscopic world, we build with our hands or 
       tools (hammer, screwdriver, etc.) and hold them together with adhesives 
       (nails, screws, etc.). In the nano-scale world, there are no hands or 
-      tools to build these small structures. Thus, most viruses must 
-      spontaneously self-assemble. In thermodynamics, a spontaneous process is 
-      one that increases the entropy of the universe by releasing free energy 
-      and moving to a lower energy state (more stable). In the context of 
-      viruses, it means the assembly of the capsids does not require any 
-      external energy to be built. The capsid proteins that make up the 
-      protein shell will often bind to each other and also to the genome to 
-      form small shapes (pentamers and hexamers), which then become the 
-      building blocks of the higher order structures of the capsid shell. The 
-      &amp;#8220;bonds&amp;#8221; between the proteins are non-covalent and thus reversible. This 
-      means that the capsid shell is metastable (temporarily stable). This is 
-      important for the &amp;#8220;life cycle&amp;#8221; of the virus as it needs to not only 
-      store and protect its genome, but also release its genome into the host 
-      cell. In this computational workshop, you will explore the parameters 
-      that are key to spontaneous self-assembly. Throughout this workshop you 
-      will: explore Brownian motion for particles of various sizes, control 
-      the motion of particles with intermolecular forces (charge), understand 
-      the effects of temperature on assembly, and use particle shape and 
-      intermolecular forces to design your own assemblies&lt;/font&gt;.
+      tools to build these small structures. Thus, most ssRNA viruses must 
+      spontaneously self-assemble. According to the theory of thermodynamics, 
+      a spontaneous process is one that increases the entropy of the universe 
+      by releasing free energy and moving to a lower energy state (more 
+      stable). In the context of viruses, it means the assembly of the capsids 
+      does not require any external energy to be built. The capsid proteins 
+      that make up the protein shell will often bind to each other and also to 
+      the genome to form small shapes (pentamers and hexamers), which then 
+      become the building blocks of the higher order structures of the capsid 
+      shell. The &amp;#8220;bonds&amp;#8221; between the proteins are non-covalent and thus 
+      reversible. This means that the capsid shell is metastable (temporarily 
+      stable). This is important for the &amp;#8220;life cycle&amp;#8221; of the virus as it needs 
+      to not only store and protect its genome, but also release its genome 
+      into the host cell. In this computational workshop, you will explore the 
+      parameters that are key to spontaneous self-assembly. Throughout this 
+      workshop you will: explore Brownian motion for particles of various 
+      sizes, control the motion of particles with intermolecular forces 
+      (charge), understand the effects of temperature on assembly, and use 
+      particle shape and intermolecular forces to design your own assemblies&lt;/font&gt;.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
