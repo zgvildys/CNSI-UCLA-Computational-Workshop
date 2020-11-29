@@ -144,8 +144,8 @@
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       Throughout the lab, you have learned about what principles govern the 
       motions and assembly nanoscale objects. We will now think about how we 
-      can use these ideas to design materials that behave in a specific 
-      way and understand how nanoscale objects in nature behave using a 
+      can use these ideas to design materials that behave in a specific way 
+      and understand how nanoscale objects in nature behave using a 
       &amp;quot;computational microscope&amp;quot;!
     &lt;/p&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
@@ -177,7 +177,7 @@
 <content start="32" end="33">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>130.0</height>
+<height>180.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -187,7 +187,11 @@
       Using the monomers below, assemble the following structures.
     &lt;/p&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
-      1. Assemble a ring structure.
+      1. Assemble a ring structure. Hint: You can refer to annealing page to 
+      see where you can place charges on the shapes!
+    &lt;/p&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      Optional assemblies (if time permits)
     &lt;/p&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       2. Assemble a square structure.
@@ -197,7 +201,8 @@
     &lt;/p&gt;
     &lt;p style=&quot;margin-top: 0&quot;&gt;
       When finished, place a snapshot of your structure the boxes below the 
-      simulation box. Each simulation should take 30sec - 1min to assemble.
+      simulation box. Each simulation should take 30sec - 1min to assemble. 
+      There are three snapshot submission boxes but only one is required.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -232,19 +237,24 @@
       &lt;/li&gt;
       &lt;li&gt;
         Using the move tool (&lt;img src=&quot;../Images_GIFs/move_tool.png&quot;&gt;), drag 
-        the molecules you&apos;ll need out of their boxes and into the larger simulation space.
+        the molecules you&apos;ll need out of their boxes and into the larger 
+        simulation space.
       &lt;/li&gt;
       &lt;li&gt;
         Using the charge tools (&lt;img src=&quot;../Images_GIFs/pos_charge_tool.png&quot;&gt; 
         and &lt;img src=&quot;../Images_GIFs/neg_charge_tool.png&quot;&gt;), add charges 
         around the edges of the molecules. (Tip: If the charges will be the 
         same for a shape. Sometimes it is easier to add the charges before 
-        duplicating them. Also, you can double click the charge 
-        icons so that they add charge in increments of 0.5 instead of 0.1.)
+        duplicating them. Also, you can double click the charge icons so that 
+        they add charge in increments of 0.5 instead of 0.1.)
       &lt;/li&gt;
       &lt;li&gt;
         Using the duplicate tool (&lt;img src=&quot;../Images_GIFs/duplicate_tool.png&quot;&gt;), 
         make several copies of each molecule.
+      &lt;/li&gt;
+      &lt;li&gt;
+        You can delete and object by using the move tool to select an object 
+        and pressing backspace or delete key on your keyboard.
       &lt;/li&gt;
       &lt;li&gt;
         You can control the temperature of you simulation with the temperature 
@@ -266,7 +276,7 @@
 
 <content start="36" end="37">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Analysis_p1$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Duplicate Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button></component></content>
+<resource>Analysis_p1$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Duplicate Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Rotate Object</button></component></content>
 
 <content start="37" end="38">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageSlider</class>

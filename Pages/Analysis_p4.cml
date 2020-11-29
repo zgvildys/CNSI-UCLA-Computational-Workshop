@@ -17,6 +17,10 @@
  
 
  
+       
+
+
+ 
 
  
 
@@ -35,7 +39,7 @@
 &lt;- Prev	TOC
 
 </text>
-<section start="0" end="65">
+<section start="0" end="77">
 <paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <content start="0" end="1">
@@ -158,8 +162,8 @@
       assemble the same shape around a larger cargo. We can make the 
       connection to how icosahedral viruses have the same shape and rougly the 
       same monomer sizes (capsid proteins being around the same size across 
-      all spherical viruses), but can be tens to hundres of nanometers in 
-      diameter.
+      all spherical viruses), but can be tens to hundreds of nanometers 
+      different in diameter.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -219,7 +223,7 @@
 <content start="26" end="27">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>110.0</height>
+<height>300.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -233,6 +237,24 @@
       use on this page and has already been placed on the monomers. The 
       simulations may take a little longer since the system is bigger.
     &lt;/p&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      You can investigate by either the of the following:
+    &lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;
+        Place the different monomers and charges yourself that correspond to 
+        the different different assembly scenarios above.
+      &lt;/li&gt;
+      &lt;li&gt;
+        Press the buttons below that correspond to initial conditions for the 
+        different assembly scenarios.
+      &lt;/li&gt;
+    &lt;/ol&gt;
+    Note: The rectangular monomers on the left side are organized top to 
+    bottom by smallest to largest. The smallest one corresponds to the same 
+    size as the monomer used on the assembly from the previous page. The 
+    medium and large sized rectangular monomers are both larger than the 
+    previous page. Only one of these sizes will assemble.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -243,31 +265,89 @@
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="28" end="29">
+<paragraph start="28" end="36">
 <Alignment>1</Alignment>
 <content start="28" end="29">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>Increase number of T-shaped monomers</title>
+<border>Line</border>
+<script>script:mw2d:1:load ../models/larger cargo increase T.mml; </script>
+<action>Script</action></component></content>
+
+<content start="29" end="31">
+</content>
+
+<content start="31" end="32">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>Increase number of rectangular monomers</title>
+<border>Line</border>
+<script>script:mw2d:1:load ../models/larger cargo increase rectangle.mml; </script>
+<action>Script</action></component></content>
+
+<content start="32" end="34">
+</content>
+
+<content start="34" end="35">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>Increase length of rectangular monomers monomers</title>
+<border>Line</border>
+<script>script:mw2d:1:load ../models/larger cargo correct.mml; </script>
+<action>Script</action></component></content>
+
+<content start="35" end="36">
+</content>
+
+</paragraph>
+<paragraph start="36" end="37">
+<Alignment>1</Alignment>
+<content start="36" end="37">
+</content>
+
+</paragraph>
+<paragraph start="37" end="38">
+<Alignment>1</Alignment>
+<content start="37" end="38">
+</content>
+
+</paragraph>
+<paragraph start="38" end="40">
+<Alignment>1</Alignment>
+<content start="38" end="39">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>Original</title>
+<border>Line</border>
+<script>script:mw2d:1:load ../models/larger cargo original.mml; </script>
+<action>Script</action></component></content>
+
+<content start="39" end="40">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="29" end="31">
+<paragraph start="40" end="41">
 <Alignment>1</Alignment>
-<content start="29" end="30">
+<content start="40" end="41">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="41" end="43">
+<Alignment>1</Alignment>
+<content start="41" end="42">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
 <resource>Analysis_p4$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Rotate Object</button><button>Duplicate Object</button></component></content>
 
-<content start="30" end="31">
+<content start="42" end="43">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="31" end="32">
+<paragraph start="43" end="44">
 <Alignment>1</Alignment>
-<content start="31" end="32">
+<content start="43" end="44">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="32" end="34">
+<paragraph start="44" end="46">
 <Alignment>1</Alignment>
-<content start="32" end="33">
+<content start="44" end="45">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
   &lt;head&gt;
     
@@ -280,19 +360,19 @@
 <border>Line</border>
 </component></content>
 
-<content start="33" end="34">
+<content start="45" end="46">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="34" end="35">
+<paragraph start="46" end="47">
 <Alignment>1</Alignment>
-<content start="34" end="35">
+<content start="46" end="47">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="35" end="37">
+<paragraph start="47" end="49">
 <Alignment>1</Alignment>
-<content start="35" end="36">
+<content start="47" end="48">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>60.0</height>
@@ -312,19 +392,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="36" end="37">
+<content start="48" end="49">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="37" end="38">
+<paragraph start="49" end="50">
 <Alignment>1</Alignment>
-<content start="37" end="38">
+<content start="49" end="50">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="38" end="40">
+<paragraph start="50" end="52">
 <Alignment>1</Alignment>
-<content start="38" end="39">
+<content start="50" end="51">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
 <height>200</height>
@@ -344,19 +424,19 @@
 <border>Line</border>
 </component></content>
 
-<content start="39" end="40">
+<content start="51" end="52">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="40" end="41">
+<paragraph start="52" end="53">
 <Alignment>1</Alignment>
-<content start="40" end="41">
+<content start="52" end="53">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="41" end="43">
+<paragraph start="53" end="55">
 <Alignment>1</Alignment>
-<content start="41" end="42">
+<content start="53" end="54">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
 <height>200</height>
@@ -375,13 +455,13 @@
 <border>Line</border>
 </component></content>
 
-<content start="42" end="43">
+<content start="54" end="55">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="43" end="45">
+<paragraph start="55" end="57">
 <Alignment>1</Alignment>
-<content start="43" end="44">
+<content start="55" end="56">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
 <height>60.0</height>
@@ -401,19 +481,19 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="44" end="45">
+<content start="56" end="57">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="45" end="46">
+<paragraph start="57" end="58">
 <Alignment>1</Alignment>
-<content start="45" end="46">
+<content start="57" end="58">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="46" end="48">
+<paragraph start="58" end="60">
 <Alignment>1</Alignment>
-<content start="46" end="47">
+<content start="58" end="59">
 <component><class>org.concord.modeler.ActivityButton</class>
 <title>Create a report for module 2</title>
 <tooltip>Create a report for module 2</tooltip>
@@ -423,13 +503,13 @@
 <opaque>false</opaque>
 <action>Create a report for a page group in a new window</action></component></content>
 
-<content start="47" end="48">
+<content start="59" end="60">
 </content>
 
 </paragraph>
-<paragraph start="48" end="50">
+<paragraph start="60" end="62">
 <Alignment>1</Alignment>
-<content start="48" end="49">
+<content start="60" end="61">
 <component><class>org.concord.modeler.ActivityButton</class>
 <title>Create a report for entire lab</title>
 <tooltip>Create a report for entire lab</tooltip>
@@ -439,37 +519,37 @@
 <opaque>false</opaque>
 <action>Create a report for a page group in a new window</action></component></content>
 
-<content start="49" end="50">
+<content start="61" end="62">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="50" end="51">
+<paragraph start="62" end="63">
 <Alignment>1</Alignment>
-<content start="50" end="51">
-<size>16</size><family>Times New Roman</family></content>
-
-</paragraph>
-<paragraph start="51" end="63">
-<Alignment>1</Alignment>
-<content start="51" end="58">
-<size>16</size><family>Times New Roman</family><href>Analysis_p3.cml</href></content>
-
-<content start="58" end="59">
-<size>16</size><family>Times New Roman</family></content>
-
-<content start="59" end="62">
-<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
-
 <content start="62" end="63">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="63" end="64">
-<content start="63" end="64">
+<paragraph start="63" end="75">
+<Alignment>1</Alignment>
+<content start="63" end="70">
+<size>16</size><family>Times New Roman</family><href>Analysis_p3.cml</href></content>
+
+<content start="70" end="71">
+<size>16</size><family>Times New Roman</family></content>
+
+<content start="71" end="74">
+<size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
+
+<content start="74" end="75">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="64" end="65">
+<paragraph start="75" end="76">
+<content start="75" end="76">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="76" end="77">
 </paragraph>
 </section>
 </document>
