@@ -201,8 +201,8 @@
     &lt;p style=&quot;margin-top: 5&quot;&gt;
       Once you have determined roughly the number of each of the subunits, 
       then you will need to place the charges on assembly units. Below are 
-      three charge configurations to try out. Think about what interactions 
-      are important for the capsid to assemble around the cargo. The icons in 
+      three charge configurations to consider. Think about what interactions 
+      are important for the capsid to assemble around the cargo then choose one charge configuration to run simulations with. The icons in 
       the simulation box are similar to the ones you have used in previous 
       pages. To get a robust assembly, &lt;u&gt;make the charge magnitudes around 
       +/- 0.5 to +/- 1&lt;/u&gt;. The assembly should take around 30 seconds to 1 
@@ -210,7 +210,8 @@
       it is moving away from assembling, restart the simulation. The magnitude 
       in the charges below are 0.7 on the tips of the T-shaped monomers, 1.2 
       on the rectangular monomers and 1 on the grooves of the T-shaped 
-      monomers.&lt;b&gt; For the sake of time, only give assembly three attempts&lt;/b&gt;. 
+      monomers, except for the third configuration where the charges in the grooves are (-1,-1) or (-1,-0.5,-1) if there are two or three sets of charges, respectively.
+ .&lt;b&gt; For the sake of time, give assembly only three attempts&lt;/b&gt;. 
       Take a snapshot after each attempt and then submit your best attempt to 
       the first snapshot submission box below the simulation box.
     &lt;/p&gt;
