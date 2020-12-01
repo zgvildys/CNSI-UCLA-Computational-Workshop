@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<java version="1.8.0_251" class="java.beans.XMLDecoder">
+<java version="1.8.0_271" class="java.beans.XMLDecoder">
  <object class="org.concord.mw2d.models.Element" id="Element0">
   <void property="mass">
    <double>0.16666666666666666</double>
@@ -317,6 +317,13 @@
     </void>
    </object>
   </void>
+  <void property="heatBath">
+   <object class="org.concord.mw2d.models.HeatBath">
+    <void property="expectedTemperature">
+     <double>3000.0</double>
+    </void>
+   </object>
+  </void>
   <void property="lightSource">
    <object class="org.concord.mw2d.models.LightSource"/>
   </void>
@@ -327,7 +334,7 @@
    <void method="put">
     <string>date</string>
     <object class="java.util.Date">
-     <long>1604792334523</long>
+     <long>1606844340000</long>
     </object>
    </void>
    <void method="put">
@@ -336,15 +343,15 @@
    </void>
    <void method="put">
     <string>size</string>
-    <long>20815</long>
+    <long>21004</long>
    </void>
    <void method="put">
     <string>codebase</string>
-    <string>C:\Molecular Workbench\CNSI-UCLA-Computational-Workshop-master\Pages</string>
+    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master/Pages</string>
    </void>
    <void method="put">
     <string>url</string>
-    <string>C:\Molecular Workbench\CNSI-UCLA-Computational-Workshop-master\Pages\Forces_p3$1.mml</string>
+    <string>/Users/patriciapoths/Desktop/CNSI-UCLA-Computational-Workshop-master/Pages/Forces_p3$1.mml</string>
    </void>
   </void>
   <void property="quantumRule">
@@ -408,10 +415,10 @@
    <double>85.0626637107613</double>
   </void>
   <void property="vx">
-   <double>7.405605596232964E-4</double>
+   <double>0.027441831396878617</double>
   </void>
   <void property="vy">
-   <double>5.433968110226344E-4</double>
+   <double>0.020135832884848586</double>
   </void>
  </object>
  <object class="org.concord.mw2d.models.Atom">
@@ -428,10 +435,10 @@
    <double>85.06532038079268</double>
   </void>
   <void property="vx">
-   <double>6.931719819937389E-5</double>
+   <double>0.0025685824625319375</double>
   </void>
   <void property="vy">
-   <double>4.0197396779776735E-4</double>
+   <double>0.014895340707654988</double>
   </void>
  </object>
  <object class="org.concord.mw2d.models.Atom">
@@ -448,10 +455,10 @@
    <double>85.06269769988452</double>
   </void>
   <void property="vx">
-   <double>-8.42702799516644E-4</double>
+   <double>-0.031226761730028644</double>
   </void>
   <void property="vy">
-   <double>4.244176164154088E-4</double>
+   <double>0.015727001013207034</double>
   </void>
  </object>
  <object class="org.concord.mw2d.models.Atom">
@@ -468,10 +475,10 @@
    <double>99.0</double>
   </void>
   <void property="vx">
-   <double>-6.817311790340512E-4</double>
+   <double>-0.025261880112227346</double>
   </void>
   <void property="vy">
-   <double>1.518715387704928E-20</double>
+   <double>5.627673667963552E-19</double>
   </void>
  </object>
  <object class="org.concord.mw2d.models.Atom">
@@ -488,10 +495,10 @@
    <double>112.93730230011548</double>
   </void>
   <void property="vx">
-   <double>-8.427027995166435E-4</double>
+   <double>-0.031226761730028623</double>
   </void>
   <void property="vy">
-   <double>-4.244176164154095E-4</double>
+   <double>-0.01572700101320706</double>
   </void>
  </object>
  <object class="org.concord.mw2d.models.Atom">
@@ -508,10 +515,10 @@
    <double>112.93467961920732</double>
   </void>
   <void property="vx">
-   <double>6.93171981993736E-5</double>
+   <double>0.002568582462531926</double>
   </void>
   <void property="vy">
-   <double>-4.019739677977679E-4</double>
+   <double>-0.014895340707655007</double>
   </void>
  </object>
  <object class="org.concord.mw2d.models.Atom">
@@ -528,10 +535,10 @@
    <double>112.9373362892387</double>
   </void>
   <void property="vx">
-   <double>7.405605596232967E-4</double>
+   <double>0.027441831396878627</double>
   </void>
   <void property="vy">
-   <double>-5.433968110226341E-4</double>
+   <double>-0.020135832884848576</double>
   </void>
  </object>
  <object class="org.concord.mw2d.models.Atom">
@@ -548,10 +555,10 @@
    <double>99.0</double>
   </void>
   <void property="vx">
-   <double>7.473812624219949E-4</double>
+   <double>0.027694575853463386</double>
   </void>
   <void property="vy">
-   <double>-9.156048296202692E-20</double>
+   <double>-3.392818188074729E-18</double>
   </void>
  </object>
  <object class="org.concord.mw2d.models.MolecularModel$State">

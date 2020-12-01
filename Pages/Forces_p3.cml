@@ -37,13 +37,16 @@
  
 
  
+  
+
+ 
 
  
 
 &lt;- Prev	TOC	Next -&gt;
 
 </text>
-<section start="0" end="94">
+<section start="0" end="100">
 <paragraph start="0" end="3">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
@@ -266,13 +269,13 @@
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    This equation shows that there is a force F acting between two charges, 
-    represented by &lt;b&gt;q1&lt;/b&gt; and &lt;b&gt;q2&lt;/b&gt;. The distance between these charges 
-    is &lt;b&gt;r&lt;/b&gt; and &lt;b&gt;k&lt;/b&gt; is a known constant that was determined 
-    experimentally. If they have the same sign, then the force is positive, 
-    which means they are pushing each other apart. If they have opposite 
-    signs, then the force is negative, meaning that the two charges are 
-    pulling themselves together.
+    This equation shows that there is a force &lt;b&gt;F&lt;/b&gt; acting between two 
+    charges, represented by &lt;b&gt;q1&lt;/b&gt; and &lt;b&gt;q2&lt;/b&gt;. The distance between 
+    these charges is &lt;b&gt;r&lt;/b&gt; and &lt;b&gt;k&lt;/b&gt; is a known constant that was 
+    determined experimentally. If they have the same sign, then the force is 
+    positive, which means they are pushing each other apart. If they have 
+    opposite signs, then the force is negative, meaning that the two charges 
+    are pulling themselves together.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -451,7 +454,7 @@
 <content start="57" end="58">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>250.0</height>
+<height>270.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -460,14 +463,14 @@
     In the simulation box below, try simulating many molecules with regions of 
     positive and negative charge but starting with a neutral square molecule. 
     Instructions for adding/removing charges and other useful model functions 
-    are below. Try doing negative charges along one side, and positive charges 
-    on the other, or try giving the corners one charge, and the sides the 
-    other charge. You can also try duplicating the molecule without any charge 
-    to produce two molecules, then give one molecule one charge, and the other 
-    molecule the opposite charge, then make copies of both of them. You can 
-    even try making multiple molecules each with different charge locations. 
-    What happens with all these different cases? Remember, proteins are just 
-    very big molecules, and they have different regions that can have 
+    are below. Try placing negative charges along one side, and positive 
+    charges on the other, or try giving the corners one charge, and the sides 
+    the other charge. You can also try duplicating the molecule without any 
+    charge to produce two molecules, then give one molecule one charge, and 
+    the other molecule the opposite charge, then make copies of both of them. 
+    You can even try making multiple molecules each with different charge 
+    locations. What happens with all these different cases? Remember, proteins 
+    are just very big molecules, and they have different regions that can have 
     different charge.
 
     &lt;p&gt;
@@ -475,7 +478,9 @@
       charge compositions. You can either reset totally to the beginning by 
       pressing the reset button, or you can use the remove tool to remove all 
       but one molecule and change the charges on that one before starting 
-      again.
+      again. Also be aware that you should not fill the box with too many 
+      molecules, otherwise you won&apos;t be able to clearly see the effect of the 
+      different charge configurations.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -493,7 +498,7 @@
 <content start="59" end="60">
 <component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>250.0</height>
+<height>280.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -504,8 +509,9 @@
         Using the add/remove charge(&lt;img src=&quot;../Images_GIFs/pos_charge_tool.png&quot;&gt;/&lt;img src=&quot;../Images_GIFs/neg_charge_tool.png&quot;&gt;) 
         create regions of positive and negative charge within the square 
         molecule. It may be easier to add/remove charges by first 
-        right-clicking the molecule then selecting &amp;quot;Show Sites.&amp;quot; You will want 
-        to start with +/- 0.5 and adjust the magnitudes from there.
+        right-clicking the molecule then selecting &amp;quot;Show Sites.&amp;quot; Ensure the 
+        magnitudes of the charges applied are at least +/- 0.5, but are 
+        preferable around +/- 1 for the strongest effect.
       &lt;/li&gt;
       &lt;li&gt;
         Using the duplicate tool (&lt;img src=&quot;../Images_GIFs/duplicate_tool.png&quot;&gt;), 
@@ -572,6 +578,71 @@
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
 <content start="66" end="67">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>400.0</width>
+<height>80.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style=&quot;margin-top: 0&quot;&gt;
+      Select two different types of charge configurations that you&apos;ve created, 
+      and screenshot the end result - be sure to wait long enough for the 
+      system to settle.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="67" end="68">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="68" end="71">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="68" end="69">
+<component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Attempt 1
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+</component></content>
+
+<content start="69" end="70">
+<component><class>org.concord.modeler.ImageQuestion</class><width>400</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    Attempt 2
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+</component></content>
+
+<content start="70" end="71">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="71" end="72">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="71" end="72">
+<size>16</size><family>Times New Roman</family></content>
+
+</paragraph>
+<paragraph start="72" end="74">
+<Alignment>1</Alignment>
+<LeftIndent>40.0</LeftIndent>
+<content start="72" end="73">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextArea</class>
 <width>400</width>
 <height>200</height>
@@ -580,9 +651,8 @@
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    Make a few molecules that have opposite charges in a number of different 
-    places. Does this change how the molecules behave? Why do you think that 
-    is?
+    Now describe why you think you got different or similar end results with 
+    the different charge locations for each attempt.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -590,24 +660,24 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="67" end="68">
+<content start="73" end="74">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="68" end="69">
+<paragraph start="74" end="75">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="68" end="69">
+<content start="74" end="75">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="69" end="71">
+<paragraph start="75" end="77">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="69" end="70">
+<content start="75" end="76">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>60.0</height>
+<height>80.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -622,45 +692,45 @@
 <opaque>false</opaque>
 </component></content>
 
-<content start="70" end="71">
+<content start="76" end="77">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="71" end="72">
+<paragraph start="77" end="78">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="71" end="72">
+<content start="77" end="78">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="72" end="92">
+<paragraph start="78" end="98">
 <Alignment>1</Alignment>
 <LeftIndent>40.0</LeftIndent>
-<content start="72" end="79">
+<content start="78" end="85">
 <size>16</size><family>Times New Roman</family><href>Forces_p2.cml</href></content>
 
-<content start="79" end="80">
+<content start="85" end="86">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="80" end="83">
+<content start="86" end="89">
 <size>16</size><family>Times New Roman</family><href>../Pages/Table_of_Contents.cml</href></content>
 
-<content start="83" end="84">
+<content start="89" end="90">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="84" end="91">
+<content start="90" end="97">
 <size>16</size><family>Times New Roman</family><href>Temp_p1.cml</href></content>
 
-<content start="91" end="92">
+<content start="97" end="98">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="92" end="93">
-<content start="92" end="93">
+<paragraph start="98" end="99">
+<content start="98" end="99">
 <size>16</size><family>Times New Roman</family></content>
 
 </paragraph>
-<paragraph start="93" end="94">
+<paragraph start="99" end="100">
 </paragraph>
 </section>
 </document>

@@ -181,7 +181,7 @@ TOC	Next -&gt;
 <LeftIndent>60.0</LeftIndent>
 <content start="23" end="24">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_P1$0.mml</resource><menubar>false</menubar><button>Change Velocity</button></component></content>
+<resource>Forces_p1$0.mml</resource><menubar>false</menubar></component></content>
 
 <content start="24" end="25">
 <size>16</size><family>Times New Roman</family></content>
@@ -343,9 +343,9 @@ TOC	Next -&gt;
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     Now press play. Does the particle motion look much more chaotic and 
-    random? Follow the trajectory of the grey atom, which is the dotted line 
-    following the atom. Wait a little bit, then pause the system, and look at 
-    the path of the trajectory.
+    random? Follow the trajectory of the randomly-selected atom, which is the 
+    dotted line following the atom. Wait a little bit, then pause the system, 
+    and look at the path of the trajectory.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -368,7 +368,7 @@ TOC	Next -&gt;
 <LeftIndent>60.0</LeftIndent>
 <content start="41" end="42">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.mw2d.activity.AtomContainer</class>
-<resource>Forces_P1$1.mml</resource><menubar>false</menubar><button>Mark Object</button><button>Toggle Trajectory</button></component></content>
+<resource>Forces_p1$1.mml</resource></component></content>
 
 <content start="42" end="43">
 <size>16</size><family>Times New Roman</family></content>

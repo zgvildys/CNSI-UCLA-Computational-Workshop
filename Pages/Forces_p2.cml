@@ -109,10 +109,7 @@
 <content start="6" end="7">
 <size>16</size><family>Times New Roman</family></content>
 
-<content start="7" end="10">
-<size>16</size><family>Times New Roman</family><href>Forces_p1.cml</href></content>
-
-<content start="10" end="14">
+<content start="7" end="14">
 <size>16</size><family>Times New Roman</family><href>Forces_p1.cml</href></content>
 
 <content start="14" end="15">
@@ -144,7 +141,7 @@
 <content start="28" end="29">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>140.0</height>
+<height>170.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -157,10 +154,11 @@
     the molecules aren&apos;t the same. Viral assembly involves the much larger 
     protein molecules, and much smaller water molecules that the proteins 
     molecules are dissolved in. Now, when a water molecule hits the larger 
-    protein, there is much less movement because of the mass difference. This 
-    leads to less overall motion of the protein as a result of the collision, 
-    but also to a much more random trajectory. Press play on the box below to 
-    see this in action!
+    protein, there is much less movement because of the mass difference- think 
+    of it like trying to move a bowling ball with a marble. This leads to less 
+    overall motion of the protein as a result of the collision, but also to a 
+    much more random trajectory. Press play on the box below to see this in 
+    action!
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -202,7 +200,7 @@
 <content start="34" end="35">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextBox</class>
 <width>800.0</width>
-<height>90.0</height>
+<height>190.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -215,6 +213,14 @@
     unlike in the previous page, there are so many collisions that the protein 
     can&apos;t travel very far in a straight line before it collides with something 
     else.
+
+    &lt;p&gt;
+      Note that in the above simulation we showed you all the water molecules 
+      explicitly in the simulation box. That is not required for all 
+      simulations- for many of the coming simulations boxes, we haven&apos;t shown 
+      water explicitly. That&apos;s a simplification that can be used to make 
+      simulations easier to run.
+    &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
