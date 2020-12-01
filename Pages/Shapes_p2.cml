@@ -291,7 +291,7 @@
 <content start="39" end="40">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
-<height>100</height>
+<height>125</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;ShapesQ2&lt;/title&gt;
@@ -300,7 +300,10 @@
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
     After playing around with various amounts of T-shaped to rod-shaped 
     monomers and their initial configurations, what other structures do these 
-    monomers form?
+    monomers form? &lt;b&gt;Note: &lt;/b&gt;There are many initial conditions to try and 
+    you can easily spend too much time running as many conditions as possible. 
+    Instead, try to run no more than 5 simulations and with those simulations 
+    try to form 2 structures that are not rings.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -329,9 +332,11 @@
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    What happens when the ratio of T-shaped monomers to rod-shaped monomers is 
-    N:(2N+1)? For example, if you have 4 T-shaped monomers, you would need 9 
-    rod-shaped monomers.
+    &lt;b&gt;If you have spent more than 10 minutes on this page, move onto the next 
+    page and return to this question at a later time. &lt;/b&gt;What happens when 
+    the ratio of T-shaped monomers to rod-shaped monomers is N:(2N+1)? For 
+    example, if you have 4 T-shaped monomers, you would need 9 rod-shaped 
+    monomers.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
@@ -353,17 +358,19 @@
 <content start="45" end="46">
 <size>16</size><family>Times New Roman</family><component><class>org.concord.modeler.PageTextField</class>
 <width>800</width>
-<height>150</height>
+<height>175</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;ShapesQ4&lt;/title&gt;
     
   &lt;/head&gt;
   &lt;body face=&quot;verdana&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
-    Without running a simulation, what do you think will happen at higher 
-    ratios of rod-shaped monomers to T-shaped monomers? For example, running 
-    with 12 rod-shaped monomers and 3 T-shaped monomers? After answering, you 
-    can check your intuition by performing the simulation.
+    &lt;b&gt;If you have spent more than 10 minutes on this page, move onto the next 
+    page and return to this question at a later time. &lt;/b&gt;Without running a 
+    simulation, what do you think will happen at higher ratios of rod-shaped 
+    monomers to T-shaped monomers? For example, running with 12 rod-shaped 
+    monomers and 3 T-shaped monomers? After answering, you can check your 
+    intuition by performing the simulation.
   &lt;/body&gt;
 &lt;/html&gt;
 </title>
