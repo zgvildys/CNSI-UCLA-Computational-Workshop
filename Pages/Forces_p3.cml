@@ -579,8 +579,8 @@
 <LeftIndent>40.0</LeftIndent>
 <content start="66" end="67">
 <component><class>org.concord.modeler.PageTextBox</class>
-<width>400.0</width>
-<height>80.0</height>
+<width>600.0</width>
+<height>120.0</height>
 <title>&lt;html&gt;
   &lt;head&gt;
     
@@ -590,6 +590,11 @@
       Select two different types of charge configurations that you&apos;ve created, 
       and screenshot the end result - be sure to wait long enough for the 
       system to settle.
+    &lt;/p&gt;
+    &lt;p&gt;
+      To take a screenshot, right-click on the model box and select &lt;img src=&quot;../Images_GIFs/snapshot.png&quot;&gt;. 
+      Then go to the boxes below, click &amp;quot;open&amp;quot;, and select the screenshot you 
+      want.
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
